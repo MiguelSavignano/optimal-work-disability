@@ -1,7 +1,7 @@
 import sys
 sys.path.insert(0, './')
 from lib import calculator
-from lib import coefficients_repository as repo
+from lib import data_repository as repo
 
 def run(code, age_rage, gender, ocupation_code, second_code):
     standar_time    = repo.optime_time_value(code)
