@@ -1,5 +1,17 @@
 import pandas as pd
 
+def all_diseases():
+    return pd.read_csv("data/TE por DIAGNÓSTICO.csv").to_json(orient='records')
+
+def all_age_rage():
+    return [{"name": "16-25"}, {"name": "26-35"}, {"name": "36-45"}, {"name": "46-55"}, {"name": "56-65"}]
+
+def all_gender_rage():
+    return [{"name": "hombre"}, {"name": "mujer"}]
+
+def all_ocupation():
+    return pd.read_csv("Ocupación Laboral.csv").to_json(orient='records')
+
 def optime_time_value(code=""):
     df = pd.read_csv("data/TE por DIAGNÓSTICO.csv")
     time = df[df["CÓDIGO "] == code].head(1).iloc[0][4]
