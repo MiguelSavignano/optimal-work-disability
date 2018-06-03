@@ -33,8 +33,8 @@ def comorbidity_value(first_code="", second_code=""):
 def __supecode__(code):
     return code.split(".")[0]
 
-print(optime_time_value("I21.1"))
-print(age_value("I21.1", "26-35"))
-print(gender_value("I21.1", "hombre"))
-print(ocupation_value("I21.1", "11"))
-print(comorbidity_value("I21.1", "E11"))
+# print(optime_time_value("I21.1"))
+# print(age_value("I21.1", "26-35"))
+# print(gender_value("I21.1", "hombre"))
+# print(ocupation_value("I21.1", "11"))
+# print(comorbidity_value("I21.1", "E11"))
