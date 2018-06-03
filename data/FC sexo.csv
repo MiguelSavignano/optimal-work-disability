@@ -1,0 +1,1889 @@
+CÓDIGO,DESCRIPCIÓN,SEXO,RATIO
+A00,Cólera,hombre,1.4
+A00,Cólera,mujer,0.73
+A01,Fiebres tifoidea y paratifoidea,hombre,0.85
+A01,Fiebres tifoidea y paratifoidea,mujer,1.14
+A02,Otras infecciones debidas a Salmonella,hombre,1.08
+A02,Otras infecciones debidas a Salmonella,mujer,0.91
+A03,Shigelosis,mujer,0.52
+A04,Otras infecciones intestinales bacterianas,hombre,0.94
+A04,Otras infecciones intestinales bacterianas,mujer,1.05
+A05,"Otras intoxicaciones alimentarias bacterianas, no clasificadas bajo otro concepto",hombre,0.88
+A05,"Otras intoxicaciones alimentarias bacterianas, no clasificadas bajo otro concepto",mujer,1.1
+A06,Amebiasis,hombre,1.04
+A06,Amebiasis,mujer,0.96
+A07,Otras enfermedades intestinales debidas a protozoos,hombre,0.93
+A07,Otras enfermedades intestinales debidas a protozoos,mujer,1.08
+A08,Infecciones intestinales debidas a virus y otros organismos especificados,hombre,0.94
+A08,Infecciones intestinales debidas a virus y otros organismos especificados,mujer,1.05
+A09,"Gastroenteritis y colitis infecciosas, no especificadas",hombre,0.93
+A09,"Gastroenteritis y colitis infecciosas, no especificadas",mujer,1.06
+A15,Tuberculosis respiratoria,hombre,1.01
+A15,Tuberculosis respiratoria,mujer,0.98
+A17,Tuberculosis del sistema nervioso,hombre,1.03
+A18,Tuberculosis de otros órganos,hombre,1.06
+A18,Tuberculosis de otros órganos,mujer,0.96
+A19,Tuberculosis miliar,hombre,1.21
+A22,Carbunco [ántrax],hombre,1.08
+A22,Carbunco [ántrax],mujer,0.89
+A23,Brucelosis,hombre,1.07
+A23,Brucelosis,mujer,0.85
+A25,Fiebres por mordedura de rata,hombre,1.16
+A25,Fiebres por mordedura de rata,mujer,0.82
+A27,Leptospirosis,hombre,1.02
+A27,Leptospirosis,mujer,0.98
+A28,"Otras enfermedades bacterianas zoonóticas, no clasificadas bajo otro concepto",hombre,1.29
+A28,"Otras enfermedades bacterianas zoonóticas, no clasificadas bajo otro concepto",mujer,0.83
+A31,Infecciones debidas a otras micobacterias,mujer,0.73
+A37,Tos ferina,hombre,0.95
+A37,Tos ferina,mujer,1.02
+A38,Escarlatina,hombre,0.94
+A38,Escarlatina,mujer,1.05
+A39,Infección meningocócica,hombre,0.8
+A39,Infección meningocócica,mujer,1.24
+A41,Otras sepsis,hombre,1.02
+A41,Otras sepsis,mujer,0.97
+A44,Bartonelosis,mujer,0.85
+A46,Erisipela,hombre,1.04
+A46,Erisipela,mujer,0.95
+A48,"Otras enfermedades bacterianas, no clasificadas bajo otro concepto",hombre,1.11
+A48,"Otras enfermedades bacterianas, no clasificadas bajo otro concepto",mujer,0.89
+A49,Infección bacteriana de localización no especificada,hombre,1.27
+A49,Infección bacteriana de localización no especificada,mujer,0.78
+A51,Sífilis precoz,hombre,1.16
+A52,Sífilis tardía,hombre,0.8
+A52,Sífilis tardía,mujer,1.3
+A54,Infección gonocócica,hombre,1.44
+A54,Infección gonocócica,mujer,0.68
+A56,Otras enfermedades de transmisión sexual debidas a clamidias,hombre,1.17
+A56,Otras enfermedades de transmisión sexual debidas a clamidias,mujer,0.71
+A60,Infección anogenital debida a virus del herpes [herpes simple],hombre,1.22
+A60,Infección anogenital debida a virus del herpes [herpes simple],mujer,0.88
+A63,"Otras enfermedades de transmisión predominantemente sexual, no clasificadas bajo otro concepto",hombre,1
+A63,"Otras enfermedades de transmisión predominantemente sexual, no clasificadas bajo otro concepto",mujer,1
+A66,Pian,hombre,1.07
+A66,Pian,mujer,0.93
+A68,Fiebre recidivante,hombre,0.97
+A68,Fiebre recidivante,mujer,1.04
+A69,Otras infecciones por espiroquetas,hombre,0.98
+A69,Otras infecciones por espiroquetas,mujer,1.02
+A70,Clamidia psittaci infecciones,hombre,0.98
+A70,Clamidia psittaci infecciones,mujer,1.01
+A74,Otras enfermedades causadas por clamidias,hombre,0.9
+A74,Otras enfermedades causadas por clamidias,mujer,1.08
+A77,Fiebre maculosa [rickettsiosis transmitida por garrapatas],hombre,1.3
+A77,Fiebre maculosa [rickettsiosis transmitida por garrapatas],mujer,0.47
+A78,Fiebre Q,hombre,1.09
+A78,Fiebre Q,mujer,0.85
+A79,Otras rickettsiosis,hombre,1.09
+A79,Otras rickettsiosis,mujer,0.85
+A81,Infecciones por virus atípico del sistema nervioso central,hombre,1.04
+A81,Infecciones por virus atípico del sistema nervioso central,mujer,0.97
+A83,Encefalitis viral transmitida por mosquitos,hombre,0.9
+A87,Meningitis viral,hombre,0.99
+A87,Meningitis viral,mujer,1.01
+A90,Fiebre del dengue [dengue clásico],hombre,1.08
+A90,Fiebre del dengue [dengue clásico],mujer,0.9
+A91,Fiebre del dengue hemorrágico,hombre,0.46
+A91,Fiebre del dengue hemorrágico,mujer,1.32
+A92,Otras fiebres virales transmitidas por mosquitos,hombre,0.46
+A92,Otras fiebres virales transmitidas por mosquitos,mujer,1.32
+A93,"Otras fiebres virales transmitidas por artrópodos, no clasificadas bajo otro concepto",hombre,0.97
+A93,"Otras fiebres virales transmitidas por artrópodos, no clasificadas bajo otro concepto",mujer,1.02
+A95,Fiebre amarilla,hombre,1.19
+A95,Fiebre amarilla,mujer,0.8
+A98,"Otras fiebres virales hemorrágicas, no clasificadas bajo otro concepto",hombre,0.46
+A98,"Otras fiebres virales hemorrágicas, no clasificadas bajo otro concepto",mujer,1.32
+B00,Infecciones por herpesvirus [herpes simple],hombre,1.22
+B00,Infecciones por herpesvirus [herpes simple],mujer,0.88
+B01,Varicela,hombre,0.99
+B01,Varicela,mujer,1.01
+B02,Herpes zóster,hombre,1
+B02,Herpes zóster,mujer,1
+B05,Sarampión,hombre,1.09
+B05,Sarampión,mujer,0.91
+B06,Rubeola [sarampión alemán],hombre,0.46
+B06,Rubeola [sarampión alemán],mujer,1.4
+B07,Verrugas víricas,hombre,1
+B07,Verrugas víricas,mujer,1
+B08,"Otras infecciones víricas caracterizadas por lesiones de la piel y de las mucosas, no clasificadas bajo otro concepto",hombre,0.99
+B08,"Otras infecciones víricas caracterizadas por lesiones de la piel y de las mucosas, no clasificadas bajo otro concepto",mujer,1.01
+B09,"Infección viral no especificada, caracterizada por lesiones de la piel y de las membranas mucosas",hombre,1.08
+B09,"Infección viral no especificada, caracterizada por lesiones de la piel y de las membranas mucosas",mujer,0.94
+B15,Hepatitis aguda tipo A,hombre,1.01
+B15,Hepatitis aguda tipo A,mujer,0.99
+B16,Hepatitis aguda tipo B,hombre,1.01
+B16,Hepatitis aguda tipo B,mujer,0.99
+B17,Otras hepatitis víricas agudas,hombre,1.01
+B17,Otras hepatitis víricas agudas,mujer,0.99
+B18,Hepatitis vírica crónica,hombre,1.01
+B18,Hepatitis vírica crónica,mujer,0.99
+B19,"Hepatitis vírica, no especificada",hombre,1.01
+B19,"Hepatitis vírica, no especificada",mujer,0.99
+B20,Enfermedad por virus de la inmunodeficiencia humana [VIH],hombre,0.98
+B20,Enfermedad por virus de la inmunodeficiencia humana [VIH],mujer,1.08
+B25,Enfermedad por citomegalovirus,hombre,1
+B25,Enfermedad por citomegalovirus,mujer,1
+B26,Parotiditis infecciosa,hombre,1.03
+B26,Parotiditis infecciosa,mujer,0.96
+B27,Mononucleosis infecciosa,hombre,0.98
+B27,Mononucleosis infecciosa,mujer,1.02
+B30,Conjuntivitis viral,hombre,0.9
+B30,Conjuntivitis viral,mujer,1.08
+B33,"Otras enfermedades virales, no clasificadas bajo otro concepto",hombre,0.86
+B33,"Otras enfermedades virales, no clasificadas bajo otro concepto",mujer,1.12
+B34,Infección viral de localización no especificada,hombre,0.93
+B34,Infección viral de localización no especificada,mujer,1.06
+B35,Dermatofitosis,hombre,0.91
+B35,Dermatofitosis,mujer,1.14
+B36,Otras micosis superficiales,hombre,0.87
+B36,Otras micosis superficiales,mujer,1.14
+B37,Candidiasis,hombre,1.28
+B37,Candidiasis,mujer,0.87
+B49,"Micosis, no especificadas",hombre,1.24
+B49,"Micosis, no especificadas",mujer,0.67
+B54,Paludismo [malaria] no especificado,hombre,0.85
+B54,Paludismo [malaria] no especificado,mujer,1.5
+B55,Leishmaniasis,hombre,0.88
+B55,Leishmaniasis,mujer,1.07
+B56,Tripanosomiasis africana,mujer,0.6
+B57,Enfermedad de Chagas,mujer,0.6
+B64,"Enfermedad debida a protozoos, no especificada",mujer,0.85
+B67,Equinococosis,hombre,1.28
+B67,Equinococosis,mujer,0.76
+B81,"Otras helmintiasis intestinales, no clasificadas bajo otro concepto",mujer,0.89
+B85,Pediculosis e infestación por piojos,mujer,0.66
+B86,Escabiosis,hombre,0.99
+B86,Escabiosis,mujer,1.01
+B89,"Enfermedad parasitaria, no especificada",hombre,0.99
+B89,"Enfermedad parasitaria, no especificada",mujer,1.01
+B90,Secuelas de tuberculosis,hombre,1.09
+B90,Secuelas de tuberculosis,mujer,0.9
+B91,Secuelas de poliomielitis,hombre,0.98
+B91,Secuelas de poliomielitis,mujer,1.02
+B96,Otros agentes bacterianos como causa de enfermedades clasificadas bajo otro concepto,hombre,1.27
+B96,Otros agentes bacterianos como causa de enfermedades clasificadas bajo otro concepto,mujer,0.78
+B97,Agentes virales como causa de enfermedades clasificadas bajo otro concepto,hombre,0.93
+B97,Agentes virales como causa de enfermedades clasificadas bajo otro concepto,mujer,1.06
+B99,Otras enfermedades infecciosas y las no especificadas,hombre,0.99
+B99,Otras enfermedades infecciosas y las no especificadas,mujer,1.01
+C00,Neoplasia maligna de labio,hombre,1.17
+C01,Neoplasia maligna de base de la lengua,hombre,1.01
+C01,Neoplasia maligna de base de la lengua,mujer,0.95
+C02,Neoplasia maligna de otras partes de la lengua y de las no especificadas,hombre,1.01
+C02,Neoplasia maligna de otras partes de la lengua y de las no especificadas,mujer,0.95
+C03,Neoplasia maligna de encía,hombre,1.19
+C03,Neoplasia maligna de encía,mujer,0.73
+C04,Neoplasia maligna de suelo de la boca,hombre,1.1
+C06,Neoplasia maligna de otras partes de la boca y las no especificadas,hombre,0.98
+C06,Neoplasia maligna de otras partes de la boca y las no especificadas,mujer,1.04
+C07,Neoplasia maligna de glándula parótida,hombre,0.93
+C07,Neoplasia maligna de glándula parótida,mujer,1.08
+C08,Neoplasia maligna de otras glándulas salivales mayores y las no especificadas,hombre,0.93
+C08,Neoplasia maligna de otras glándulas salivales mayores y las no especificadas,mujer,1.08
+C09,Neoplasia maligna de amígdala,hombre,0.98
+C10,Neoplasia maligna de orofaringe,hombre,0.98
+C11,Neoplasia maligna de nasofaringe,hombre,1.03
+C12,Neoplasia maligna de seno piriforme,hombre,0.96
+C13,Neoplasia maligna de hipofaringe,hombre,0.96
+C14,"Neoplasia maligna de otras localizaciones y las mal definidas en labio, cavidad oral y faringe",hombre,0.95
+C15,Neoplasia maligna de esófago,hombre,1
+C15,Neoplasia maligna de esófago,mujer,0.98
+C16,Neoplasia maligna de estómago,hombre,0.99
+C16,Neoplasia maligna de estómago,mujer,1.02
+C17,Neoplasia maligna de intestino delgado,hombre,0.88
+C17,Neoplasia maligna de intestino delgado,mujer,1.29
+C18,Neoplasia maligna de colon,hombre,0.97
+C18,Neoplasia maligna de colon,mujer,1.05
+C19,Neoplasia maligna de unión rectosigmoidea,hombre,0.97
+C19,Neoplasia maligna de unión rectosigmoidea,mujer,1.05
+C20,Neoplasia maligna de recto,hombre,0.97
+C20,Neoplasia maligna de recto,mujer,1.05
+C21,Neoplasia maligna de ano y canal anal,hombre,0.97
+C21,Neoplasia maligna de ano y canal anal,mujer,1.05
+C22,Neoplasia maligna de hígado y vías biliares intrahepáticas,hombre,0.96
+C22,Neoplasia maligna de hígado y vías biliares intrahepáticas,mujer,1.2
+C23,Neoplasia maligna de vesícula biliar,hombre,0.79
+C23,Neoplasia maligna de vesícula biliar,mujer,1.43
+C24,Neoplasia maligna de otras partes de tracto biliar y las no especificadas ,hombre,0.79
+C24,Neoplasia maligna de otras partes de tracto biliar y las no especificadas ,mujer,1.43
+C25,Neoplasia maligna de páncreas,hombre,0.97
+C25,Neoplasia maligna de páncreas,mujer,1.06
+C26,Neoplasia maligna de otros órganos digestivos y de los mal definidos,hombre,0.97
+C26,Neoplasia maligna de otros órganos digestivos y de los mal definidos,mujer,1.06
+C30,Neoplasia maligna de cavidad nasal y de oído medio,hombre,1.03
+C30,Neoplasia maligna de cavidad nasal y de oído medio,mujer,0.93
+C31,Neoplasia maligna de senos accesorios,hombre,1.03
+C31,Neoplasia maligna de senos accesorios,mujer,0.93
+C32,Neoplasia maligna de laringe,hombre,1
+C32,Neoplasia maligna de laringe,mujer,1.01
+C33,Neoplasia maligna de tráquea,hombre,0.96
+C33,Neoplasia maligna de tráquea,mujer,1.1
+C34,Neoplasia maligna de bronquio y pulmón,hombre,0.96
+C34,Neoplasia maligna de bronquio y pulmón,mujer,1.1
+C37,Neoplasia maligna de timo,hombre,1.05
+C38,"Neoplasia maligna de corazón, mediastino y pleura",hombre,1.05
+C40,Neoplasia maligna de hueso y de cartílago articular de extremidades,hombre,1.12
+C40,Neoplasia maligna de hueso y de cartílago articular de extremidades,mujer,0.85
+C41,Neoplasia maligna de hueso y de cartílago articular de otras localizaciones y las no especificadas,hombre,1.12
+C41,Neoplasia maligna de hueso y de cartílago articular de otras localizaciones y las no especificadas,mujer,0.85
+C43,Melanoma maligno de piel,hombre,1
+C43,Melanoma maligno de piel,mujer,1
+C44,Otras neoplasias malignas y las no especificadas de piel,hombre,1.08
+C44,Otras neoplasias malignas y las no especificadas de piel,mujer,0.92
+C46,Sarcoma de Kaposi,hombre,1.03
+C49,Neoplasia maligna de tejido conjuntivo y otros tejidos blandos,hombre,0.99
+C49,Neoplasia maligna de tejido conjuntivo y otros tejidos blandos,mujer,1.01
+C50,Neoplasia maligna de mama,mujer,1
+C51,Neoplasia maligna de vulva,mujer,1
+C52,Neoplasia maligna de vagina,mujer,1
+C53,Neoplasia maligna de cuello de útero,mujer,1
+C54,Neoplasia maligna de cuerpo de útero,mujer,1
+C56,Neoplasia maligna de ovario,mujer,1
+C57,Neoplasia maligna de otros órganos genitales femeninos y los no especificadas,mujer,1
+C60,Neoplasia maligna de pene,hombre,1
+C61,Neoplasia maligna de próstata,hombre,1
+C62,Neoplasia maligna de testículo,hombre,0.99
+C63,Neoplasia maligna de otros órganos genitales masculinos y los no especificados,hombre,1
+C65,Neoplasia maligna de pelvis renal,hombre,0.96
+C65,Neoplasia maligna de pelvis renal,mujer,1.13
+C66,Neoplasia maligna de uréter,hombre,0.96
+C66,Neoplasia maligna de uréter,mujer,1.13
+C67,Neoplasia maligna de vejiga,hombre,0.99
+C67,Neoplasia maligna de vejiga,mujer,1.03
+C68,Neoplasia maligna de otros órganos urinarios y los no especificados,hombre,0.96
+C68,Neoplasia maligna de otros órganos urinarios y los no especificados,mujer,1.13
+C69,Neoplasia maligna de ojo y sus anexos,hombre,1.03
+C69,Neoplasia maligna de ojo y sus anexos,mujer,0.97
+C70,Neoplasia maligna de meninges,hombre,1.06
+C70,Neoplasia maligna de meninges,mujer,0.96
+C71,Neoplasia maligna de cerebro,hombre,0.96
+C71,Neoplasia maligna de cerebro,mujer,1.08
+C72,"Neoplasia maligna de médula espinal, nervios craneales y otras partes de sistema nervioso central",hombre,1.06
+C72,"Neoplasia maligna de médula espinal, nervios craneales y otras partes de sistema nervioso central",mujer,0.96
+C73,Neoplasia maligna de glándula tiroides,hombre,0.96
+C73,Neoplasia maligna de glándula tiroides,mujer,1.01
+C74,Neoplasia maligna de glándula suprarrenal,hombre,0.98
+C74,Neoplasia maligna de glándula suprarrenal,mujer,1.03
+C75,Neoplasia maligna de otras glándulas endocrinas y estructuras relacionadas,hombre,0.98
+C75,Neoplasia maligna de otras glándulas endocrinas y estructuras relacionadas,mujer,1.03
+C76,Neoplasia maligna de otras localizaciones y las mal definidas,hombre,0.88
+C76,Neoplasia maligna de otras localizaciones y las mal definidas,mujer,1.1
+C78,Neoplasia maligna secundaria de órganos respiratorios y digestivos,hombre,0.88
+C78,Neoplasia maligna secundaria de órganos respiratorios y digestivos,mujer,1.15
+C81,Linfoma de Hodgkin,hombre,0.91
+C81,Linfoma de Hodgkin,mujer,1.13
+C82,Linfoma folicular,hombre,0.98
+C82,Linfoma folicular,mujer,1.03
+C83,Linfoma no folicular,hombre,1
+C83,Linfoma no folicular,mujer,1.01
+C84,Linfomas de células T/NK maduras,hombre,0.98
+C84,Linfomas de células T/NK maduras,mujer,1.03
+C85,Otros tipos de linfoma no Hodgkin y los no especificados,hombre,0.98
+C85,Otros tipos de linfoma no Hodgkin y los no especificados,mujer,1.03
+C90,Mieloma múltiple y tumores malignos de células plasmáticas,hombre,0.95
+C90,Mieloma múltiple y tumores malignos de células plasmáticas,mujer,1.09
+C91,Leucemia linfoide,hombre,0.94
+C91,Leucemia linfoide,mujer,1.13
+C92,Leucemia mieloide,hombre,1.04
+C92,Leucemia mieloide,mujer,0.95
+C94,Otras leucemias de tipo celular especificado,hombre,0.95
+C94,Otras leucemias de tipo celular especificado,mujer,1.14
+C95,Leucemia de células de tipo no especificado,hombre,0.95
+C95,Leucemia de células de tipo no especificado,mujer,1.09
+D00,"Carcinoma in situ de cavidad oral, esófago y estómago",hombre,0.95
+D00,"Carcinoma in situ de cavidad oral, esófago y estómago",mujer,1.12
+D01,Carcinoma in situ de otros órganos digestivos y de no especificados,hombre,0.95
+D01,Carcinoma in situ de otros órganos digestivos y de no especificados,mujer,1.12
+D02,Carcinoma in situ de oído medio y aparato respiratorio,hombre,0.98
+D02,Carcinoma in situ de oído medio y aparato respiratorio,mujer,1.05
+D03,Melanoma in situ,hombre,1
+D03,Melanoma in situ,mujer,1
+D04,Carcinoma in situ de piel,hombre,1.1
+D04,Carcinoma in situ de piel,mujer,0.91
+D05,Carcinoma in situ de mama,hombre,0.82
+D05,Carcinoma in situ de mama,mujer,1.05
+D06,Carcinoma in situ de cuello de útero,hombre,0.82
+D06,Carcinoma in situ de cuello de útero,mujer,1.05
+D07,Carcinoma in situ de otros órganos genitales y los no especificados,hombre,0.82
+D07,Carcinoma in situ de otros órganos genitales y los no especificados,mujer,1.05
+D09,Carcinoma in situ de otras localizaciones y las no especificadas,hombre,0.89
+D09,Carcinoma in situ de otras localizaciones y las no especificadas,mujer,1.07
+D10,Neoplasia benigna de boca y faringe,hombre,1.09
+D10,Neoplasia benigna de boca y faringe,mujer,0.91
+D11,Neoplasia benigna de glándulas salivales mayores,hombre,1.09
+D11,Neoplasia benigna de glándulas salivales mayores,mujer,0.91
+D12,"Neoplasia benigna de colon, recto, ano y canal anal",hombre,1.04
+D12,"Neoplasia benigna de colon, recto, ano y canal anal",mujer,0.95
+D13,Neoplasia benigna de otras partes de aparato digestivo y las mal definidas,hombre,1.04
+D13,Neoplasia benigna de otras partes de aparato digestivo y las mal definidas,mujer,0.95
+D14,Neoplasia benigna de oído medio y de aparato respiratorio,hombre,0.99
+D14,Neoplasia benigna de oído medio y de aparato respiratorio,mujer,1.01
+D15,Neoplasia benigna de otros órganos intratorácicos y los no especificados,hombre,0.99
+D15,Neoplasia benigna de otros órganos intratorácicos y los no especificados,mujer,1.01
+D16,Neoplasia benigna de hueso y cartílago articular,hombre,0.95
+D16,Neoplasia benigna de hueso y cartílago articular,mujer,1.05
+D17,Neoplasia lipomatosa benigna,hombre,0.92
+D17,Neoplasia lipomatosa benigna,mujer,1.1
+D21,Otras neoplasias benignas tejido conectivo y de otros tejidos blandos,hombre,1.14
+D21,Otras neoplasias benignas tejido conectivo y de otros tejidos blandos,mujer,0.96
+D22,Nevus melanocíticos,hombre,0.98
+D22,Nevus melanocíticos,mujer,1.01
+D23,Otras neoplasias benignas de piel,hombre,0.98
+D23,Otras neoplasias benignas de piel,mujer,1.01
+D24,Neoplasia benigna de mama,hombre,1.07
+D24,Neoplasia benigna de mama,mujer,1
+D25,Leiomioma de útero,mujer,1
+D26,Otros tumores benignos de útero,mujer,1
+D27,Neoplasia benigna de ovario,mujer,1
+D28,Neoplasia benigna de otros órganos genitales femeninos y los no especificados ,mujer,1
+D29,Neoplasia benigna de órganos genitales masculinos,hombre,0.99
+D30,Neoplasia benigna de órganos urinarios,hombre,1.01
+D30,Neoplasia benigna de órganos urinarios,mujer,0.99
+D31,Neoplasia benigna de ojo y sus anexos,hombre,1.17
+D31,Neoplasia benigna de ojo y sus anexos,mujer,0.82
+D33,Neoplasia benigna de cerebro y otras partes de sistema nervioso central,hombre,0.96
+D33,Neoplasia benigna de cerebro y otras partes de sistema nervioso central,mujer,1.03
+D34,Neoplasia benigna de glándula tiroides,hombre,1.03
+D34,Neoplasia benigna de glándula tiroides,mujer,0.99
+D35,Neoplasia benigna de otras glándulas endocrinas y las no especificadas,hombre,0.99
+D35,Neoplasia benigna de otras glándulas endocrinas y las no especificadas,mujer,1.01
+D36,Neoplasia benigna de otras localizaciones y las no especificadas,hombre,1.18
+D36,Neoplasia benigna de otras localizaciones y las no especificadas,mujer,0.89
+D49,Neoplasias de comportamiento no especificado,hombre,0.95
+D49,Neoplasias de comportamiento no especificado,mujer,1.05
+D50,Anemia por carencia de hierro,hombre,1.39
+D50,Anemia por carencia de hierro,mujer,0.93
+D51,Anemia por carencia de vitamina B12 ,hombre,1.19
+D51,Anemia por carencia de vitamina B12 ,mujer,0.87
+D53,Otras anemias carenciales,hombre,1.19
+D53,Otras anemias carenciales,mujer,0.87
+D56,Talasemia,hombre,1.1
+D56,Talasemia,mujer,0.95
+D57,Trastornos drepanocíticos,hombre,1.1
+D57,Trastornos drepanocíticos,mujer,0.95
+D58,Otras anemias hemolíticas hereditarias,hombre,1.1
+D58,Otras anemias hemolíticas hereditarias,mujer,0.95
+D61,Otras anemias aplásicas y síndromes de insuficiencia medular,hombre,0.99
+D61,Otras anemias aplásicas y síndromes de insuficiencia medular,mujer,1.01
+D62,Anemia poshemorrágica aguda,hombre,1.41
+D62,Anemia poshemorrágica aguda,mujer,0.87
+D64,Otras anemias,hombre,1.41
+D64,Otras anemias,mujer,0.87
+D66,Déficit hereditario del factor VIII ,hombre,0.98
+D66,Déficit hereditario del factor VIII ,mujer,1.01
+D67,Déficit hereditario del factor IX ,hombre,0.98
+D67,Déficit hereditario del factor IX ,mujer,1.01
+D68,Otros defectos de la coagulación,hombre,0.98
+D68,Otros defectos de la coagulación,mujer,1.01
+D69,Púrpura y otras afecciones hemorrágicas,hombre,0.97
+D69,Púrpura y otras afecciones hemorrágicas,mujer,1.02
+D70,Neutropenia,hombre,1.22
+D70,Neutropenia,mujer,0.82
+D75,Otras enfermedades de la sangre y órganos hemopoyéticos y las no especificadas ,hombre,1.04
+D75,Otras enfermedades de la sangre y órganos hemopoyéticos y las no especificadas ,mujer,0.96
+D86,Sarcoidosis,hombre,0.98
+D86,Sarcoidosis,mujer,1.02
+E03,Otros tipos de hipotiroidismo,mujer,1.04
+E04,Otros tipos de bocio no tóxico,hombre,0.84
+E04,Otros tipos de bocio no tóxico,mujer,1.04
+E05,Tirotoxicosis [hipertiroidismo],hombre,0.95
+E05,Tirotoxicosis [hipertiroidismo],mujer,1.01
+E06,Tiroiditis,hombre,0.71
+E06,Tiroiditis,mujer,1.07
+E07,Otros trastornos tiroideos,hombre,1
+E07,Otros trastornos tiroideos,mujer,1
+E08,Diabetes mellitus debida a afección subyacente,hombre,1.13
+E08,Diabetes mellitus debida a afección subyacente,mujer,0.82
+E10,Diabetes mellitus tipo 1,hombre,1.09
+E10,Diabetes mellitus tipo 1,mujer,0.88
+E11,Diabetes mellitus tipo 2,hombre,1.09
+E11,Diabetes mellitus tipo 2,mujer,0.88
+E16,Otros trastornos de la secreción interna del páncreas,hombre,0.79
+E16,Otros trastornos de la secreción interna del páncreas,mujer,1.16
+E20,Hipoparatiroidismo,hombre,1.04
+E20,Hipoparatiroidismo,mujer,0.98
+E21,Hiperparatiroidismo y otros trastornos de glándula paratiroides,hombre,1.04
+E21,Hiperparatiroidismo y otros trastornos de glándula paratiroides,mujer,0.98
+E22,Hiperfunción de hipófisis,hombre,1.03
+E22,Hiperfunción de hipófisis,mujer,0.98
+E23,Hipofunción y otros trastornos de hipófisis,hombre,1.03
+E23,Hipofunción y otros trastornos de hipófisis,mujer,0.98
+E24,Síndrome de Cushing,hombre,0.92
+E24,Síndrome de Cushing,mujer,1.04
+E26,Hiperaldosteronismo,hombre,0.92
+E26,Hiperaldosteronismo,mujer,1.04
+E27,Otros trastornos de glándula suprarrenal,hombre,0.92
+E27,Otros trastornos de glándula suprarrenal,mujer,1.04
+E28,Disfunción ovárica,mujer,1
+E32,Enfermedades del timo,hombre,1.03
+E32,Enfermedades del timo,mujer,0.98
+E34,Otros trastornos endocrinos,hombre,1.05
+E34,Otros trastornos endocrinos,mujer,0.97
+E46,Malnutrición calórico-proteica no especificada,mujer,1.13
+E66,Sobrepeso y obesidad,hombre,1.06
+E66,Sobrepeso y obesidad,mujer,0.97
+E78,Trastornos del metabolismo de las lipoproteínas y otras lipidemias,hombre,1.01
+E78,Trastornos del metabolismo de las lipoproteínas y otras lipidemias,mujer,0.99
+E83,Trastornos del metabolismo de los minerales,hombre,0.9
+E83,Trastornos del metabolismo de los minerales,mujer,1.1
+E84,Fibrosis quística,hombre,0.98
+E84,Fibrosis quística,mujer,1.02
+E87,"Otros trastornos de líquidos, electrolitos y equilibrio ácido-base",hombre,0.94
+E87,"Otros trastornos de líquidos, electrolitos y equilibrio ácido-base",mujer,1.05
+E88,Otros trastornos metabólicos y los no especificados,hombre,1.01
+E88,Otros trastornos metabólicos y los no especificados,mujer,0.99
+E89,"Complicaciones y trastornos endocrinos y metabólicos posprocedimiento, no clasificados bajo otro concepto",hombre,0.91
+E89,"Complicaciones y trastornos endocrinos y metabólicos posprocedimiento, no clasificados bajo otro concepto",mujer,1.01
+F01,Demencia vascular,hombre,0.9
+F01,Demencia vascular,mujer,1.13
+F02,Demencia en otras enfermedades clasificadas bajo otro concepto,hombre,1.03
+F02,Demencia en otras enfermedades clasificadas bajo otro concepto,mujer,0.98
+F03,Demencia no especificada,hombre,0.9
+F03,Demencia no especificada,mujer,1.13
+F05,Delirio debido a afección fisiológica conocida,hombre,1.05
+F05,Delirio debido a afección fisiológica conocida,mujer,0.97
+F06,Otros trastornos mentales debidos a afección fisiológica conocida,hombre,1.05
+F06,Otros trastornos mentales debidos a afección fisiológica conocida,mujer,0.97
+F07,Trastornos de personalidad y del comportamiento debidos a afección fisiológica conocida,hombre,1.04
+F07,Trastornos de personalidad y del comportamiento debidos a afección fisiológica conocida,mujer,0.95
+F10,Trastornos relacionados con alcohol,hombre,0.97
+F10,Trastornos relacionados con alcohol,mujer,1.13
+F14,Trastornos relacionados con cocaína,hombre,0.98
+F14,Trastornos relacionados con cocaína,mujer,1.14
+F15,Otros trastornos relacionados con estimulantes,hombre,1.02
+F15,Otros trastornos relacionados con estimulantes,mujer,0.94
+F16,Trastornos relacionados con alucinógenos,hombre,1.05
+F16,Trastornos relacionados con alucinógenos,mujer,0.8
+F17,Dependencia de nicotina,hombre,1.05
+F17,Dependencia de nicotina,mujer,0.8
+F19,Trastornos relacionados con otras sustancias psicoactivas,hombre,0.98
+F19,Trastornos relacionados con otras sustancias psicoactivas,mujer,1.14
+F20,Esquizofrenia,hombre,1
+F20,Esquizofrenia,mujer,1
+F22,Trastornos delirantes,hombre,1.04
+F22,Trastornos delirantes,mujer,0.95
+F23,Trastorno psicótico breve,hombre,0.99
+F23,Trastorno psicótico breve,mujer,1.01
+F25,Trastornos esquizoafectivos,hombre,1
+F25,Trastornos esquizoafectivos,mujer,1
+F28,Otros trastornos psicóticos no debidos a sustancia ni afección fisiológica conocidas,hombre,0.99
+F28,Otros trastornos psicóticos no debidos a sustancia ni afección fisiológica conocidas,mujer,1.01
+F29,Psicosis no especificada no debida a sustancia o afección fisiológica conocidas,hombre,0.99
+F29,Psicosis no especificada no debida a sustancia o afección fisiológica conocidas,mujer,1.01
+F30,Episodio maníaco,hombre,1.03
+F30,Episodio maníaco,mujer,0.98
+F31,Trastorno bipolar,hombre,1.03
+F31,Trastorno bipolar,mujer,0.98
+F32,"Trastorno depresivo mayor, episodio único",hombre,1.04
+F32,"Trastorno depresivo mayor, episodio único",mujer,0.98
+F33,"Trastorno depresivo mayor, recurrente",hombre,1.03
+F33,"Trastorno depresivo mayor, recurrente",mujer,0.98
+F34,Trastornos persistentes del estado de ánimo [afectivos],hombre,1.05
+F34,Trastornos persistentes del estado de ánimo [afectivos],mujer,0.96
+F40,Trastornos de ansiedad fóbica,hombre,1.02
+F40,Trastornos de ansiedad fóbica,mujer,0.99
+F41,Otros trastornos de ansiedad,hombre,1.02
+F41,Otros trastornos de ansiedad,mujer,0.99
+F42,Trastorno obsesivo-compulsivo,hombre,1.02
+F42,Trastorno obsesivo-compulsivo,mujer,0.99
+F43,Reacción a estrés grave y trastornos de adaptación,hombre,1.03
+F43,Reacción a estrés grave y trastornos de adaptación,mujer,0.99
+F44,Trastornos disociativos y de conversión,hombre,1.02
+F44,Trastornos disociativos y de conversión,mujer,0.99
+F45,Trastornos somatomorfos,hombre,1.02
+F45,Trastornos somatomorfos,mujer,0.99
+F48,Otros trastornos mentales no psicóticos,hombre,1.02
+F48,Otros trastornos mentales no psicóticos,mujer,0.99
+F50,Trastornos de la conducta alimentaria,hombre,0.93
+F50,Trastornos de la conducta alimentaria,mujer,1.04
+F51,Trastornos del sueño no debidos a sustancia ni afección fisiológica conocida,hombre,0.93
+F51,Trastornos del sueño no debidos a sustancia ni afección fisiológica conocida,mujer,1.04
+F54,Factores psicológicos y de comportamiento asociados con trastornos o enfermedades clasificadas bajo otro concepto,hombre,1.01
+F54,Factores psicológicos y de comportamiento asociados con trastornos o enfermedades clasificadas bajo otro concepto,mujer,0.99
+F60,Trastornos específicos de personalidad,hombre,1.05
+F60,Trastornos específicos de personalidad,mujer,0.96
+F63,Trastorno de los impulsos,hombre,1.05
+F63,Trastorno de los impulsos,mujer,0.94
+F79,Discapacidad intelectual no especificada,hombre,0.99
+F91,Trastornos de conducta,hombre,1.05
+F91,Trastornos de conducta,mujer,0.94
+F93,Trastornos emocionales con inicio específico en la infancia,hombre,1.03
+F93,Trastornos emocionales con inicio específico en la infancia,mujer,0.99
+F95,Trastorno de tics,hombre,0.93
+F95,Trastorno de tics,mujer,1.04
+G00,"Meningitis bacteriana, no clasificada bajo otro concepto",hombre,1.01
+G00,"Meningitis bacteriana, no clasificada bajo otro concepto",mujer,0.98
+G01,Meningitis en enfermedades bacterianas clasificadas bajo otro concepto,hombre,1.01
+G01,Meningitis en enfermedades bacterianas clasificadas bajo otro concepto,mujer,0.98
+G02,Meningitis en otras enfermedades infecciosas y parasitarias clasificadas bajo otro concepto,hombre,1.09
+G02,Meningitis en otras enfermedades infecciosas y parasitarias clasificadas bajo otro concepto,mujer,0.89
+G03,Meningitis debida a otras causas y a las no especificadas,hombre,1
+G03,Meningitis debida a otras causas y a las no especificadas,mujer,1
+G04,"Encefalitis, mielitis y encefalomielitis",hombre,0.92
+G04,"Encefalitis, mielitis y encefalomielitis",mujer,1.08
+G05,"Encefalitis, mielitis y encefalomielitis en enfermedades clasificadas bajo otro concepto",hombre,0.92
+G05,"Encefalitis, mielitis y encefalomielitis en enfermedades clasificadas bajo otro concepto",mujer,1.08
+G06,Absceso y granuloma intracraneal e intrarraquídeo,hombre,0.94
+G06,Absceso y granuloma intracraneal e intrarraquídeo,mujer,1.09
+G10,Enfermedad de Huntington,hombre,1.09
+G10,Enfermedad de Huntington,mujer,0.94
+G11,Ataxia hereditaria,hombre,1.22
+G11,Ataxia hereditaria,mujer,0.84
+G12,Atrofia muscular espinal y síndromes relacionados,hombre,1.02
+G12,Atrofia muscular espinal y síndromes relacionados,mujer,0.96
+G14,Síndrome pospolio,hombre,0.98
+G14,Síndrome pospolio,mujer,1.02
+G20,Enfermedad de Parkinson,hombre,0.99
+G20,Enfermedad de Parkinson,mujer,1.01
+G21,Parkinsonismo secundario,hombre,1.09
+G21,Parkinsonismo secundario,mujer,0.94
+G23,Otras enfermedades degenerativas de los núcleos de la base,hombre,1.09
+G23,Otras enfermedades degenerativas de los núcleos de la base,mujer,0.94
+G24,Distonía,hombre,1.09
+G24,Distonía,mujer,0.94
+G25,Otros trastornos extrapiramidales y del movimiento,hombre,1.09
+G25,Otros trastornos extrapiramidales y del movimiento,mujer,0.94
+G30,Enfermedad de Alzheimer,hombre,1.02
+G30,Enfermedad de Alzheimer,mujer,0.97
+G31,"Otras enfermedades degenerativas del sistema nervioso, no clasificadas bajo otro concepto",hombre,1.02
+G31,"Otras enfermedades degenerativas del sistema nervioso, no clasificadas bajo otro concepto",mujer,0.97
+G32,Otros trastornos degenerativos del sistema nervioso en enfermedades clasificadas bajo otro concepto,hombre,1.01
+G32,Otros trastornos degenerativos del sistema nervioso en enfermedades clasificadas bajo otro concepto,mujer,0.99
+G35,Esclerosis múltiple,hombre,1.06
+G35,Esclerosis múltiple,mujer,0.98
+G36,Otras desmielinizaciones diseminadas agudas,hombre,0.89
+G36,Otras desmielinizaciones diseminadas agudas,mujer,1.06
+G37,Otras enfermedades desmielinizantes del sistema nervioso central,hombre,0.89
+G37,Otras enfermedades desmielinizantes del sistema nervioso central,mujer,1.06
+G40,Epilepsia y crisis epilépticas recurrentes,hombre,1.07
+G40,Epilepsia y crisis epilépticas recurrentes,mujer,0.91
+G43,Migraña,hombre,1.03
+G43,Migraña,mujer,0.99
+G44,Otros síndromes de cefalea,hombre,1.11
+G44,Otros síndromes de cefalea,mujer,0.93
+G45,Accidentes isquémicos cerebrales transitorios y síndromes relacionados,hombre,1
+G45,Accidentes isquémicos cerebrales transitorios y síndromes relacionados,mujer,0.99
+G46,Síndromes vasculares cerebrales en enfermedades cerebrovasculares,hombre,1
+G46,Síndromes vasculares cerebrales en enfermedades cerebrovasculares,mujer,0.99
+G47,Trastornos del sueño,hombre,1.04
+G47,Trastornos del sueño,mujer,0.95
+G50,Trastornos del nervio trigémino,hombre,1.05
+G50,Trastornos del nervio trigémino,mujer,0.97
+G51,Trastornos del nervio facial,hombre,0.96
+G51,Trastornos del nervio facial,mujer,1.05
+G52,Trastornos de otros nervios craneales,hombre,1.36
+G52,Trastornos de otros nervios craneales,mujer,0.82
+G54,Trastornos de raíces y de plexos nerviosos,hombre,1.02
+G54,Trastornos de raíces y de plexos nerviosos,mujer,0.98
+G56,Mononeuropatías de extremidad superior,hombre,0.95
+G56,Mononeuropatías de extremidad superior,mujer,1.02
+G57,Mononeuropatías de extremidad inferior,hombre,0.96
+G57,Mononeuropatías de extremidad inferior,mujer,1.02
+G58,Otras mononeuropatías,hombre,0.95
+G58,Otras mononeuropatías,mujer,1.02
+G60,Neuropatía hereditaria e idiopática,hombre,1.05
+G60,Neuropatía hereditaria e idiopática,mujer,0.94
+G61,Polineuropatía inflamatoria,hombre,1.11
+G61,Polineuropatía inflamatoria,mujer,0.85
+G62,Otras polineuropatías y las no especificadas,hombre,1.11
+G62,Otras polineuropatías y las no especificadas,mujer,0.85
+G63,Polineuropatías en enfermedades clasificadas bajo otro concepto,hombre,1.11
+G63,Polineuropatías en enfermedades clasificadas bajo otro concepto,mujer,0.85
+G70,Miastenia gravis y otros trastornos mioneurales,hombre,1.09
+G70,Miastenia gravis y otros trastornos mioneurales,mujer,0.95
+G71,Trastornos musculares primarios,hombre,1.09
+G71,Trastornos musculares primarios,mujer,0.91
+G72,Otras miopatías y las no especificadas,hombre,1.09
+G72,Otras miopatías y las no especificadas,mujer,0.91
+G73,Trastornos del músculo y de la unión neuromuscular en enfermedades clasificadas bajo otro concepto,hombre,1.09
+G73,Trastornos del músculo y de la unión neuromuscular en enfermedades clasificadas bajo otro concepto,mujer,0.91
+G81,Hemiplejia y hemiparesia,hombre,1.07
+G81,Hemiplejia y hemiparesia,mujer,0.93
+G82,Paraplejia (paraparesia) y tetraplejia (tetraparesia),hombre,1.03
+G82,Paraplejia (paraparesia) y tetraplejia (tetraparesia),mujer,0.96
+G83,Otros síndromes paralíticos,hombre,1.03
+G83,Otros síndromes paralíticos,mujer,0.96
+G89,"Dolor, no clasificado bajo otro concepto",hombre,0.89
+G89,"Dolor, no clasificado bajo otro concepto",mujer,1.11
+G90,Trastornos del sistema nervioso autónomo,hombre,1.12
+G90,Trastornos del sistema nervioso autónomo,mujer,0.92
+G91,Hidrocefalia,hombre,1.02
+G91,Hidrocefalia,mujer,0.97
+G92,Encefalopatía tóxica,hombre,0.92
+G92,Encefalopatía tóxica,mujer,1.08
+G93,Otros trastornos del cerebro,hombre,1.27
+G93,Otros trastornos del cerebro,mujer,0.81
+G95,Otras enfermedades de médula espinal y las no especificadas,hombre,1.01
+G95,Otras enfermedades de médula espinal y las no especificadas,mujer,0.99
+G96,Otros trastornos del sistema nervioso central,hombre,1.24
+G96,Otros trastornos del sistema nervioso central,mujer,0.85
+G97,"Complicaciones intraoperatorias y posprocedimiento del sistema nervioso, no clasificadas bajo otro concepto",hombre,1.02
+G97,"Complicaciones intraoperatorias y posprocedimiento del sistema nervioso, no clasificadas bajo otro concepto",mujer,0.97
+H00,Orzuelo y chalación,hombre,0.93
+H00,Orzuelo y chalación,mujer,1.07
+H01,Otros tipos de inflamación de párpado,hombre,0.93
+H01,Otros tipos de inflamación de párpado,mujer,1.07
+H02,Otros trastornos del párpado,hombre,1.14
+H02,Otros trastornos del párpado,mujer,0.92
+H04,Trastornos de aparato lacrimal,hombre,0.93
+H04,Trastornos de aparato lacrimal,mujer,1.03
+H05,Trastornos de órbita,hombre,1.02
+H05,Trastornos de órbita,mujer,0.98
+H10,Conjuntivitis,hombre,1.01
+H10,Conjuntivitis,mujer,0.99
+H11,Otros trastornos de conjuntiva,hombre,1.01
+H11,Otros trastornos de conjuntiva,mujer,0.99
+H15,Trastornos de esclerótica,hombre,1.04
+H15,Trastornos de esclerótica,mujer,0.96
+H16,Queratitis,hombre,0.88
+H16,Queratitis,mujer,1.19
+H18,Otros trastornos de córnea,hombre,0.97
+H18,Otros trastornos de córnea,mujer,1.04
+H20,Iridociclitis,hombre,0.97
+H20,Iridociclitis,mujer,1.03
+H21,Otros trastornos del iris y del cuerpo ciliar,hombre,0.97
+H21,Otros trastornos del iris y del cuerpo ciliar,mujer,1.03
+H25,Catarata relacionada con la edad,hombre,1.01
+H25,Catarata relacionada con la edad,mujer,0.99
+H26,Otras cataratas,hombre,1.01
+H26,Otras cataratas,mujer,0.99
+H27,Otros trastornos de cristalino,hombre,1.04
+H27,Otros trastornos de cristalino,mujer,0.96
+H30,Inflamación coriorretiniana,hombre,1.09
+H30,Inflamación coriorretiniana,mujer,0.9
+H31,Otros trastornos de coroides,hombre,1.09
+H31,Otros trastornos de coroides,mujer,0.9
+H33,Desprendimientos y rotura de retina,hombre,1.06
+H33,Desprendimientos y rotura de retina,mujer,0.9
+H34,Oclusiones vasculares retinianas,hombre,1.1
+H34,Oclusiones vasculares retinianas,mujer,0.87
+H35,Otros trastornos de retina,hombre,1.1
+H35,Otros trastornos de retina,mujer,0.87
+H40,Glaucoma,hombre,1.02
+H40,Glaucoma,mujer,0.97
+H43,Trastornos del cuerpo vítreo,hombre,1.04
+H43,Trastornos del cuerpo vítreo,mujer,0.96
+H44,Trastornos del globo ocular,hombre,0.86
+H44,Trastornos del globo ocular,mujer,1.27
+H46,Neuritis óptica,hombre,1.03
+H46,Neuritis óptica,mujer,0.98
+H47,Otros trastornos del nervio óptico [II par] y de las vías ópticas,hombre,1.03
+H47,Otros trastornos del nervio óptico [II par] y de las vías ópticas,mujer,0.98
+H49,Estrabismo paralítico,hombre,1.06
+H49,Estrabismo paralítico,mujer,0.94
+H50,Otros tipos de estrabismo,hombre,1.06
+H50,Otros tipos de estrabismo,mujer,0.94
+H52,Trastornos de refracción y acomodación,hombre,0.97
+H52,Trastornos de refracción y acomodación,mujer,1.02
+H53,Problemas visuales,hombre,1.1
+H53,Problemas visuales,mujer,0.89
+H54,Ceguera y baja visión,hombre,1.15
+H54,Ceguera y baja visión,mujer,0.82
+H55,Nistagmo y otros movimientos oculares irregulares,hombre,1.04
+H55,Nistagmo y otros movimientos oculares irregulares,mujer,0.96
+H57,Otros trastornos del ojo y sus anexos,hombre,1.04
+H57,Otros trastornos del ojo y sus anexos,mujer,0.96
+H59,"Complicaciones intraoperatorias y posprocedimiento de ojo y sus anexos, no clasificadas bajo otro concepto",hombre,1.02
+H59,"Complicaciones intraoperatorias y posprocedimiento de ojo y sus anexos, no clasificadas bajo otro concepto",mujer,0.97
+H60,Otitis externa,hombre,1.09
+H60,Otitis externa,mujer,0.93
+H61,Otros trastornos del oído externo,hombre,1.09
+H61,Otros trastornos del oído externo,mujer,0.93
+H62,Trastornos del oído externo en enfermedades clasificadas bajo otro concepto,hombre,1.09
+H62,Trastornos del oído externo en enfermedades clasificadas bajo otro concepto,mujer,0.93
+H65,Otitis media no supurativa,hombre,1.07
+H65,Otitis media no supurativa,mujer,0.96
+H66,Otitis media supurativa y no especificada,hombre,1.06
+H66,Otitis media supurativa y no especificada,mujer,0.96
+H67,Otitis media en enfermedades clasificadas bajo otro concepto,hombre,1.06
+H67,Otitis media en enfermedades clasificadas bajo otro concepto,mujer,0.96
+H68,Salpingitis y obstrucción de la trompa de Eustaquio,hombre,1.07
+H68,Salpingitis y obstrucción de la trompa de Eustaquio,mujer,0.96
+H69,Otros trastornos y los no especificados de la trompa de Eustaquio,hombre,1.07
+H69,Otros trastornos y los no especificados de la trompa de Eustaquio,mujer,0.96
+H70,Mastoiditis y problemas relacionados,hombre,1.08
+H70,Mastoiditis y problemas relacionados,mujer,0.93
+H71,Colesteatoma del oído medio,hombre,0.98
+H71,Colesteatoma del oído medio,mujer,1.03
+H72,Perforación de la membrana timpánica,hombre,0.99
+H72,Perforación de la membrana timpánica,mujer,1.01
+H73,Otros trastornos de la membrana timpánica,hombre,0.99
+H73,Otros trastornos de la membrana timpánica,mujer,1.01
+H74,Otros trastornos del oído medio y mastoides,hombre,0.98
+H74,Otros trastornos del oído medio y mastoides,mujer,1.03
+H75,Otros trastornos del oído medio y mastoides en enfermedades clasificadas bajo otro concepto,hombre,1.08
+H75,Otros trastornos del oído medio y mastoides en enfermedades clasificadas bajo otro concepto,mujer,0.93
+H80,Otoesclerosis,hombre,0.92
+H80,Otoesclerosis,mujer,1.04
+H81,Trastornos de la función vestibular,hombre,1.07
+H81,Trastornos de la función vestibular,mujer,0.96
+H83,Otras enfermedades del oído interno,hombre,1.07
+H83,Otras enfermedades del oído interno,mujer,0.96
+H90,Pérdida auditiva conductiva y neurosensorial,hombre,1.03
+H90,Pérdida auditiva conductiva y neurosensorial,mujer,0.97
+H91,Otros tipos de pérdida de audición y los no especificados,hombre,1.03
+H91,Otros tipos de pérdida de audición y los no especificados,mujer,0.97
+H92,Otalgia y secreción del oído,hombre,1.08
+H92,Otalgia y secreción del oído,mujer,0.93
+H93,"Otros trastornos del oído, no clasificados bajo otro concepto",hombre,1.08
+H93,"Otros trastornos del oído, no clasificados bajo otro concepto",mujer,0.93
+I00,Fiebre reumática sin afectación cardiaca,mujer,0.89
+I01,Fiebre reumática con afectación cardiaca,hombre,0.92
+I01,Fiebre reumática con afectación cardiaca,mujer,1.26
+I05,Enfermedades reumáticas de válvula mitral,hombre,1.02
+I05,Enfermedades reumáticas de válvula mitral,mujer,0.98
+I06,Enfermedades reumáticas de válvula aórtica,hombre,0.98
+I06,Enfermedades reumáticas de válvula aórtica,mujer,1.04
+I08,Enfermedades valvulares múltiples,hombre,1.06
+I08,Enfermedades valvulares múltiples,mujer,0.93
+I10,Hipertensión esencial (primaria),hombre,1
+I10,Hipertensión esencial (primaria),mujer,1
+I11,Enfermedad cardiaca hipertensiva,hombre,1.03
+I11,Enfermedad cardiaca hipertensiva,mujer,0.95
+I12,Enfermedad renal crónica hipertensiva,hombre,0.96
+I12,Enfermedad renal crónica hipertensiva,mujer,1.05
+I13,Enfermedad cardiaca y renal crónica hipertensiva,hombre,1.21
+I13,Enfermedad cardiaca y renal crónica hipertensiva,mujer,0.64
+I15,Hipertensión secundaria,hombre,0.88
+I15,Hipertensión secundaria,mujer,1.09
+I20,Angina de pecho,hombre,1.02
+I20,Angina de pecho,mujer,0.92
+I21,Infarto agudo de miocardio con elevación de ST (IAMCEST) y sin elevación de ST (IAMSEST),hombre,0.99
+I21,Infarto agudo de miocardio con elevación de ST (IAMCEST) y sin elevación de ST (IAMSEST),mujer,1.04
+I24,Otras enfermedades isquémicas agudas cardiacas,hombre,1
+I24,Otras enfermedades isquémicas agudas cardiacas,mujer,1.01
+I25,Enfermedad isquémica crónica cardiaca,hombre,1.02
+I25,Enfermedad isquémica crónica cardiaca,mujer,0.92
+I26,Embolia pulmonar,hombre,0.98
+I26,Embolia pulmonar,mujer,1.04
+I27,Otros tipos de enfermedad pulmonar cardiaca,hombre,0.9
+I27,Otros tipos de enfermedad pulmonar cardiaca,mujer,1.09
+I28,Otras enfermedades de los vasos pulmonares,hombre,1.07
+I28,Otras enfermedades de los vasos pulmonares,mujer,0.87
+I30,Pericarditis aguda,hombre,0.96
+I30,Pericarditis aguda,mujer,1.14
+I31,Otras enfermedades del pericardio,hombre,0.95
+I31,Otras enfermedades del pericardio,mujer,1.18
+I32,Pericarditis en enfermedades clasificadas bajo otro concepto,hombre,0.96
+I32,Pericarditis en enfermedades clasificadas bajo otro concepto,mujer,1.14
+I33,Endocarditis aguda y subaguda,hombre,1.06
+I33,Endocarditis aguda y subaguda,mujer,0.83
+I34,Trastornos de válvula mitral no reumáticos,hombre,1.03
+I34,Trastornos de válvula mitral no reumáticos,mujer,0.94
+I35,Trastornos de válvula aórtica no reumáticos,hombre,1.03
+I35,Trastornos de válvula aórtica no reumáticos,mujer,0.94
+I39,Endocarditis y trastornos de las válvulas cardiacas en enfermedades clasificadas bajo otro concepto,hombre,1.06
+I39,Endocarditis y trastornos de las válvulas cardiacas en enfermedades clasificadas bajo otro concepto,mujer,0.83
+I40,Miocarditis aguda,hombre,0.97
+I40,Miocarditis aguda,mujer,1.18
+I42,Miocardiopatía,hombre,1.03
+I42,Miocardiopatía,mujer,0.91
+I43,Miocardiopatía en enfermedades clasificadas bajo otro concepto,hombre,1.03
+I43,Miocardiopatía en enfermedades clasificadas bajo otro concepto,mujer,0.91
+I44,Bloqueo auriculoventricular y de rama izquierda del haz,hombre,0.97
+I44,Bloqueo auriculoventricular y de rama izquierda del haz,mujer,1.04
+I45,Otros trastornos de conducción,hombre,0.97
+I45,Otros trastornos de conducción,mujer,1.04
+I46,Paro cardiaco,hombre,1.06
+I46,Paro cardiaco,mujer,0.9
+I47,Taquicardia paroxística,hombre,1.06
+I47,Taquicardia paroxística,mujer,0.9
+I48,Fibrilación y flutter auricular,hombre,1.06
+I48,Fibrilación y flutter auricular,mujer,0.9
+I49,Otras arritmias cardiacas,hombre,1.06
+I49,Otras arritmias cardiacas,mujer,0.9
+I50,Insuficiencia cardiaca,hombre,1
+I50,Insuficiencia cardiaca,mujer,0.98
+I51,Complicaciones y descripciones mal definidas de enfermedad cardiaca,hombre,1.03
+I51,Complicaciones y descripciones mal definidas de enfermedad cardiaca,mujer,0.93
+I60,Hemorragia subaracnoidea no traumática,hombre,0.91
+I60,Hemorragia subaracnoidea no traumática,mujer,1.11
+I62,Otra hemorragia intracraneal no traumática y las no especificadas,hombre,0.94
+I62,Otra hemorragia intracraneal no traumática y las no especificadas,mujer,1.11
+I63,Infarto cerebral,hombre,1.03
+I63,Infarto cerebral,mujer,0.91
+I65,"Oclusión y estenosis de arterias precerebrales, que no produce infarto cerebral",hombre,1.03
+I65,"Oclusión y estenosis de arterias precerebrales, que no produce infarto cerebral",mujer,0.91
+I66,"Oclusión y estenosis de arterias cerebrales, que no produce infarto cerebral",hombre,1.01
+I66,"Oclusión y estenosis de arterias cerebrales, que no produce infarto cerebral",mujer,0.98
+I67,Otras enfermedades cerebrovasculares,hombre,1.02
+I67,Otras enfermedades cerebrovasculares,mujer,0.96
+I69,Secuelas de enfermedad cerebrovascular,hombre,1.26
+I69,Secuelas de enfermedad cerebrovascular,mujer,0.84
+I70,Aterosclerosis,hombre,1.05
+I70,Aterosclerosis,mujer,0.75
+I71,Aneurisma y disección aórticos,hombre,1.02
+I71,Aneurisma y disección aórticos,mujer,0.87
+I72,Otros tipos de aneurisma,hombre,0.99
+I72,Otros tipos de aneurisma,mujer,1.02
+I74,Embolia y trombosis arterial,hombre,1.04
+I74,Embolia y trombosis arterial,mujer,0.92
+I77,Otros trastornos de arterias y arteriolas,hombre,1.03
+I77,Otros trastornos de arterias y arteriolas,mujer,0.96
+I80,Flebitis y tromboflebitis,hombre,1.03
+I80,Flebitis y tromboflebitis,mujer,0.98
+I82,Otros tipos de embolia y trombosis venosa,hombre,1.02
+I82,Otros tipos de embolia y trombosis venosa,mujer,0.97
+I83,Venas varicosas de extremidades inferiores,hombre,1.02
+I83,Venas varicosas de extremidades inferiores,mujer,0.99
+I89,Otros trastornos no infecciosos de vasos y ganglios linfáticos,hombre,0.82
+I89,Otros trastornos no infecciosos de vasos y ganglios linfáticos,mujer,1.07
+J00,Nasofaringitis aguda [resfriado común],hombre,0.89
+J00,Nasofaringitis aguda [resfriado común],mujer,1.08
+J01,Sinusitis aguda,hombre,1
+J01,Sinusitis aguda,mujer,1
+J02,Faringitis aguda,hombre,0.9
+J02,Faringitis aguda,mujer,1.07
+J03,Amigdalitis aguda,hombre,0.97
+J03,Amigdalitis aguda,mujer,1.02
+J04,Laringitis y traqueítis agudas,hombre,1.02
+J04,Laringitis y traqueítis agudas,mujer,0.99
+J05,Laringitis aguda obstructiva [crup] y epiglotitis aguda obstructiva,hombre,1.02
+J05,Laringitis aguda obstructiva [crup] y epiglotitis aguda obstructiva,mujer,0.99
+J06,Infecciones agudas del tracto respiratorio superior de localización múltiple o no especificada,hombre,0.9
+J06,Infecciones agudas del tracto respiratorio superior de localización múltiple o no especificada,mujer,1.07
+J09,Gripe debida a virus de la gripe identificados,hombre,1.06
+J09,Gripe debida a virus de la gripe identificados,mujer,0.94
+J10,Gripe debida a otros tipos de virus de la gripe identificados,hombre,0.92
+J10,Gripe debida a otros tipos de virus de la gripe identificados,mujer,1.07
+J11,Gripe debida a virus de la gripe no identificado,hombre,0.92
+J11,Gripe debida a virus de la gripe no identificado,mujer,1.07
+J12,"Neumonía vírica, no clasificada bajo otro concepto",hombre,1.04
+J12,"Neumonía vírica, no clasificada bajo otro concepto",mujer,0.96
+J13,Neumonía por Streptococcus pneumoniae,hombre,0.96
+J13,Neumonía por Streptococcus pneumoniae,mujer,1.04
+J15,"Neumonía bacteriana, no clasificable bajo otro concepto",hombre,1.03
+J15,"Neumonía bacteriana, no clasificable bajo otro concepto",mujer,0.97
+J16,"Neumonía por otros microorganismos infecciosos, no clasificados bajo otro concepto",hombre,1.07
+J16,"Neumonía por otros microorganismos infecciosos, no clasificados bajo otro concepto",mujer,0.92
+J17,Neumonía en enfermedades clasificadas bajo otro concepto,hombre,1.04
+J17,Neumonía en enfermedades clasificadas bajo otro concepto,mujer,0.96
+J18,"Neumonía, microorganismo no especificado",hombre,1.06
+J18,"Neumonía, microorganismo no especificado",mujer,0.94
+J20,Bronquitis aguda,hombre,1.27
+J20,Bronquitis aguda,mujer,0.78
+J21,Bronquiolitis aguda,hombre,0.94
+J21,Bronquiolitis aguda,mujer,1.04
+J30,Rinitis vasomotora y alérgica,hombre,0.94
+J30,Rinitis vasomotora y alérgica,mujer,1.05
+J31,"Rinitis, faringitis y rinofaringitis crónica",hombre,1.01
+J31,"Rinitis, faringitis y rinofaringitis crónica",mujer,0.99
+J32,Sinusitis crónica,hombre,0.96
+J32,Sinusitis crónica,mujer,1.03
+J33,Pólipo nasal,hombre,0.98
+J33,Pólipo nasal,mujer,1.05
+J34,Otras enfermedades y las no especificadas de la nariz y de los senos nasales,hombre,0.99
+J34,Otras enfermedades y las no especificadas de la nariz y de los senos nasales,mujer,1.02
+J35,Enfermedades crónicas de las amígdalas y de las adenoides,hombre,0.95
+J35,Enfermedades crónicas de las amígdalas y de las adenoides,mujer,1.04
+J36,Absceso periamigdalino,hombre,0.98
+J36,Absceso periamigdalino,mujer,1.03
+J37,Laringitis y laringotraqueítis crónicas,hombre,1.19
+J37,Laringitis y laringotraqueítis crónicas,mujer,0.9
+J38,"Enfermedades de las cuerdas vocales y de la laringe, no clasificables bajo otro concepto",hombre,0.91
+J38,"Enfermedades de las cuerdas vocales y de la laringe, no clasificables bajo otro concepto",mujer,1.11
+J39,Otras enfermedades del tracto respiratorio superior,hombre,0.91
+J39,Otras enfermedades del tracto respiratorio superior,mujer,1.11
+J40,"Bronquitis, no especificada como aguda o crónica",hombre,0.96
+J40,"Bronquitis, no especificada como aguda o crónica",mujer,1.03
+J41,Bronquitis crónica simple y mucopurulenta,hombre,1.12
+J41,Bronquitis crónica simple y mucopurulenta,mujer,0.84
+J42,Bronquitis crónica no especificada,hombre,1.12
+J42,Bronquitis crónica no especificada,mujer,0.84
+J43,Enfisema,hombre,1.04
+J43,Enfisema,mujer,0.91
+J44,Otras enfermedades pulmonares obstructivas crónicas,hombre,1.12
+J44,Otras enfermedades pulmonares obstructivas crónicas,mujer,0.84
+J45,Asma,hombre,0.87
+J45,Asma,mujer,1.07
+J47,Bronquiectasias,hombre,1.21
+J47,Bronquiectasias,mujer,0.93
+J68,"Problemas respiratorios por inhalación de productos químicos, gases, humos y vapores",hombre,0.99
+J68,"Problemas respiratorios por inhalación de productos químicos, gases, humos y vapores",mujer,1.01
+J70,Afecciones respiratorias por otros agentes externos,hombre,1.12
+J70,Afecciones respiratorias por otros agentes externos,mujer,0.87
+J80,Síndrome de dificultad respiratoria [distrés respiratorio],hombre,1.05
+J80,Síndrome de dificultad respiratoria [distrés respiratorio],mujer,0.92
+J81,Edema pulmonar,hombre,1.05
+J81,Edema pulmonar,mujer,0.92
+J84,Otras enfermedades pulmonares intersticiales,hombre,1.06
+J84,Otras enfermedades pulmonares intersticiales,mujer,0.89
+J85,Absceso pulmonar y del mediastino,hombre,0.88
+J85,Absceso pulmonar y del mediastino,mujer,1.3
+J86,Piotórax,hombre,0.95
+J86,Piotórax,mujer,1.13
+J90,"Derrame pleural, no clasificable bajo otro concepto",hombre,0.96
+J90,"Derrame pleural, no clasificable bajo otro concepto",mujer,1.07
+J93,Neumotórax y escape de aire,hombre,0.98
+J93,Neumotórax y escape de aire,mujer,1.05
+J94,Otros problemas pleurales,hombre,0.96
+J94,Otros problemas pleurales,mujer,1.07
+J96,"Insuficiencia respiratoria, no clasificada bajo otro concepto",hombre,1.05
+J96,"Insuficiencia respiratoria, no clasificada bajo otro concepto",mujer,0.92
+J98,Otros trastornos respiratorios,hombre,1.05
+J98,Otros trastornos respiratorios,mujer,0.92
+K00,Trastornos de desarrollo y erupción de diente,hombre,0.92
+K00,Trastornos de desarrollo y erupción de diente,mujer,1.05
+K02,Caries dental,hombre,0.9
+K02,Caries dental,mujer,1.1
+K03,Otras enfermedades de los tejidos duros de los dientes,hombre,0.9
+K03,Otras enfermedades de los tejidos duros de los dientes,mujer,1.1
+K04,Enfermedades de pulpa y tejidos periapicales,hombre,0.94
+K04,Enfermedades de pulpa y tejidos periapicales,mujer,1.06
+K05,Gingivitis y enfermedades periodontales,hombre,0.85
+K05,Gingivitis y enfermedades periodontales,mujer,1.11
+K08,Otros trastornos de dientes y estructuras de soporte,hombre,0.89
+K08,Otros trastornos de dientes y estructuras de soporte,mujer,1.09
+K09,"Quistes de región oral, no clasificados bajo otro concepto",hombre,1
+K09,"Quistes de región oral, no clasificados bajo otro concepto",mujer,1
+K11,Enfermedades de las glándulas salivales,hombre,0.98
+K11,Enfermedades de las glándulas salivales,mujer,1.02
+K12,Estomatitis y lesiones relacionadas,hombre,1.1
+K12,Estomatitis y lesiones relacionadas,mujer,0.9
+K13,Otras enfermedades de labio y de mucosa oral,hombre,1.1
+K13,Otras enfermedades de labio y de mucosa oral,mujer,0.9
+K14,Enfermedades de lengua,hombre,1.38
+K14,Enfermedades de lengua,mujer,0.72
+K20,Esofagitis,hombre,1.03
+K20,Esofagitis,mujer,0.95
+K21,Enfermedad por reflujo gastroesofágico,hombre,1.03
+K21,Enfermedad por reflujo gastroesofágico,mujer,0.95
+K22,Otras enfermedades de esófago,hombre,1.03
+K22,Otras enfermedades de esófago,mujer,0.95
+K25,Úlcera gástrica,hombre,1.05
+K25,Úlcera gástrica,mujer,0.89
+K26,Úlcera duodenal,hombre,0.97
+K26,Úlcera duodenal,mujer,1.1
+K27,"Úlcera péptica, no especificado sitio",hombre,1
+K27,"Úlcera péptica, no especificado sitio",mujer,1.01
+K29,Gastritis y duodenitis,hombre,1.01
+K29,Gastritis y duodenitis,mujer,0.99
+K30,Dispepsia funcional,hombre,0.72
+K30,Dispepsia funcional,mujer,1.18
+K31,Otras enfermedades de estómago y duodeno,hombre,1.1
+K31,Otras enfermedades de estómago y duodeno,mujer,0.93
+K35,Apendicitis aguda,hombre,0.99
+K35,Apendicitis aguda,mujer,1.01
+K36,Otros tipos de apendicitis,hombre,0.82
+K36,Otros tipos de apendicitis,mujer,1.16
+K37,Apendicitis no especificada,hombre,0.99
+K37,Apendicitis no especificada,mujer,1.01
+K38,Otras enfermedades de apéndice,hombre,1.12
+K38,Otras enfermedades de apéndice,mujer,0.86
+K40,Hernia inguinal,hombre,1
+K40,Hernia inguinal,mujer,1
+K41,Hernia femoral,hombre,0.96
+K41,Hernia femoral,mujer,1.06
+K42,Hernia umbilical,hombre,0.96
+K42,Hernia umbilical,mujer,1.06
+K43,Hernia ventral,hombre,0.96
+K43,Hernia ventral,mujer,1.06
+K44,Hernia diafragmática,hombre,0.96
+K44,Hernia diafragmática,mujer,1.06
+K45,Otra hernia abdominal,hombre,0.98
+K45,Otra hernia abdominal,mujer,1.04
+K46,Hernia abdominal no especificada,hombre,0.96
+K46,Hernia abdominal no especificada,mujer,1.06
+K50,Enfermedad de Crohn [enteritis regional],hombre,0.98
+K50,Enfermedad de Crohn [enteritis regional],mujer,1.02
+K51,Colitis ulcerosa,hombre,1.01
+K51,Colitis ulcerosa,mujer,0.99
+K52,Otras gastroenteritis y colitis no infecciosas y las no especificadas,hombre,0.92
+K52,Otras gastroenteritis y colitis no infecciosas y las no especificadas,mujer,1.08
+K56,Íleo paralítico y obstrucción intestinal sin hernia,hombre,0.94
+K56,Íleo paralítico y obstrucción intestinal sin hernia,mujer,1.07
+K57,Enfermedad diverticular de intestino,hombre,0.99
+K57,Enfermedad diverticular de intestino,mujer,1.02
+K58,Síndrome de intestino irritable,hombre,0.92
+K58,Síndrome de intestino irritable,mujer,1.05
+K59,Otros trastornos intestinales funcionales,hombre,0.92
+K59,Otros trastornos intestinales funcionales,mujer,1.05
+K60,Fisura y fístula de las regiones anal y rectal,hombre,1.02
+K60,Fisura y fístula de las regiones anal y rectal,mujer,0.96
+K61,Absceso de las regiones anal y rectal,hombre,0.98
+K61,Absceso de las regiones anal y rectal,mujer,1.06
+K62,Otras enfermedades de ano y recto,hombre,1.01
+K62,Otras enfermedades de ano y recto,mujer,0.98
+K63,Otras enfermedades de intestino,hombre,1.01
+K63,Otras enfermedades de intestino,mujer,0.98
+K64,Hemorroides y trombosis venosa perianal,hombre,0.94
+K64,Hemorroides y trombosis venosa perianal,mujer,1.08
+K65,Peritonitis,hombre,1.03
+K65,Peritonitis,mujer,0.95
+K66,Otros trastornos de peritoneo,hombre,1.06
+K66,Otros trastornos de peritoneo,mujer,0.97
+K70,Enfermedad alcohólica de hígado,hombre,1.03
+K70,Enfermedad alcohólica de hígado,mujer,0.9
+K72,"Insuficiencia hepática, no clasificada bajo otro concepto",hombre,0.97
+K72,"Insuficiencia hepática, no clasificada bajo otro concepto",mujer,1.06
+K73,"Hepatitis crónica, no clasificada bajo otro concepto",hombre,1.03
+K73,"Hepatitis crónica, no clasificada bajo otro concepto",mujer,0.9
+K74,Fibrosis y cirrosis de hígado,hombre,1.03
+K74,Fibrosis y cirrosis de hígado,mujer,0.9
+K75,Otras enfermedades inflamatorias de hígado,hombre,1.04
+K75,Otras enfermedades inflamatorias de hígado,mujer,0.84
+K76,Otras enfermedades de hígado,hombre,1.03
+K76,Otras enfermedades de hígado,mujer,0.9
+K77,Trastornos hepáticos en enfermedades clasificadas bajo otro concepto,hombre,0.97
+K77,Trastornos hepáticos en enfermedades clasificadas bajo otro concepto,mujer,1.04
+K80,Colelitiasis,hombre,0.97
+K80,Colelitiasis,mujer,1.02
+K81,Colecistitis,hombre,1
+K81,Colecistitis,mujer,1
+K82,Otras enfermedades de vesícula biliar,hombre,1
+K82,Otras enfermedades de vesícula biliar,mujer,1
+K83,Otras enfermedades de tracto biliar,hombre,1.04
+K83,Otras enfermedades de tracto biliar,mujer,0.97
+K85,Pancreatitis aguda,hombre,1.01
+K85,Pancreatitis aguda,mujer,0.99
+K86,Otras enfermedades de páncreas,hombre,1.01
+K86,Otras enfermedades de páncreas,mujer,0.99
+K90,Malabsorción intestinal,hombre,0.81
+K90,Malabsorción intestinal,mujer,1.07
+K91,"Complicaciones y trastornos de aparato digestivo intraoperatorios y posprocedimiento, no clasificados bajo otro concepto",hombre,0.92
+K91,"Complicaciones y trastornos de aparato digestivo intraoperatorios y posprocedimiento, no clasificados bajo otro concepto",mujer,1.05
+K92,Otras enfermedades de aparato digestivo,hombre,1.06
+K92,Otras enfermedades de aparato digestivo,mujer,0.86
+L01,Impétigo,hombre,0.89
+L01,Impétigo,mujer,1.1
+L02,"Absceso cutáneo, forúnculo y ántrax",hombre,1
+L02,"Absceso cutáneo, forúnculo y ántrax",mujer,1
+L03,Celulitis y linfangitis aguda,hombre,1.02
+L03,Celulitis y linfangitis aguda,mujer,0.97
+L04,Linfadenitis aguda,hombre,1.01
+L04,Linfadenitis aguda,mujer,0.99
+L05,Quiste y seno pilonidal,hombre,1.03
+L05,Quiste y seno pilonidal,mujer,0.89
+L08,Otras infecciones locales de la piel y del tejido subcutáneo,hombre,1.09
+L08,Otras infecciones locales de la piel y del tejido subcutáneo,mujer,0.86
+L10,Pénfigo,hombre,0.85
+L10,Pénfigo,mujer,1.11
+L12,Penfigoide,hombre,0.85
+L12,Penfigoide,mujer,1.11
+L13,Otros trastornos ampollosos,hombre,0.85
+L13,Otros trastornos ampollosos,mujer,1.11
+L20,Dermatitis atópica,hombre,0.98
+L20,Dermatitis atópica,mujer,1.02
+L21,Dermatitis seborreica,hombre,1.04
+L21,Dermatitis seborreica,mujer,0.97
+L23,Dermatitis alérgica de contacto,hombre,0.95
+L23,Dermatitis alérgica de contacto,mujer,1.04
+L24,Dermatitis de contacto irritativa,hombre,0.95
+L24,Dermatitis de contacto irritativa,mujer,1.04
+L25,Dermatitis de contacto no especificada,hombre,0.95
+L25,Dermatitis de contacto no especificada,mujer,1.04
+L26,Dermatitis exfoliativa,hombre,0.85
+L26,Dermatitis exfoliativa,mujer,1.06
+L27,Dermatitis debida a sustancias ingeridas,hombre,0.77
+L27,Dermatitis debida a sustancias ingeridas,mujer,1.14
+L28,Liquen simple crónico y prurigo,hombre,1.04
+L28,Liquen simple crónico y prurigo,mujer,0.96
+L29,Prurito,hombre,1.04
+L29,Prurito,mujer,0.96
+L30,Otras dermatitis y las no especificadas,hombre,0.95
+L30,Otras dermatitis y las no especificadas,mujer,1.04
+L40,Psoriasis,hombre,1.04
+L40,Psoriasis,mujer,0.96
+L41,Parapsoriasis,hombre,1.04
+L41,Parapsoriasis,mujer,0.96
+L42,Pitiriasis rosada,hombre,1.04
+L42,Pitiriasis rosada,mujer,0.96
+L43,Liquen plano,hombre,0.84
+L43,Liquen plano,mujer,1.1
+L44,Otros trastornos papuloescamosos,hombre,1.04
+L44,Otros trastornos papuloescamosos,mujer,0.96
+L50,Urticaria,hombre,0.95
+L50,Urticaria,mujer,1.03
+L51,Eritema multiforme,hombre,0.85
+L51,Eritema multiforme,mujer,1.06
+L52,Eritema nodoso,hombre,0.85
+L52,Eritema nodoso,mujer,1.06
+L53,Otras afecciones eritematosas,hombre,0.85
+L53,Otras afecciones eritematosas,mujer,1.06
+L55,Quemadura solar,hombre,0.95
+L55,Quemadura solar,mujer,1.04
+L56,Otras alteraciones agudas de la piel debidas a radiación ultravioleta,hombre,0.95
+L56,Otras alteraciones agudas de la piel debidas a radiación ultravioleta,mujer,1.04
+L57,Alteraciones de la piel debidas a la exposición crónica a radiación no ionizante,hombre,1.16
+L57,Alteraciones de la piel debidas a la exposición crónica a radiación no ionizante,mujer,0.84
+L58,Radiodermatitis,hombre,0.95
+L58,Radiodermatitis,mujer,1.04
+L59,Otros trastornos de la piel y del tejido subcutáneo relacionados con la radiación,hombre,0.95
+L59,Otros trastornos de la piel y del tejido subcutáneo relacionados con la radiación,mujer,1.04
+L60,Trastornos de las uñas,hombre,0.93
+L60,Trastornos de las uñas,mujer,1.06
+L63,Alopecia areata,hombre,0.82
+L63,Alopecia areata,mujer,1.21
+L65,Otra pérdida de pelo no cicatricial ,hombre,0.82
+L65,Otra pérdida de pelo no cicatricial ,mujer,1.21
+L66,Alopecia cicatricial [pérdida cicatricial del cabello],hombre,0.82
+L66,Alopecia cicatricial [pérdida cicatricial del cabello],mujer,1.21
+L67,Anormalidades del color y del tallo del pelo,hombre,0.82
+L67,Anormalidades del color y del tallo del pelo,mujer,1.21
+L70,Acné,hombre,1.02
+L70,Acné,mujer,0.98
+L71,Rosácea,hombre,0.85
+L71,Rosácea,mujer,1.06
+L72,Quistes foliculares de la piel y del tejido subcutáneo,hombre,1.02
+L72,Quistes foliculares de la piel y del tejido subcutáneo,mujer,0.98
+L73,Otros trastornos foliculares,hombre,1.02
+L73,Otros trastornos foliculares,mujer,0.98
+L74,Trastornos sudoríparos ecrinos,hombre,1.08
+L74,Trastornos sudoríparos ecrinos,mujer,0.93
+L80,Vitíligo,hombre,1.04
+L80,Vitíligo,mujer,0.97
+L81,Otros trastornos de la pigmentación,hombre,1.04
+L81,Otros trastornos de la pigmentación,mujer,0.97
+L82,Queratosis seborreica,hombre,1.16
+L82,Queratosis seborreica,mujer,0.84
+L83,Acantosis nigricans,hombre,0.84
+L83,Acantosis nigricans,mujer,1.1
+L84,Callos y callosidades,hombre,0.93
+L84,Callos y callosidades,mujer,1.11
+L85,Otros tipos de engrosamiento epidérmico,hombre,0.84
+L85,Otros tipos de engrosamiento epidérmico,mujer,1.1
+L88,Pioderma gangrenoso,hombre,1.09
+L88,Pioderma gangrenoso,mujer,0.86
+L89,Úlcera por presión,hombre,1.05
+L89,Úlcera por presión,mujer,0.91
+L91,Trastornos hipertróficos de la piel,hombre,0.84
+L91,Trastornos hipertróficos de la piel,mujer,1.1
+L93,Lupus eritematoso,hombre,0.85
+L93,Lupus eritematoso,mujer,1.06
+L94,Otros trastornos localizados del tejido conjuntivo,hombre,0.84
+L94,Otros trastornos localizados del tejido conjuntivo,mujer,1.1
+L95,"Vasculitis limitada a la piel, no clasificada bajo otro concepto",hombre,1.04
+L95,"Vasculitis limitada a la piel, no clasificada bajo otro concepto",mujer,0.97
+L97,"Úlcera crónica no debida a presión de extremidad inferior, no clasificada bajo otro concepto",hombre,1.05
+L97,"Úlcera crónica no debida a presión de extremidad inferior, no clasificada bajo otro concepto",mujer,0.91
+L98,"Otros trastornos de la piel y del tejido subcutáneo, no clasificados bajo otro concepto",hombre,1.09
+L98,"Otros trastornos de la piel y del tejido subcutáneo, no clasificados bajo otro concepto",mujer,0.86
+M00,Artritis piógena (séptica) (L),hombre,1.27
+M00,Artritis piógena (séptica) (L),mujer,0.78
+M02,Artropatías postinfecciosas y reactivas,hombre,0.94
+M02,Artropatías postinfecciosas y reactivas,mujer,1.06
+M05,Artritis reumatoide con factor reumatoide,hombre,0.89
+M05,Artritis reumatoide con factor reumatoide,mujer,1.06
+M06,Otros tipos de artritis reumatoide,hombre,0.89
+M06,Otros tipos de artritis reumatoide,mujer,1.06
+M07,Artropatías enteropáticas,hombre,0.94
+M07,Artropatías enteropáticas,mujer,1.06
+M08,Artritis juvenil,hombre,0.89
+M08,Artritis juvenil,mujer,1.06
+M10,Gota,hombre,0.98
+M10,Gota,mujer,1.33
+M11,Otras artropatías por cristales,hombre,0.83
+M11,Otras artropatías por cristales,mujer,1.48
+M12,Otras artropatías y las no especificadas,hombre,0.89
+M12,Otras artropatías y las no especificadas,mujer,1.06
+M13,Otras artritis,hombre,0.93
+M13,Otras artritis,mujer,1.1
+M15,Poliartrosis,hombre,1.03
+M15,Poliartrosis,mujer,0.97
+M16,Artrosis de cadera,hombre,1.03
+M16,Artrosis de cadera,mujer,0.97
+M17,Artrosis de rodilla,hombre,1.03
+M17,Artrosis de rodilla,mujer,0.97
+M18,Artrosis de primera articulación carpometacarpiana,hombre,1.03
+M18,Artrosis de primera articulación carpometacarpiana,mujer,0.97
+M19,Otras artrosis y las no especificadas,hombre,1.03
+M19,Otras artrosis y las no especificadas,mujer,0.97
+M20,Deformidades adquiridas de los dedos de manos y pies,hombre,0.93
+M20,Deformidades adquiridas de los dedos de manos y pies,mujer,1.01
+M21,Otras deformidades adquiridas de las extremidades,hombre,1
+M21,Otras deformidades adquiridas de las extremidades,mujer,1
+M22,Trastorno de rótula,hombre,1
+M22,Trastorno de rótula,mujer,1
+M23,Trastorno interno de rodilla,hombre,0.96
+M23,Trastorno interno de rodilla,mujer,1.09
+M24,Otros trastornos especificados de articulación,hombre,1
+M24,Otros trastornos especificados de articulación,mujer,1
+M25,"Otros trastornos de articulación, no clasificados bajo otro concepto",hombre,0.97
+M25,"Otros trastornos de articulación, no clasificados bajo otro concepto",mujer,1.04
+M31,Otras vasculopatías necrotizantes,hombre,0.86
+M31,Otras vasculopatías necrotizantes,mujer,1.13
+M32,Lupus eritematoso sistémico (LES),hombre,0.92
+M32,Lupus eritematoso sistémico (LES),mujer,1.03
+M33,Dermatopolimiositis,hombre,0.92
+M33,Dermatopolimiositis,mujer,1.03
+M34,Esclerosis sistémica [esclerodermia],hombre,0.92
+M34,Esclerosis sistémica [esclerodermia],mujer,1.03
+M35,Otros tipos de afectación sistémica de tejido conectivo,hombre,0.92
+M35,Otros tipos de afectación sistémica de tejido conectivo,mujer,1.03
+M41,Escoliosis,hombre,0.93
+M41,Escoliosis,mujer,1.03
+M43,Otras dorsopatías deformantes,hombre,0.94
+M43,Otras dorsopatías deformantes,mujer,1.05
+M45,Espondilitis anquilosante,hombre,1.03
+M45,Espondilitis anquilosante,mujer,0.97
+M46,Otras espondilopatías inflamatorias,hombre,1.03
+M46,Otras espondilopatías inflamatorias,mujer,0.97
+M47,Espondilosis,hombre,1.03
+M47,Espondilosis,mujer,0.97
+M48,Otras espondilopatías,hombre,0.9
+M48,Otras espondilopatías,mujer,1.09
+M50,Trastornos de disco cervical,hombre,1
+M50,Trastornos de disco cervical,mujer,1
+M51,"Trastornos de disco intervertebral dorsal, dorsolumbar y lumbosacro",hombre,1
+M51,"Trastornos de disco intervertebral dorsal, dorsolumbar y lumbosacro",mujer,1
+M53,"Otras dorsopatías y las no especificadas, no clasificadas bajo otro concepto",hombre,0.97
+M53,"Otras dorsopatías y las no especificadas, no clasificadas bajo otro concepto",mujer,1.02
+M54,Dorsalgia,hombre,0.97
+M54,Dorsalgia,mujer,1.02
+M65,Sinovitis y tenosinovitis,hombre,1
+M65,Sinovitis y tenosinovitis,mujer,1
+M66,Ruptura espontánea de membrana sinovial y tendón,hombre,1
+M66,Ruptura espontánea de membrana sinovial y tendón,mujer,1
+M67,Otros trastornos de membrana sinovial y tendón,hombre,1
+M67,Otros trastornos de membrana sinovial y tendón,mujer,1
+M70,"Trastorno de partes blandas en relación con uso, uso excesivo y presión",hombre,0.91
+M70,"Trastorno de partes blandas en relación con uso, uso excesivo y presión",mujer,1.09
+M71,Otras bursopatías,hombre,1
+M71,Otras bursopatías,mujer,1
+M72,Trastornos fibroblásticos,hombre,0.98
+M72,Trastornos fibroblásticos,mujer,1.03
+M75,Lesiones de hombro,hombre,0.91
+M75,Lesiones de hombro,mujer,1.09
+M76,"Entesopatías, extremidad inferior, excluido el pie",hombre,0.91
+M76,"Entesopatías, extremidad inferior, excluido el pie",mujer,1.09
+M77,Otros tipos de entesopatías,hombre,0.91
+M77,Otros tipos de entesopatías,mujer,1.09
+M79,"Otros trastornos de partes blandas y los no especificados, no clasificados bajo otro concepto",hombre,0.87
+M79,"Otros trastornos de partes blandas y los no especificados, no clasificados bajo otro concepto",mujer,1.12
+M80,Osteoporosis con fractura patológica actual,hombre,1.09
+M80,Osteoporosis con fractura patológica actual,mujer,0.91
+M81,Osteoporosis sin fractura patológica actual,hombre,1.09
+M81,Osteoporosis sin fractura patológica actual,mujer,0.91
+M84,Trastorno de continuidad del hueso,hombre,1.09
+M84,Trastorno de continuidad del hueso,mujer,0.91
+M85,Otros trastornos de densidad y estructura óseas,hombre,1.09
+M85,Otros trastornos de densidad y estructura óseas,mujer,0.91
+M86,Osteomielitis,hombre,1.04
+M86,Osteomielitis,mujer,0.91
+M87,Osteonecrosis,hombre,1.09
+M87,Osteonecrosis,mujer,0.91
+M88,Osteítis deformante [enfermedad ósea de Paget],hombre,1.11
+M88,Osteítis deformante [enfermedad ósea de Paget],mujer,0.9
+M89,Otros trastornos de hueso,hombre,1.09
+M89,Otros trastornos de hueso,mujer,0.91
+M93,Otras osteocondropatías,hombre,1.02
+M93,Otras osteocondropatías,mujer,0.97
+M94,Otros trastornos del cartílago,hombre,1.09
+M94,Otros trastornos del cartílago,mujer,0.91
+M96,"Complicaciones y trastornos intraoperatorios y posprocedimiento del aparato musculoesquelético, no clasificados bajo otro concepto",hombre,1.32
+M96,"Complicaciones y trastornos intraoperatorios y posprocedimiento del aparato musculoesquelético, no clasificados bajo otro concepto",mujer,0.83
+M99,"Lesiones biomecánicas, no clasificadas bajo otro concepto",hombre,1.1
+M99,"Lesiones biomecánicas, no clasificadas bajo otro concepto",mujer,0.87
+N00,Síndrome nefrítico agudo,hombre,1.23
+N00,Síndrome nefrítico agudo,mujer,0.75
+N04,Síndrome nefrótico,hombre,1.15
+N04,Síndrome nefrótico,mujer,0.88
+N08,Trastornos glomerulares en enfermedades clasificadas bajo otro concepto,hombre,1.06
+N08,Trastornos glomerulares en enfermedades clasificadas bajo otro concepto,mujer,0.93
+N10,Nefritis túbulo-intersticial aguda,hombre,1.11
+N10,Nefritis túbulo-intersticial aguda,mujer,0.98
+N11,Nefritis túbulo-intersticial crónica,hombre,1.11
+N11,Nefritis túbulo-intersticial crónica,mujer,0.98
+N12,"Nefritis túbulo-intersticial, no especificada como aguda ni como crónica",hombre,1.11
+N12,"Nefritis túbulo-intersticial, no especificada como aguda ni como crónica",mujer,0.98
+N13,Uropatía obstructiva y por reflujo,hombre,0.98
+N13,Uropatía obstructiva y por reflujo,mujer,1.02
+N15,Otras enfermedades túbulo-intersticiales renales,hombre,1.06
+N15,Otras enfermedades túbulo-intersticiales renales,mujer,0.93
+N17,Fallo renal agudo,hombre,0.94
+N17,Fallo renal agudo,mujer,1.17
+N18,Enfermedad renal crónica (ERC),hombre,0.97
+N18,Enfermedad renal crónica (ERC),mujer,1.06
+N20,Cálculo de riñón y uréter,hombre,0.93
+N20,Cálculo de riñón y uréter,mujer,1.09
+N21,Cálculo del tracto urinario inferior,hombre,0.99
+N21,Cálculo del tracto urinario inferior,mujer,1.02
+N28,"Otros trastornos del riñón y del uréter, no clasificados bajo otro concepto",hombre,0.99
+N28,"Otros trastornos del riñón y del uréter, no clasificados bajo otro concepto",mujer,1.02
+N30,Cistitis,hombre,1.3
+N30,Cistitis,mujer,0.93
+N32,Otros trastornos de vejiga,hombre,1
+N32,Otros trastornos de vejiga,mujer,1.01
+N34,Uretritis y síndrome uretral,hombre,0.89
+N34,Uretritis y síndrome uretral,mujer,1.43
+N35,Estenosis de uretra,hombre,0.96
+N35,Estenosis de uretra,mujer,1.49
+N39,Otros trastornos del aparato urinario,hombre,1.35
+N39,Otros trastornos del aparato urinario,mujer,0.81
+N40,Hipertrofia de próstata,hombre,1
+N41,Enfermedades inflamatorias de próstata,hombre,1
+N43,Hidrocele y espermatocele,hombre,1
+N44,Trastornos no inflamatorios del testículo,hombre,1
+N45,Orquitis y epididimitis,hombre,1
+N46,Infertilidad masculina,hombre,1
+N47,Trastornos del prepucio,hombre,1
+N48,Otros trastornos del pene,hombre,1
+N49,"Trastornos inflamatorios de los órganos genitales masculinos, no clasificados bajo otro concepto",hombre,1
+N50,Otros trastornos no especificados de los órganos genitales masculinos,hombre,1
+N51,Trastornos de los órganos genitales masculinos en otras enfermedades clasificadas bajo otro concepto,hombre,1
+N60,Displasia mamaria benigna,hombre,0.92
+N60,Displasia mamaria benigna,mujer,1
+N61,Trastornos inflamatorios de mama,hombre,0.68
+N61,Trastornos inflamatorios de mama,mujer,1.02
+N62,Hipertrofia mamaria,hombre,0.68
+N62,Hipertrofia mamaria,mujer,1.02
+N63,Masa o bulto no especificado de mama,hombre,0.68
+N63,Masa o bulto no especificado de mama,mujer,1.02
+N64,Otros trastornos mamarios,hombre,0.68
+N64,Otros trastornos mamarios,mujer,1.02
+N70,Salpingitis y ooforitis,mujer,1
+N71,"Enfermedad inflamatoria uterina, con excepción de cuello uterino",mujer,1
+N72,Enfermedad inflamatoria del cuello uterino,mujer,1
+N73,Otras enfermedades inflamatorias pélvicas femeninas,mujer,1
+N75,Enfermedades de la glándula de Bartolino,mujer,1
+N76,Otros tipos de inflamación vaginal y vulvar,mujer,1
+N77,Ulceración e inflamación vulvovaginal por otras enfermedades clasificadas bajo otro concepto,mujer,1
+N80,Endometriosis,mujer,1
+N81,Prolapso genital femenino,mujer,1
+N83,"Trastornos no inflamatorios del ovario, trompa de Falopio y ligamento ancho",mujer,1
+N84,Pólipo del tracto genital femenino,mujer,1
+N85,"Otros trastornos no inflamatorios del útero, con excepción del cervix ",mujer,1
+N87,Displasia del cuello uterino,mujer,1
+N88,Otros trastornos no inflamatorios del cervix ,mujer,1
+N89,Otros trastornos no inflamatorios de vagina,mujer,1
+N90,Otros trastornos no inflamatorios de vulva y periné,mujer,1
+N91,"Menstruación ausente, escasa e infrecuente",mujer,1
+N92,"Menstruación excesiva, frecuente e irregular",mujer,1
+N93,Otro tipo de sangrado anormal uterino y vaginal,mujer,1
+N94,Dolor y otras afecciones asociadas a órganos genitales femeninos y al ciclo menstrual,mujer,1
+N95,Trastornos menopáusicos y perimenopáusicos,mujer,1
+N97,Infertilidad femenina,mujer,1
+N98,Complicaciones asociadas a la fecundación artificial,hombre,1.13
+N98,Complicaciones asociadas a la fecundación artificial,mujer,0.9
+N99,"Complicaciones y trastornos intraoperatorios y posprocedimiento del aparato genitourinario, no clasificados bajo otro concepto",hombre,1.02
+N99,"Complicaciones y trastornos intraoperatorios y posprocedimiento del aparato genitourinario, no clasificados bajo otro concepto",mujer,0.97
+O00,Embarazo ectópico,mujer,1
+O01,Mola hidatiforme,mujer,1
+O02,Otros productos anormales de la concepción,mujer,1
+O03,Aborto espontáneo,mujer,1
+O04,Complicaciones después de interrupción (inducida) del embarazo,mujer,1
+O07,Intento fallido de interrupción del embarazo,mujer,1
+O08,Complicaciones después de un embarazo ectópico y molar,mujer,1
+O10,"Hipertensión preexistente que complica el embarazo, parto y puerperio",mujer,1
+O12,Edema y proteinuria gestacional [inducidos por el embarazo] sin hipertensión,mujer,1
+O13,Hipertensión gestacional [inducida por el embarazo] sin proteinuria significativa,mujer,1
+O14,Preeclampsia,mujer,1
+O15,Eclampsia,mujer,1
+O20,Hemorragia en la fase temprana del embarazo,mujer,1
+O21,Vómitos excesivos en el embarazo,mujer,1
+O22,Complicaciones venosas y hemorroides en el embarazo,mujer,1
+O23,Infecciones del tracto genitourinario en el embarazo,mujer,1
+O24,"Diabetes mellitus en el embarazo, parto y puerperio",mujer,1
+O26,Atención materna por otras afecciones predominantemente relacionadas con el embarazo,mujer,1
+O30,Embarazo múltiple,mujer,1
+O34,Atención materna por anomalía de los órganos pélvicos,mujer,1
+O35,Atención materna por anomalía y daño fetal conocida o sospechada,mujer,1
+O36,Atención materna por otros problemas fetales,mujer,1
+O40,Polihidramnios,mujer,1
+O41,Otros trastornos del líquido y de las membranas amnióticas,mujer,1
+O43,Trastornos de la placenta,mujer,1
+O44,Placenta previa,mujer,1
+O45,Desprendimiento prematuro de placenta [abruptio placentae],mujer,1
+O46,"Hemorragia anteparto, no clasificada bajo otro concepto",mujer,1
+O60,Trabajo de parto prematuro,mujer,1
+O66,Otras obstrucciones del trabajo de parto,mujer,1
+O91,"Infecciones de la mama asociadas al embarazo, puerperio y lactancia",mujer,1
+O94,"Secuelas de complicaciones del embarazo, parto y puerperio",mujer,1
+O98,"Enfermedades infecciosas y parasitarias maternas clasificadas bajo otro concepto pero que complican el embarazo, parto y puerperio",mujer,1
+O99,"Otras enfermedades maternas clasificadas bajo otro concepto pero que complican el embarazo, parto y puerperio",mujer,1
+Q01,Encefalocele,hombre,1.15
+Q01,Encefalocele,mujer,0.85
+Q02,Microcefalia,hombre,1.15
+Q02,Microcefalia,mujer,0.85
+Q03,Hidrocefalia congénita,hombre,1.15
+Q03,Hidrocefalia congénita,mujer,0.85
+Q04,Otras malformaciones congénitas del cerebro,hombre,1.15
+Q04,Otras malformaciones congénitas del cerebro,mujer,0.85
+Q05,Espina bífida,hombre,0.94
+Q05,Espina bífida,mujer,1.05
+Q06,Otras malformaciones congénitas de la médula espinal,hombre,1.15
+Q06,Otras malformaciones congénitas de la médula espinal,mujer,0.85
+Q07,Otras malformaciones congénitas del sistema nervioso,hombre,0.94
+Q07,Otras malformaciones congénitas del sistema nervioso,mujer,1.05
+Q10,"Malformaciones congénitas del párpado, sistema lagrimal y órbita",hombre,1.04
+Q10,"Malformaciones congénitas del párpado, sistema lagrimal y órbita",mujer,0.97
+Q11,"Anoftalmía, microftalmía y macroftalmía",hombre,1.04
+Q11,"Anoftalmía, microftalmía y macroftalmía",mujer,0.97
+Q12,Malformaciones congénitas del cristalino,hombre,1.04
+Q12,Malformaciones congénitas del cristalino,mujer,0.97
+Q13,Malformaciones congénitas del segmento anterior del ojo,hombre,1.04
+Q13,Malformaciones congénitas del segmento anterior del ojo,mujer,0.97
+Q14,Malformaciones congénitas del segmento posterior del ojo,hombre,1.04
+Q14,Malformaciones congénitas del segmento posterior del ojo,mujer,0.97
+Q15,Otras malformaciones congénitas del ojo,hombre,1.02
+Q15,Otras malformaciones congénitas del ojo,mujer,0.97
+Q16,Malformaciones congénitas del oído que causan alteración en la audición,hombre,0.84
+Q16,Malformaciones congénitas del oído que causan alteración en la audición,mujer,1.18
+Q17,Otras malformaciones congénitas del oído,hombre,0.84
+Q17,Otras malformaciones congénitas del oído,mujer,1.18
+Q18,Otras malformaciones congénitas de cara y cuello,hombre,0.84
+Q18,Otras malformaciones congénitas de cara y cuello,mujer,1.18
+Q20,Malformaciones congénitas de las cámaras y conexiones cardiacas,hombre,0.98
+Q20,Malformaciones congénitas de las cámaras y conexiones cardiacas,mujer,1.01
+Q21,Malformaciones congénitas de los tabiques cardiacos,hombre,0.98
+Q21,Malformaciones congénitas de los tabiques cardiacos,mujer,1.01
+Q22,Malformaciones congénitas de las válvulas pulmonar y tricúspide,hombre,1.06
+Q22,Malformaciones congénitas de las válvulas pulmonar y tricúspide,mujer,0.91
+Q23,Malformaciones congénitas de las válvulas aórtica y mitral,hombre,1.06
+Q23,Malformaciones congénitas de las válvulas aórtica y mitral,mujer,0.91
+Q24,Otras malformaciones congénitas cardiacas,hombre,1.06
+Q24,Otras malformaciones congénitas cardiacas,mujer,0.91
+Q25,Malformaciones congénitas de las grandes arterias,hombre,1.12
+Q25,Malformaciones congénitas de las grandes arterias,mujer,0.87
+Q39,Malformaciones congénitas del esófago,hombre,1.16
+Q39,Malformaciones congénitas del esófago,mujer,0.82
+Q40,Otras malformaciones congénitas del tracto digestivo superior,hombre,1.16
+Q40,Otras malformaciones congénitas del tracto digestivo superior,mujer,0.82
+Q52,Otras malformaciones congénitas del aparato genital femenino,hombre,1.04
+Q52,Otras malformaciones congénitas del aparato genital femenino,mujer,0.98
+Q53,Testículo no descendido y ectópico,hombre,1.04
+Q53,Testículo no descendido y ectópico,mujer,0.98
+Q55,Otras malformaciones congénitas de los órganos genitales masculinos,hombre,1.04
+Q55,Otras malformaciones congénitas de los órganos genitales masculinos,mujer,0.98
+Q60,Agenesia renal y otros defectos por reducción del riñón,hombre,0.95
+Q60,Agenesia renal y otros defectos por reducción del riñón,mujer,1.05
+Q61,Enfermedad quística renal,hombre,0.95
+Q61,Enfermedad quística renal,mujer,1.05
+Q64,Otras malformaciones congénitas del aparato urinario,hombre,1.04
+Q64,Otras malformaciones congénitas del aparato urinario,mujer,0.98
+Q66,Deformidades congénitas de los pies,hombre,0.97
+Q66,Deformidades congénitas de los pies,mujer,1.02
+Q68,Otras deformidades musculoesqueléticas congénitas,hombre,0.97
+Q68,Otras deformidades musculoesqueléticas congénitas,mujer,1.02
+Q76,Malformaciones congénitas de la columna vertebral y la caja torácica,hombre,0.98
+Q76,Malformaciones congénitas de la columna vertebral y la caja torácica,mujer,1.02
+Q79,"Malformaciones congénitas del aparato músculoesquelético, no clasificadas bajo otro concepto",hombre,0.98
+Q79,"Malformaciones congénitas del aparato músculoesquelético, no clasificadas bajo otro concepto",mujer,1.02
+Q82,Otras malformaciones congénitas de la piel,hombre,0.66
+Q82,Otras malformaciones congénitas de la piel,mujer,1.11
+Q83,Malformaciones congénitas de la mama,hombre,0.66
+Q83,Malformaciones congénitas de la mama,mujer,1.11
+Q86,"Síndromes malformativos congénitos debidos a causas exógenas conocidas, no clasificadas bajo otro concepto",mujer,1.02
+Q87,Otros síndromes malformativos congénitos especificados que afectan a múltiples sistemas,hombre,0.87
+Q87,Otros síndromes malformativos congénitos especificados que afectan a múltiples sistemas,mujer,1.1
+Q89,"Otras malformaciones congénitas, no clasificadas bajo otro concepto",hombre,0.85
+Q89,"Otras malformaciones congénitas, no clasificadas bajo otro concepto",mujer,1.11
+Q90,Síndrome de Down,mujer,0.85
+Q96,Síndrome de Turner,mujer,0.85
+Q97,"Otras anomalías de cromosomas sexuales, fenotipo femenino, no clasificadas bajo otro concepto",mujer,0.85
+Q98,"Otras anomalías cromosómicas sexuales, fenotipo masculino, no clasificadas bajo otro concepto",mujer,0.85
+Q99,"Otras anomalías cromosómicas, no clasificadas bajo otro concepto",mujer,0.85
+R00,Alteraciones del latido cardiaco,hombre,1.11
+R00,Alteraciones del latido cardiaco,mujer,0.91
+R01,Soplos y otros ruidos cardiacos,hombre,1.11
+R01,Soplos y otros ruidos cardiacos,mujer,0.91
+R03,"Medida de presión arterial anormal, sin diagnóstico",hombre,1.01
+R03,"Medida de presión arterial anormal, sin diagnóstico",mujer,0.99
+R04,Hemorragia de las vías respiratorias,hombre,1.11
+R04,Hemorragia de las vías respiratorias,mujer,0.94
+R05,Tos,hombre,1.14
+R05,Tos,mujer,0.84
+R06,Alteraciones de la respiración,hombre,1.14
+R06,Alteraciones de la respiración,mujer,0.84
+R07,Dolor de garganta y de tórax,hombre,1.11
+R07,Dolor de garganta y de tórax,mujer,0.94
+R09,Otros síntomas y signos que afectan a los aparatos circulatorio y respiratorio,hombre,1.11
+R09,Otros síntomas y signos que afectan a los aparatos circulatorio y respiratorio,mujer,0.91
+R10,Dolor abdominal y pélvico,hombre,0.92
+R10,Dolor abdominal y pélvico,mujer,1.04
+R11,Náusea y vómito,hombre,0.74
+R11,Náusea y vómito,mujer,1.2
+R12,Acidez,hombre,0.74
+R12,Acidez,mujer,1.2
+R13,Afagia y disfagia,hombre,0.74
+R13,Afagia y disfagia,mujer,1.2
+R14,Flatulencia y afecciones afines,hombre,0.74
+R14,Flatulencia y afecciones afines,mujer,1.2
+R15,Incontinencia fecal,hombre,0.74
+R15,Incontinencia fecal,mujer,1.2
+R16,"Hepatomegalia y esplenomegalia, no clasificadas bajo otro concepto",hombre,0.92
+R16,"Hepatomegalia y esplenomegalia, no clasificadas bajo otro concepto",mujer,1.04
+R17,Ictericia no especificada,hombre,1.04
+R17,Ictericia no especificada,mujer,0.97
+R18,Ascitis,hombre,0.92
+R18,Ascitis,mujer,1.04
+R19,Otros síntomas y signos que afectan al aparato digestivo y el abdomen,hombre,0.92
+R19,Otros síntomas y signos que afectan al aparato digestivo y el abdomen,mujer,1.04
+R20,Alteraciones de la sensibilidad cutánea,hombre,1.04
+R20,Alteraciones de la sensibilidad cutánea,mujer,0.97
+R21,Exantema y otras erupciones cutáneas inespecíficas,hombre,1.04
+R21,Exantema y otras erupciones cutáneas inespecíficas,mujer,0.97
+R22,"Tumefacción, masa o bulto de la piel y del tejido celular subcutáneo localizados",hombre,1.04
+R22,"Tumefacción, masa o bulto de la piel y del tejido celular subcutáneo localizados",mujer,0.97
+R23,Otras alteraciones cutáneas,hombre,1.04
+R23,Otras alteraciones cutáneas,mujer,0.97
+R25,Movimientos anormales involuntarios,hombre,1
+R25,Movimientos anormales involuntarios,mujer,1
+R27,Otras alteraciones de la coordinación motora,hombre,1
+R27,Otras alteraciones de la coordinación motora,mujer,1
+R29,Otros síntomas y signos con afectación de sistema nervioso y aparato musculoesquelético,hombre,1
+R29,Otros síntomas y signos con afectación de sistema nervioso y aparato musculoesquelético,mujer,1
+R30,Dolor asociado a la micción,hombre,0.91
+R30,Dolor asociado a la micción,mujer,1.1
+R31,Hematuria,hombre,1.35
+R31,Hematuria,mujer,0.81
+R32,Incontinencia urinaria no especificada,hombre,0.91
+R32,Incontinencia urinaria no especificada,mujer,1.1
+R33,Retención urinaria,hombre,0.91
+R33,Retención urinaria,mujer,1.1
+R34,Anuria y oliguria,hombre,0.91
+R34,Anuria y oliguria,mujer,1.1
+R35,Poliuria,hombre,0.91
+R35,Poliuria,mujer,1.1
+R39,"Otros síntomas y signos que afectan al aparato genitourinario, y los no especificados",hombre,0.91
+R39,"Otros síntomas y signos que afectan al aparato genitourinario, y los no especificados",mujer,1.1
+R40,"Somnolencia, estupor y coma",hombre,0.99
+R40,"Somnolencia, estupor y coma",mujer,1.01
+R42,Mareo y desvanecimiento,hombre,0.99
+R42,Mareo y desvanecimiento,mujer,1.01
+R43,Trastornos del olfato y del gusto,hombre,1
+R43,Trastornos del olfato y del gusto,mujer,1
+R44,Otros síntomas y signos que afectan a las sensaciones y percepciones generales,hombre,0.99
+R44,Otros síntomas y signos que afectan a las sensaciones y percepciones generales,mujer,1.01
+R45,Síntomas y signos que afectan al estado emocional,hombre,1
+R45,Síntomas y signos que afectan al estado emocional,mujer,1
+R47,"Alteraciones del habla, no clasificadas bajo otro concepto",hombre,1.11
+R47,"Alteraciones del habla, no clasificadas bajo otro concepto",mujer,0.94
+R49,Trastornos de la voz y la resonancia,hombre,1.11
+R49,Trastornos de la voz y la resonancia,mujer,0.94
+R50,Fiebre de otro origen y de origen desconocido,hombre,0.99
+R50,Fiebre de otro origen y de origen desconocido,mujer,1.01
+R51,Cefalea,hombre,1.11
+R51,Cefalea,mujer,0.94
+R53,Malestar y fatiga,hombre,0.99
+R53,Malestar y fatiga,mujer,1.01
+R55,Síncope y colapso,hombre,0.99
+R55,Síncope y colapso,mujer,1.01
+R56,"Convulsiones, no clasificadas bajo otro concepto",hombre,0.99
+R56,"Convulsiones, no clasificadas bajo otro concepto",mujer,1.01
+R58,"Hemorragia, no clasificada bajo otro concepto",hombre,1.13
+R58,"Hemorragia, no clasificada bajo otro concepto",mujer,0.93
+R59,Adenomegalia,hombre,1.11
+R59,Adenomegalia,mujer,0.91
+R60,"Edema, no clasificado bajo otro concepto",hombre,1.04
+R60,"Edema, no clasificado bajo otro concepto",mujer,0.97
+R61,Hiperhidrosis generalizada,hombre,0.99
+R61,Hiperhidrosis generalizada,mujer,1.01
+R63,Síntomas y signos relacionados con la alimentación y la ingesta de líquidos,hombre,1.03
+R63,Síntomas y signos relacionados con la alimentación y la ingesta de líquidos,mujer,0.97
+R68,Otros síntomas y signos generales,hombre,0.99
+R68,Otros síntomas y signos generales,mujer,1.01
+R69,Enfermedad NEOM,hombre,1
+R69,Enfermedad NEOM,mujer,1
+R71,Anomalía de los hematíes,hombre,1.04
+R71,Anomalía de los hematíes,mujer,0.96
+R73,Elevación del nivel de glucosa en sangre,hombre,1.04
+R73,Elevación del nivel de glucosa en sangre,mujer,0.96
+R74,Niveles anormales de enzimas en suero,hombre,1.04
+R74,Niveles anormales de enzimas en suero,mujer,0.96
+R78,Hallazgo de drogas y otras sustancias que no se encuentran normalmente en sangre,hombre,1.04
+R78,Hallazgo de drogas y otras sustancias que no se encuentran normalmente en sangre,mujer,0.96
+R80,Proteinuria,hombre,1.2
+R80,Proteinuria,mujer,0.8
+R82,Otros hallazgos anormales y los no especificados en orina,hombre,1.2
+R82,Otros hallazgos anormales y los no especificados en orina,mujer,0.8
+R87,Resultados anormales en muestras tomadas de órganos genitales femeninos,hombre,0.72
+R87,Resultados anormales en muestras tomadas de órganos genitales femeninos,mujer,1.26
+R89,"Resultados anormales en muestras tomadas de otros órganos, sistemas y tejidos",hombre,0.72
+R89,"Resultados anormales en muestras tomadas de otros órganos, sistemas y tejidos",mujer,1.26
+R90,Hallazgos anormales en diagnóstico por imagen del sistema nervioso central,hombre,1.11
+R90,Hallazgos anormales en diagnóstico por imagen del sistema nervioso central,mujer,0.94
+R91,Hallazgos anormales en pruebas de imagen del pulmón,hombre,1.06
+R91,Hallazgos anormales en pruebas de imagen del pulmón,mujer,0.97
+R92,Hallazgos anormales y hallazgos no concluyentes en pruebas de imagen de mama,hombre,1.06
+R92,Hallazgos anormales y hallazgos no concluyentes en pruebas de imagen de mama,mujer,0.97
+R93,Hallazgos anormales en diagnóstico por imagen de otras partes del cuerpo,hombre,1.06
+R93,Hallazgos anormales en diagnóstico por imagen de otras partes del cuerpo,mujer,0.97
+R94,Resultados anormales de estudios funcionales,hombre,1.25
+R94,Resultados anormales de estudios funcionales,mujer,0.77
+R97,Marcadores tumorales anómalos,hombre,1.53
+R97,Marcadores tumorales anómalos,mujer,0.93
+R99,Causas de mortalidad mal definidas y desconocidas,hombre,1.03
+R99,Causas de mortalidad mal definidas y desconocidas,mujer,0.91
+S00,Traumatismo superficial de la cabeza,hombre,0.95
+S00,Traumatismo superficial de la cabeza,mujer,1.09
+S01,Herida abierta de la cabeza,hombre,0.95
+S01,Herida abierta de la cabeza,mujer,1.17
+S02,Fractura de cráneo y huesos de la cara,hombre,0.92
+S02,Fractura de cráneo y huesos de la cara,mujer,1.22
+S03,Luxación y esguince de articulaciones y ligamentos de la cabeza,hombre,0.9
+S03,Luxación y esguince de articulaciones y ligamentos de la cabeza,mujer,1.07
+S04,Traumatismo de nervios craneales,hombre,1.05
+S04,Traumatismo de nervios craneales,mujer,0.95
+S05,Traumatismo del ojo y órbita,hombre,1.09
+S05,Traumatismo del ojo y órbita,mujer,0.66
+S06,Traumatismo intracraneal,hombre,1.03
+S06,Traumatismo intracraneal,mujer,0.94
+S07,Lesión por aplastamiento de la cabeza,hombre,0.86
+S07,Lesión por aplastamiento de la cabeza,mujer,1.2
+S09,Otros traumatismos y traumatismos no especificados de la cabeza,hombre,1.02
+S09,Otros traumatismos y traumatismos no especificados de la cabeza,mujer,0.97
+S10,Traumatismo superficial de cuello,hombre,0.92
+S10,Traumatismo superficial de cuello,mujer,1.1
+S11,Herida abierta del cuello,hombre,0.99
+S11,Herida abierta del cuello,mujer,1.03
+S12,Fractura de vértebra cervical y otras partes del cuello,hombre,1.05
+S12,Fractura de vértebra cervical y otras partes del cuello,mujer,0.94
+S13,Luxación y esguince de articulaciones y ligamentos a nivel del cuello,hombre,1.03
+S13,Luxación y esguince de articulaciones y ligamentos a nivel del cuello,mujer,0.96
+S14,Traumatismo de nervios y médula espinal a nivel del cuello,hombre,1.02
+S14,Traumatismo de nervios y médula espinal a nivel del cuello,mujer,0.96
+S15,Traumatismo de vasos sanguíneos a nivel del cuello,hombre,0.85
+S19,Otros traumatismos especificados y los no especificados del cuello,hombre,0.93
+S19,Otros traumatismos especificados y los no especificados del cuello,mujer,1.14
+S20,Traumatismo superficial del tórax,hombre,0.93
+S20,Traumatismo superficial del tórax,mujer,1.13
+S21,Herida abierta del tórax,hombre,0.98
+S21,Herida abierta del tórax,mujer,1.06
+S22,"Fractura de costilla(s), esternón y columna dorsal",hombre,0.99
+S22,"Fractura de costilla(s), esternón y columna dorsal",mujer,1.03
+S23,Luxación y esguince de articulaciones y ligamentos del tórax,hombre,1.09
+S23,Luxación y esguince de articulaciones y ligamentos del tórax,mujer,0.86
+S24,Traumatismo de nervios y médula espinal a nivel del tórax,hombre,1.13
+S24,Traumatismo de nervios y médula espinal a nivel del tórax,mujer,0.88
+S25,Traumatismo de vasos sanguíneos del tórax,hombre,0.94
+S26,Traumatismo de corazón,hombre,1.03
+S26,Traumatismo de corazón,mujer,0.89
+S27,Traumatismo de otros órganos intratorácicos y los no especificados,hombre,1.02
+S27,Traumatismo de otros órganos intratorácicos y los no especificados,mujer,0.9
+S28,"Lesión por aplastamiento del tórax, y amputación traumática de parte del tórax",hombre,0.96
+S28,"Lesión por aplastamiento del tórax, y amputación traumática de parte del tórax",mujer,1.05
+S29,Otros traumatismos y los no especificados del tórax,hombre,0.96
+S29,Otros traumatismos y los no especificados del tórax,mujer,1.05
+S30,"Traumatismo superficial de abdomen, parte inferior de la espalda, pelvis y genitales externos",hombre,1.02
+S30,"Traumatismo superficial de abdomen, parte inferior de la espalda, pelvis y genitales externos",mujer,0.97
+S31,"Herida abierta de abdomen, parte inferior de la espalda, pelvis y genitales externos",hombre,1.3
+S31,"Herida abierta de abdomen, parte inferior de la espalda, pelvis y genitales externos",mujer,0.38
+S32,Fractura de columna lumbar y pelvis,hombre,1.09
+S32,Fractura de columna lumbar y pelvis,mujer,0.88
+S33,Luxación y esguince de articulaciones y ligamentos de columna lumbar y pelvis,hombre,0.97
+S33,Luxación y esguince de articulaciones y ligamentos de columna lumbar y pelvis,mujer,1.04
+S34,"Traumatismo de médula espinal y nervios lumbares y sacros a nivel de abdomen, parte inferior de espalda y pelvis",hombre,1
+S34,"Traumatismo de médula espinal y nervios lumbares y sacros a nivel de abdomen, parte inferior de espalda y pelvis",mujer,1
+S35,"Traumatismo de vasos sanguíneos a nivel de abdomen, parte inferior de espalda y pelvis",hombre,1.1
+S35,"Traumatismo de vasos sanguíneos a nivel de abdomen, parte inferior de espalda y pelvis",mujer,0.88
+S36,Traumatismo de órganos intraabdominales,hombre,1.07
+S36,Traumatismo de órganos intraabdominales,mujer,0.88
+S38,"Lesión por aplastamiento y amputación traumática de abdomen, parte inferior de la espalda, pelvis y genitales externos",hombre,0.96
+S38,"Lesión por aplastamiento y amputación traumática de abdomen, parte inferior de la espalda, pelvis y genitales externos",mujer,1.05
+S39,"Otros traumatismos y los no especificados de abdomen, parte inferior de la espalda, pelvis y genitales externos",hombre,0.93
+S39,"Otros traumatismos y los no especificados de abdomen, parte inferior de la espalda, pelvis y genitales externos",mujer,1.14
+S40,Traumatismo superficial del hombro y brazo,hombre,0.87
+S40,Traumatismo superficial del hombro y brazo,mujer,1.24
+S41,Herida abierta del hombro y brazo,hombre,0.99
+S41,Herida abierta del hombro y brazo,mujer,1.02
+S42,Fractura del hombro y brazo,hombre,0.98
+S42,Fractura del hombro y brazo,mujer,1.15
+S43,Luxación y esguince de articulaciones y ligamentos de cintura escapular,hombre,0.98
+S43,Luxación y esguince de articulaciones y ligamentos de cintura escapular,mujer,1.04
+S44,Traumatismo de nervios a nivel del hombro y brazo,hombre,1.08
+S44,Traumatismo de nervios a nivel del hombro y brazo,mujer,0.88
+S45,Traumatismo de vasos sanguíneos a nivel del hombro y brazo,hombre,1.09
+S45,Traumatismo de vasos sanguíneos a nivel del hombro y brazo,mujer,0.84
+S46,"Traumatismo de músculo, fascia y tendón a nivel del hombro y brazo",hombre,1.02
+S46,"Traumatismo de músculo, fascia y tendón a nivel del hombro y brazo",mujer,0.96
+S47,Traumatismo por aplastamiento del hombro y brazo,hombre,1.02
+S47,Traumatismo por aplastamiento del hombro y brazo,mujer,0.95
+S49,Otros traumatismos y los no especificados del hombro y brazo,hombre,1.09
+S49,Otros traumatismos y los no especificados del hombro y brazo,mujer,0.91
+S50,Traumatismo superficial de codo y antebrazo,hombre,0.91
+S50,Traumatismo superficial de codo y antebrazo,mujer,1.2
+S51,Herida abierta de codo y antebrazo,hombre,1.02
+S51,Herida abierta de codo y antebrazo,mujer,0.91
+S52,Fractura de antebrazo,hombre,0.95
+S52,Fractura de antebrazo,mujer,1.06
+S53,Luxación y esguince de articulaciones y ligamentos de codo,hombre,0.97
+S53,Luxación y esguince de articulaciones y ligamentos de codo,mujer,1.07
+S54,Traumatismo de nervios a nivel de antebrazo,hombre,1.08
+S54,Traumatismo de nervios a nivel de antebrazo,mujer,0.88
+S55,Traumatismo de vasos sanguíneos a nivel de antebrazo,hombre,1.09
+S55,Traumatismo de vasos sanguíneos a nivel de antebrazo,mujer,0.84
+S56,"Traumatismo de músculo, fascia y tendón a nivel de antebrazo",hombre,0.93
+S56,"Traumatismo de músculo, fascia y tendón a nivel de antebrazo",mujer,1.14
+S57,Traumatismo por aplastamiento de codo y antebrazo,hombre,1.02
+S57,Traumatismo por aplastamiento de codo y antebrazo,mujer,0.95
+S58,Amputación traumática de codo y antebrazo,hombre,1.12
+S58,Amputación traumática de codo y antebrazo,mujer,0.67
+S59,Otros traumatismos y los no especificados de codo y antebrazo,hombre,0.95
+S59,Otros traumatismos y los no especificados de codo y antebrazo,mujer,1.06
+S60,"Traumatismo superficial de muñeca, mano y dedos de la mano",hombre,1.01
+S60,"Traumatismo superficial de muñeca, mano y dedos de la mano",mujer,0.98
+S61,"Herida abierta de muñeca, mano y dedos de la mano",hombre,1.01
+S61,"Herida abierta de muñeca, mano y dedos de la mano",mujer,0.97
+S62,Fractura a nivel de muñeca y mano,hombre,1
+S62,Fractura a nivel de muñeca y mano,mujer,1.01
+S63,Luxación y esguince de articulaciones y ligamentos a nivel de muñeca y mano,hombre,0.95
+S63,Luxación y esguince de articulaciones y ligamentos a nivel de muñeca y mano,mujer,1.07
+S64,Lesión de nervios a nivel de muñeca y mano,hombre,1.08
+S64,Lesión de nervios a nivel de muñeca y mano,mujer,0.88
+S65,Traumatismo de vasos sanguíneos a nivel de muñeca y mano,hombre,1.09
+S65,Traumatismo de vasos sanguíneos a nivel de muñeca y mano,mujer,0.84
+S66,"Traumatismo de músculo, fascia y tendón a nivel de muñeca y mano",hombre,1.02
+S66,"Traumatismo de músculo, fascia y tendón a nivel de muñeca y mano",mujer,0.96
+S67,"Lesión por aplastamiento de muñeca, mano y dedos de la mano",hombre,1.02
+S67,"Lesión por aplastamiento de muñeca, mano y dedos de la mano",mujer,0.95
+S68,"Amputación traumática de muñeca, mano y dedos de la mano",hombre,1.12
+S68,"Amputación traumática de muñeca, mano y dedos de la mano",mujer,0.67
+S69,"Otros traumatismos y los no especificados de muñeca, mano y dedo(s) de la mano",hombre,1.02
+S69,"Otros traumatismos y los no especificados de muñeca, mano y dedo(s) de la mano",mujer,0.96
+S70,Traumatismo superficial de cadera y muslo,hombre,1
+S70,Traumatismo superficial de cadera y muslo,mujer,1.01
+S71,Herida abierta de cadera y muslo,hombre,0.97
+S71,Herida abierta de cadera y muslo,mujer,1.22
+S72,Fractura de fémur,hombre,1
+S72,Fractura de fémur,mujer,1.01
+S73,Luxación y esguince de articulación y ligamentos de cadera,hombre,0.93
+S73,Luxación y esguince de articulación y ligamentos de cadera,mujer,1.15
+S74,Traumatismo de nervios a nivel de cadera y muslo,hombre,1.15
+S74,Traumatismo de nervios a nivel de cadera y muslo,mujer,0.83
+S75,Traumatismo de vasos sanguíneos a nivel de cadera y muslo,hombre,1.16
+S75,Traumatismo de vasos sanguíneos a nivel de cadera y muslo,mujer,0.84
+S76,"Traumatismo de músculo, fascia y tendón a nivel de cadera y muslo",hombre,1.02
+S76,"Traumatismo de músculo, fascia y tendón a nivel de cadera y muslo",mujer,0.96
+S77,Traumatismo por aplastamiento de cadera y muslo,hombre,1.03
+S77,Traumatismo por aplastamiento de cadera y muslo,mujer,0.92
+S78,Amputación traumática de cadera y muslo,hombre,0.96
+S78,Amputación traumática de cadera y muslo,mujer,1.14
+S79,Otros traumatismos y los no especificados de cadera y muslo,hombre,1.02
+S79,Otros traumatismos y los no especificados de cadera y muslo,mujer,0.96
+S80,Traumatismo superficial de rodilla y pierna,hombre,0.98
+S80,Traumatismo superficial de rodilla y pierna,mujer,1.02
+S81,Herida abierta de rodilla y pierna,hombre,0.99
+S81,Herida abierta de rodilla y pierna,mujer,1.04
+S82,"Fractura de pierna, incluyendo tobillo",hombre,1.02
+S82,"Fractura de pierna, incluyendo tobillo",mujer,0.98
+S83,Luxación y esguince de articulaciones y ligamentos de rodilla,hombre,1
+S83,Luxación y esguince de articulaciones y ligamentos de rodilla,mujer,1
+S85,Traumatismo de vasos sanguíneos a nivel de pierna,hombre,1.16
+S85,Traumatismo de vasos sanguíneos a nivel de pierna,mujer,0.84
+S86,"Traumatismo de músculo, fascia y tendón a nivel de pierna",hombre,1.02
+S86,"Traumatismo de músculo, fascia y tendón a nivel de pierna",mujer,0.96
+S87,Lesión por aplastamiento de pierna,hombre,1.03
+S87,Lesión por aplastamiento de pierna,mujer,0.92
+S88,Amputación traumática de pierna,hombre,0.96
+S88,Amputación traumática de pierna,mujer,1.14
+S89,Otros traumatismos y los no especificadas de pierna,hombre,1.02
+S89,Otros traumatismos y los no especificadas de pierna,mujer,0.96
+S90,"Traumatismo superficial de tobillo, pie y dedos de los pies",hombre,0.95
+S90,"Traumatismo superficial de tobillo, pie y dedos de los pies",mujer,1.1
+S91,"Herida abierta de tobillo, pie y dedos de los pies",hombre,1.08
+S91,"Herida abierta de tobillo, pie y dedos de los pies",mujer,0.83
+S92,"Fractura de pie y dedos del pie, excepto tobillo",hombre,1.05
+S92,"Fractura de pie y dedos del pie, excepto tobillo",mujer,0.94
+S93,"Luxación y esguince de articulaciones y ligamentos a nivel de tobillo, pie y dedo(s) del pie",hombre,0.96
+S93,"Luxación y esguince de articulaciones y ligamentos a nivel de tobillo, pie y dedo(s) del pie",mujer,1.04
+S95,Traumatismo de vasos sanguíneos a nivel de tobillo y pie,hombre,1.16
+S95,Traumatismo de vasos sanguíneos a nivel de tobillo y pie,mujer,0.84
+S96,Traumatismo de músculo y tendón a nivel de tobillo y pie,hombre,1.02
+S96,Traumatismo de músculo y tendón a nivel de tobillo y pie,mujer,0.96
+S97,Lesión por aplastamiento de tobillo y pie,hombre,1.03
+S97,Lesión por aplastamiento de tobillo y pie,mujer,0.92
+S98,Amputación traumática de tobillo y pie,hombre,1.11
+S98,Amputación traumática de tobillo y pie,mujer,0.67
+S99,Otros traumatismos y los no especificados de tobillo y pie,hombre,1.02
+S99,Otros traumatismos y los no especificados de tobillo y pie,mujer,0.96
+T07,Traumatismos múltiples no especificados,hombre,1.02
+T07,Traumatismos múltiples no especificados,mujer,0.96
+T14,Traumatismo de región corporal no especificada,hombre,1.02
+T14,Traumatismo de región corporal no especificada,mujer,0.96
+T15,Cuerpo extraño en parte externa del ojo,hombre,0.97
+T15,Cuerpo extraño en parte externa del ojo,mujer,1.44
+T16,Cuerpo extraño en oído,hombre,1.06
+T17,Cuerpo extraño en vías respiratorias,hombre,1.04
+T17,Cuerpo extraño en vías respiratorias,mujer,0.98
+T18,Cuerpo extraño en tubo digestivo,hombre,1.22
+T18,Cuerpo extraño en tubo digestivo,mujer,0.78
+T19,Cuerpo extraño en tracto genitourinario,hombre,0.89
+T19,Cuerpo extraño en tracto genitourinario,mujer,1.1
+T20,"Quemadura y corrosión de cabeza, cara y cuello",hombre,1.05
+T20,"Quemadura y corrosión de cabeza, cara y cuello",mujer,0.91
+T21,Quemadura y corrosión de tronco,hombre,0.98
+T21,Quemadura y corrosión de tronco,mujer,1.02
+T22,"Quemadura y corrosión del hombro y extremidad superior, excepto muñeca y mano",hombre,1.11
+T22,"Quemadura y corrosión del hombro y extremidad superior, excepto muñeca y mano",mujer,0.87
+T23,Quemadura y corrosión de muñeca y mano,hombre,1.05
+T23,Quemadura y corrosión de muñeca y mano,mujer,0.95
+T24,"Quemadura y corrosión de extremidad inferior, excepto tobillo y pie",hombre,1.02
+T24,"Quemadura y corrosión de extremidad inferior, excepto tobillo y pie",mujer,0.96
+T25,Quemadura y corrosión de tobillo y pie,hombre,1.02
+T25,Quemadura y corrosión de tobillo y pie,mujer,0.96
+T27,Quemadura y corrosión de vías respiratorias,hombre,1.14
+T27,Quemadura y corrosión de vías respiratorias,mujer,0.87
+T28,Quemadura y corrosión de otros órganos internos,hombre,1.14
+T28,Quemadura y corrosión de otros órganos internos,mujer,0.87
+T30,"Quemadura y corrosión, región corporal no especificada",hombre,1.05
+T30,"Quemadura y corrosión, región corporal no especificada",mujer,0.96
+T31,Quemaduras clasificadas según extensión de superficie corporal afectada,hombre,1.1
+T31,Quemaduras clasificadas según extensión de superficie corporal afectada,mujer,0.88
+T33,Congelación superficial,hombre,0.85
+T33,Congelación superficial,mujer,1.15
+T36,"Envenenamiento, efecto adverso e infradosificación de antibióticos sistémicos",hombre,1.03
+T36,"Envenenamiento, efecto adverso e infradosificación de antibióticos sistémicos",mujer,0.99
+T37,"Envenenamiento, efecto adverso e infradosificación de otros antiinfecciosos y antiparasitarios sistémicos",hombre,1.03
+T37,"Envenenamiento, efecto adverso e infradosificación de otros antiinfecciosos y antiparasitarios sistémicos",mujer,0.99
+T38,"Envenenamiento, efecto adverso e infradosificación de hormonas y sus antagonistas y sustitutos sintéticos, no clasificados en otro lugar",hombre,1.03
+T38,"Envenenamiento, efecto adverso e infradosificación de hormonas y sus antagonistas y sustitutos sintéticos, no clasificados en otro lugar",mujer,0.99
+T39,"Envenenamiento, efecto adverso e infradosificación por analgésicos no opiáceos, antipiréticos y antirreumáticos",hombre,1.03
+T39,"Envenenamiento, efecto adverso e infradosificación por analgésicos no opiáceos, antipiréticos y antirreumáticos",mujer,0.99
+T40,"Envenenamiento, efecto adverso e infradosificación por narcóticos y psicodislépticos [alucinógenos]",hombre,1.03
+T40,"Envenenamiento, efecto adverso e infradosificación por narcóticos y psicodislépticos [alucinógenos]",mujer,0.99
+T41,"Envenenamiento, efecto adverso e infradosificación por anestésicos y gases medicinales",hombre,1.03
+T41,"Envenenamiento, efecto adverso e infradosificación por anestésicos y gases medicinales",mujer,0.99
+T42,"Envenenamiento, efecto adverso e infradosificación por antiepilépticos, hipnóticos-sedantes y fármacos antiparkinsonianos",hombre,1.03
+T42,"Envenenamiento, efecto adverso e infradosificación por antiepilépticos, hipnóticos-sedantes y fármacos antiparkinsonianos",mujer,0.99
+T43,"Envenenamiento, efecto adverso e infradosificación por fármacos psicotrópicos no clasificados bajo otro concepto",hombre,1.03
+T43,"Envenenamiento, efecto adverso e infradosificación por fármacos psicotrópicos no clasificados bajo otro concepto",mujer,0.99
+T44,"Envenenamiento, efecto adverso e infradosificación por fármacos que afectan principalmente al sistema nervioso autónomo",hombre,1.03
+T44,"Envenenamiento, efecto adverso e infradosificación por fármacos que afectan principalmente al sistema nervioso autónomo",mujer,0.99
+T45,"Envenenamiento, efecto adverso e infradosificación por agentes principalmente sistémicos y hematológicos, no clasificados bajo otro concepto",hombre,1.03
+T45,"Envenenamiento, efecto adverso e infradosificación por agentes principalmente sistémicos y hematológicos, no clasificados bajo otro concepto",mujer,0.99
+T46,"Envenenamiento, efecto adverso e infradosificación por agentes que afectan principalmente al aparato cardiovascular",hombre,1.03
+T46,"Envenenamiento, efecto adverso e infradosificación por agentes que afectan principalmente al aparato cardiovascular",mujer,0.99
+T47,"Envenenamiento, efecto adverso e infradosificación por agentes que afectan principalmente al aparato digestivo",hombre,1.03
+T47,"Envenenamiento, efecto adverso e infradosificación por agentes que afectan principalmente al aparato digestivo",mujer,0.99
+T48,"Envenenamiento, efecto adverso e infradosificación por agentes que actúan principalmente sobre los músculos liso y estriado y el aparato respiratorio",hombre,1.03
+T48,"Envenenamiento, efecto adverso e infradosificación por agentes que actúan principalmente sobre los músculos liso y estriado y el aparato respiratorio",mujer,0.99
+T49,"Envenenamiento, efecto adverso e infradosificación por agentes tópicos que afectan principalmente a piel y mucosas, y por fármacos oftalmológicas, de uso dental y otorrinolaringológico",hombre,1.03
+T49,"Envenenamiento, efecto adverso e infradosificación por agentes tópicos que afectan principalmente a piel y mucosas, y por fármacos oftalmológicas, de uso dental y otorrinolaringológico",mujer,0.99
+T50,"Envenenamiento, efecto adverso e infradosificación por diuréticos, otros fármacos, medicamentos y sustancias biológicas y los no especificados",hombre,1.03
+T50,"Envenenamiento, efecto adverso e infradosificación por diuréticos, otros fármacos, medicamentos y sustancias biológicas y los no especificados",mujer,0.99
+T51,Efecto tóxico de alcohol,hombre,1.08
+T52,Efecto tóxico de disolventes orgánicos,hombre,1.03
+T52,Efecto tóxico de disolventes orgánicos,mujer,0.96
+T53,Efecto tóxico de derivados halogenados de hidrocarburos alifáticos y aromáticos,hombre,1.03
+T53,Efecto tóxico de derivados halogenados de hidrocarburos alifáticos y aromáticos,mujer,0.96
+T54,Efecto tóxico de sustancias corrosivas,hombre,1.09
+T54,Efecto tóxico de sustancias corrosivas,mujer,0.92
+T55,Efecto tóxico de jabones y detergentes,hombre,1.03
+T55,Efecto tóxico de jabones y detergentes,mujer,0.96
+T56,Efecto tóxico de metales,hombre,0.86
+T58,Efecto tóxico de monóxido de carbono,hombre,0.79
+T58,Efecto tóxico de monóxido de carbono,mujer,1.35
+T59,"Efecto tóxico de otros gases, humos y vapores",hombre,1.23
+T59,"Efecto tóxico de otros gases, humos y vapores",mujer,0.71
+T60,Efecto tóxico de plaguicidas (pesticidas),hombre,1.03
+T60,Efecto tóxico de plaguicidas (pesticidas),mujer,0.96
+T62,Efecto tóxico de otras sustancias nocivas ingeridas como alimento,hombre,0.95
+T62,Efecto tóxico de otras sustancias nocivas ingeridas como alimento,mujer,1.05
+T66,"Síndrome de irradiación, no especificado",hombre,1.22
+T66,"Síndrome de irradiación, no especificado",mujer,0.86
+T67,Efectos del calor y la luz,hombre,0.75
+T67,Efectos del calor y la luz,mujer,1.32
+T70,Efectos de presión de aire y presión de agua,hombre,1.13
+T70,Efectos de presión de aire y presión de agua,mujer,0.89
+T75,Otros efectos y los no especificados de otras causas externas,hombre,1.02
+T75,Otros efectos y los no especificados de otras causas externas,mujer,0.99
+T78,"Efectos adversos, no clasificados bajo otro concepto",hombre,0.89
+T78,"Efectos adversos, no clasificados bajo otro concepto",mujer,1.07
+T79,"Ciertas complicaciones precoces de traumatismos, no clasificados bajo otro concepto",hombre,1.05
+T79,"Ciertas complicaciones precoces de traumatismos, no clasificados bajo otro concepto",mujer,0.92
+T81,"Complicaciones de procedimientos, no clasificados bajo otro concepto",hombre,0.89
+T81,"Complicaciones de procedimientos, no clasificados bajo otro concepto",mujer,1.07
+T88,"Otras complicaciones de atención quirúrgica y médica, no clasificadas bajo otro concepto",hombre,1
+T88,"Otras complicaciones de atención quirúrgica y médica, no clasificadas bajo otro concepto",mujer,1
