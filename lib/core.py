@@ -1,6 +1,5 @@
 import sys
 sys.path.insert(0, './')
-from lib import calculator
 from lib import data_repository as repo
 
 def run(code, age_rage, gender, ocupation_code, second_code):
@@ -12,7 +11,10 @@ def run(code, age_rage, gender, ocupation_code, second_code):
       comorbidity_value = repo.comorbidity_value(code, second_code)
     else:
       comorbidity_value = 1.0
-    return calculator.perform(standar_time, age_value, gender_value, ocupation_value, comorbidity_value)
+    return perform(standar_time, age_value, gender_value, ocupation_value, comorbidity_value)
+
+def perform(standar_time, age_value, gender_value, ocupation_value, comorbidity_value=1.0):
+    return (standar_time * ((age_value + gender_value + ocupation_value)/ 3) * comorbidity_value)
 
 if __name__ == "__main__":
     result = run(code="I21.1", age_rage="26-35", gender="hombre", ocupation_code="11", second_code="E11")
