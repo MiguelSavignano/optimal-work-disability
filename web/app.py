@@ -5,7 +5,7 @@ from flask import Response, request, json,render_template
 from lib import data_repository
 from lib import core
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='')
 
 @app.route("/")
 def root():
