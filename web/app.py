@@ -1,13 +1,15 @@
 import sys
 sys.path.insert(0, './')
 from flask import Flask
-from flask import Response
-from flask import request
-from flask import json
+from flask import Response, request, json,render_template
 from lib import data_repository
 from lib import core
 
 app = Flask(__name__)
+
+@app.route("/")
+def root():
+  return render_template('index.html')
 
 @app.route("/all-diseases")
 def all_diseases():
