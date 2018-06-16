@@ -16,7 +16,7 @@ WORKDIR /app
 ADD . /app
 
 ENV FLASK_DEBUG=1
-ENV FLASK_APP=web/app.py
+ENV FLASK_APP=webapp.py
 ENV FLASK_ENV=development
 # Using pip:
 RUN pip3 install -r requirements.txt
