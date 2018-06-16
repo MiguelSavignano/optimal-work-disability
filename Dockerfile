@@ -17,7 +17,7 @@ ADD . /app
 
 ENV FLASK_DEBUG=1
 ENV FLASK_APP=web/app.py
-
+ENV FLASK_ENV=development
 # Using pip:
-# RUN python3 -m pip install -r requirements.txt
-CMD ["flask", "run"]
+RUN pip3 install -r requirements.txt
+CMD ["flask", "run", "--host=0.0.0.0"]
