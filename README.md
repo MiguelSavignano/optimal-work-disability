@@ -6,10 +6,7 @@ Applicacion para calcular los dias de baja optima segun las tablas proporcionada
 ## Instalación
 
 ```
-pip3 install -r requirements.txt
-```
-```
-./web.sh
+docker-compose up
 ```
 ## Info
 http://www.seg-social.es/Internet_1/LaSeguridadSocial/Publicaciones/Publicacionesporcon28156/Informacionsobrepen47075/Incapacidadtemporal/index.htm#documentoXLSM
