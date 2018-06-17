@@ -35,14 +35,5 @@ def all_ocupation():
 
 @app.route("/optimal-time", methods = ['POST'])
 def optimal_time():
-    try:
-      result = core.run(**request.json)
-      message = result
-    except OcupationValueException:
-        message = "No existe cálculo previo para esta enfermedad y ocupación"
-    except AgeValueException:
-        message = "No existe cálculo previo para esta enfermedad y rago de edad"
-    except:
-        message = "No tenemos datos suficientes para calcular esta combinación"
-    return Response(json.dumps({"result": message}), status=200, mimetype='application/json')
-
+    result = core.run(**request.json)
+    return Response(json.dumps({"result": result}), status=200, mimetype='application/json')
