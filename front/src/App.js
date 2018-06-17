@@ -50,7 +50,7 @@ class App extends Component {
       }
     });
 
-    xhr.open("POST", "http://localhost:5000/optimal-time");
+    xhr.open("POST", `${API_URL}/optimal-time`);
     xhr.setRequestHeader("content-type", "application/json");
     xhr.setRequestHeader("cache-control", "no-cache");
 
