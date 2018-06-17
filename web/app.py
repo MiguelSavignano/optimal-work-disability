@@ -38,5 +38,5 @@ def optimal_time():
       data = { "result": result }
       return Response(json.dumps(data), status=200, mimetype='application/json')
     except:
-      return Response(json.dumps({"response": "Error"}), status=200, mimetype='application/json')
+      return Response(json.dumps({"result": "No existe un valor para esta combinación"}), status=200, mimetype='application/json')
 

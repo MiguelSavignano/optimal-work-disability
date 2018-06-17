@@ -17,5 +17,5 @@ def perform(standar_time, age_value, gender_value, ocupation_value, comorbidity_
     return (standar_time * ((age_value + gender_value + ocupation_value)/ 3) * comorbidity_value)
 
 if __name__ == "__main__":
-    result = run(code="I21.1", age_rage="26-35", gender="hombre", ocupation_code="11", second_code="E11")
+    result = run(code="A09", age_rage="26-35", gender="hombre", ocupation_code="1")
     print(result)
