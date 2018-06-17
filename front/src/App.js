@@ -1,8 +1,10 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
-import Select from "react-select";
+import Select from "react-virtualized-select";
+
 import "./App.scss";
 import "react-select/dist/react-select.css";
+import "react-virtualized-select/styles.css";
+
 const API_URL =
   process.env.NODE_ENV == "production"
     ? "https://optimal-work-disability.herokuapp.com"
