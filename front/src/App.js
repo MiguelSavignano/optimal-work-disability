@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
+import Select from "react-select";
 import "./App.scss";
-
+import "react-select/dist/react-select.css";
 const API_URL =
   process.env.NODE_ENV == "production"
     ? "https://optimal-work-disability.herokuapp.com"
@@ -36,8 +37,19 @@ class App extends Component {
     result: ""
   };
 
+  setSelectValue = name => selectedOption => {
+    this.setState({
+      form: {
+        ...this.state.form,
+        [name]: selectedOption ? selectedOption.value : ""
+      }
+    });
+  };
+
   setValue = name => event => {
-    this.setState({ form: { ...this.state.form, [name]: event.target.value } });
+    this.setState({
+      form: { ...this.state.form, [name]: event.target.value }
+    });
   };
 
   onSubmit = event => {
@@ -81,21 +93,16 @@ class App extends Component {
                       <label htmlFor="" className="label">
                         Tipo de enfermedad:
                       </label>
-                      <select
-                        className="input is-large"
+                      <Select
+                        name="form-field-name"
+                        value={this.state.form.code}
                         required
-                        onChange={this.setValue("code")}
-                      >
-                        <option value={""}> </option>
-                        {this.state.allDiseases.map((disease, index) => (
-                          <option
-                            key={disease["CODIGO"]}
-                            value={disease["CODIGO"]}
-                          >
-                            {disease["DESCRIPCION"]}
-                          </option>
-                        ))}
-                      </select>
+                        onChange={this.setSelectValue("code")}
+                        options={this.state.allDiseases.map(i => ({
+                          value: i["CODIGO"],
+                          label: i["DESCRIPCION"]
+                        }))}
+                      />
                     </div>
                   </div>
                   <div className="field">
@@ -103,18 +110,16 @@ class App extends Component {
                       <label htmlFor="" className="label">
                         Grupo de ocupación:
                       </label>
-                      <select
-                        className="input is-large"
+                      <Select
+                        className="is-large"
+                        value={this.state.form.ocupation_code}
                         required
-                        onChange={this.setValue("ocupation_code")}
-                      >
-                        <option value={""}> </option>
-                        {this.state.allOcupation.map((item, index) => (
-                          <option key={item["grupo"]} value={item["grupo"]}>
-                            {item["GRUPO DE OCUPACION"]}
-                          </option>
-                        ))}
-                      </select>
+                        onChange={this.setSelectValue("ocupation_code")}
+                        options={this.state.allOcupation.map(i => ({
+                          value: i["grupo"],
+                          label: i["GRUPO DE OCUPACION"]
+                        }))}
+                      />
                     </div>
                   </div>
                   <div className="field is-horizontal">
