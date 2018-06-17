@@ -6,9 +6,17 @@ from lib.data_repository import OcupationValueException
 
 def run(code, age_rage, gender, ocupation_code, second_code=None):
     standar_time    = repo.optime_time_value(code)
-    age_value       = repo.age_value(code, age_rage)
-    gender_value    = repo.gender_value(code, gender)
-    ocupation_value = repo.ocupation_value(code, ocupation_code)
+    gender_value = repo.gender_value(code, gender)
+
+    try:
+        age_value = repo.age_value(code, age_rage)
+    except AgeValueException:
+        age_value = 1.0
+    try:
+        ocupation_value = repo.ocupation_value(code, ocupation_code)
+    except OcupationValueException:
+        ocupation_value = 1.0
+
     if (second_code):
         comorbidity_value = repo.comorbidity_value(code, second_code)
     else:
@@ -23,11 +31,6 @@ if __name__ == "__main__":
     age_rage = sys.argv[2]
     gender = sys.argv[3]
     ocupation_code = sys.argv[4]
-    try:
-        result = run(code, age_rage, gender, ocupation_code)
-        print(result)
-    except OcupationValueException:
-        print("No existe un calculo previo para esta enfermedad y ocupación")
-    except AgeValueException:
-        print("No se pudo calcular coeficiente para la edad")
+    result = run(code, age_rage, gender, ocupation_code)
+    print(result)
 # python3 lib/core.py "A09" "26-35" "hombre" "2"
