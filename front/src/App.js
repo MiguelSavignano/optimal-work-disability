@@ -2,7 +2,10 @@ import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
-const API_URL = process.env.NODE_ENV == "production" ? "https://optimal-work-disability.herokuapp.com" : "http://localhost:5000";
+const API_URL =
+  process.env.NODE_ENV == "production"
+    ? "https://optimal-work-disability.herokuapp.com"
+    : "http://localhost:5000";
 
 class App extends Component {
   async componentDidMount() {
@@ -38,6 +41,7 @@ class App extends Component {
   };
 
   onSubmit = event => {
+    event.preventDefault();
     var self = this;
     var data = JSON.stringify(this.state.form);
 
@@ -59,60 +63,137 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">Calculo de baja</p>
-        <label htmlFor="">Enfermedad:</label>
-        <select onChange={this.setValue("code")}>
-          <option value={""}> </option>
-          {this.state.allDiseases.map((disease, index) => (
-            <option key={disease["CODIGO"]} value={disease["CODIGO"]}>
-              {disease["DESCRIPCION"]}
-            </option>
-          ))}
-        </select>
-        <br />
-        <label htmlFor="">Edad:</label>
-        <select onChange={this.setValue("age_rage")}>
-          <option value={""}> </option>
-          {this.state.allAgeRage.map((item, index) => (
-            <option key={item["name"]} value={item["name"]}>
-              {item["name"]}
-            </option>
-          ))}
-        </select>
-        <br />
-        <label htmlFor="">Genero:</label>
-        <select onChange={this.setValue("gender")}>
-          <option value={""}> </option>
-          {this.state.allGenderRage.map((item, index) => (
-            <option key={item["name"]} value={item["name"]}>
-              {item["name"]}
-            </option>
-          ))}
-        </select>
-        <br />
-        <label htmlFor="">Ocupació:</label>
-        <select onChange={this.setValue("ocupation_code")}>
-          <option value={""}> </option>
-          {this.state.allOcupation.map((item, index) => (
-            <option key={item["grupo"]} value={item["grupo"]}>
-              {item["GRUPO DE OCUPACION"]}
-            </option>
-          ))}
-        </select>
-        <br />
-        <strong>{this.state.result}</strong>
-        <br />
-        <button type="button" onClick={this.onSubmit}>
-          Calcular
-        </button>
-      </div>
+      <section className="hero is-success is-fullheight">
+        <div className="hero-body">
+          <div className="container has-text-centered">
+            <div className="column is-10 is-offset-1">
+              <h3 className="title has-text-grey">
+                Cálculo de incapacidad temporal
+              </h3>
+              {/* <p className="subtitle has-text-grey">Please login to proceed.</p> */}
+              <div className="box">
+                <figure className="avatar">
+                  <img src="https://placehold.it/128x128" />
+                </figure>
+                <form onSubmit={this.onSubmit}>
+                  <div className="field">
+                    <div className="control">
+                      <label htmlFor="" className="label">
+                        Tipo de enfermedad:
+                      </label>
+                      <select
+                        className="input is-large"
+                        required
+                        onChange={this.setValue("code")}
+                      >
+                        <option value={""}> </option>
+                        {this.state.allDiseases.map((disease, index) => (
+                          <option
+                            key={disease["CODIGO"]}
+                            value={disease["CODIGO"]}
+                          >
+                            {disease["DESCRIPCION"]}
+                          </option>
+                        ))}
+                      </select>
+                    </div>
+                  </div>
+                  <div className="field">
+                    <div className="control">
+                      <label htmlFor="" className="label">
+                        Rango de edad:
+                      </label>
+                      <select
+                        className="input is-large"
+                        required
+                        onChange={this.setValue("age_rage")}
+                      >
+                        <option value={""}> </option>
+                        {this.state.allAgeRage.map((item, index) => (
+                          <option key={item["name"]} value={item["name"]}>
+                            {item["name"]}
+                          </option>
+                        ))}
+                      </select>
+                    </div>
+                    <div className="field">
+                      <div className="control">
+                        <label htmlFor="" className="label">
+                          Genero:
+                        </label>
+                        <select
+                          className="input is-large"
+                          required
+                          onChange={this.setValue("gender")}
+                        >
+                          <option value={""}> </option>
+                          {this.state.allGenderRage.map((item, index) => (
+                            <option key={item["name"]} value={item["name"]}>
+                              {item["name"]}
+                            </option>
+                          ))}
+                        </select>
+                      </div>
+                    </div>
+                    <div className="field">
+                      <div className="control">
+                        <label htmlFor="" className="label">
+                          Grupo de ocupación:
+                        </label>
+                        <select
+                          className="input is-large"
+                          required
+                          onChange={this.setValue("ocupation_code")}
+                        >
+                          <option value={""}> </option>
+                          {this.state.allOcupation.map((item, index) => (
+                            <option key={item["grupo"]} value={item["grupo"]}>
+                              {item["GRUPO DE OCUPACION"]}
+                            </option>
+                          ))}
+                        </select>
+                      </div>
+                    </div>
+                  </div>
+                  <button
+                    type="submit"
+                    className="button is-block is-info is-large is-fullwidth"
+                  >
+                    Calcular
+                  </button>
+                  {this.state.result && (
+                    <React.Fragment>
+                      <hr />
+                      <h4 className="title has-text-grey">
+                        El tiempo estimado es {roundResult(this.state.result)}{" "}
+                        días
+                      </h4>
+                    </React.Fragment>
+                  )}
+                </form>
+              </div>
+              <p className="has-text-grey">
+                <a href="http://www.seg-social.es/Internet_1/LaSeguridadSocial/Publicaciones/Publicacionesporcon28156/Informacionsobrepen47075/Incapacidadtemporal/index.htm#documentoXLSM">
+                  Más información
+                </a>{" "}
+                &nbsp;·&nbsp;
+                <a href="http://www.seg-social.es/prdi00/groups/public/documents/binario/122970.pdf">
+                  Manual de Tiempos Óptimos de Incapacidad Temporal.
+                </a>{" "}
+                &nbsp;·&nbsp;
+                <a href="http://www.seg-social.es">Ayuda?</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
     );
   }
 }
+
+const roundResult = str => {
+  const number = parseFloat(str);
+  return Number(number.toFixed(1));
+};
 
 export default App;
