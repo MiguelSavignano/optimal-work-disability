@@ -6,8 +6,10 @@ from lib.data_repository import OcupationValueException
 
 def run(code, age_rage, gender, ocupation_code, second_code=None):
     standar_time    = repo.optime_time_value(code)
-    gender_value = repo.gender_value(code, gender)
-
+    try:
+        gender_value = repo.gender_value(code, gender)
+    except:
+        gender_value = 1
     try:
         age_value = repo.age_value(code, age_rage)
     except AgeValueException:
