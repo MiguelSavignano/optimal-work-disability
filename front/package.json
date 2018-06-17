@@ -13,5 +13,9 @@
     "build": "react-scripts build && cp -fr build/* ../web/static && cp ../web/static/index.html ../web/templates/index.html",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.3"
   }
 }
