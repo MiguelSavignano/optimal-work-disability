@@ -96,7 +96,6 @@ class App extends Component {
                         Tipo de enfermedad:
                       </label>
                       <Select
-                        name="form-field-name"
                         value={this.state.form.code}
                         required
                         onChange={this.setSelectValue("code")}
@@ -113,7 +112,6 @@ class App extends Component {
                         Grupo de ocupación:
                       </label>
                       <Select
-                        className="is-large"
                         value={this.state.form.ocupation_code}
                         required
                         onChange={this.setSelectValue("ocupation_code")}
@@ -132,7 +130,7 @@ class App extends Component {
                             Rango de edad:
                           </label>
                           <select
-                            className="input is-large"
+                            className="input is-medium"
                             required
                             onChange={this.setValue("age_rage")}
                           >
@@ -151,7 +149,7 @@ class App extends Component {
                             Genero:
                           </label>
                           <select
-                            className="input is-large"
+                            className="input is-medium"
                             required
                             onChange={this.setValue("gender")}
                           >
