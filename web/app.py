@@ -4,6 +4,8 @@ from flask import Flask
 from flask import Response, request, json,render_template
 from lib import data_repository
 from lib import core
+from lib.data_repository import AgeValueException
+from lib.data_repository import OcupationValueException
 
 app = Flask(__name__, static_url_path='')
 
@@ -35,8 +37,12 @@ def all_ocupation():
 def optimal_time():
     try:
       result = core.run(**request.json)
-      data = { "result": result }
-      return Response(json.dumps(data), status=200, mimetype='application/json')
+      message = result
+    except OcupationValueException:
+        message = "No existe cálculo previo para esta enfermedad y ocupación"
+    except AgeValueException:
+        message = "No existe cálculo previo para esta enfermedad y rago de edad"
     except:
-      return Response(json.dumps({"result": "No existe un valor para esta combinación"}), status=200, mimetype='application/json')
+        message = "No tenemos datos suficientes para calcular esta combinación"
+    return Response(json.dumps({"result": message}), status=200, mimetype='application/json')
 

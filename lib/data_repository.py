@@ -22,7 +22,10 @@ def optime_time_value(code=""):
 def age_value(code="", age_rage=""):
     code = __supecode__(code)
     df = pd.read_csv("data/FC edad.csv")
-    value = df[(df["CODIGO"] == code) & (df["GRUPO EDAD"] == age_rage)].head(1).iloc[0][3]
+    try:
+        value = df[(df["CODIGO"] == code) & (df["GRUPO EDAD"] == age_rage)].head(1).iloc[0][3]
+    except:
+        raise AgeValueException("Error al calcular edad")
     return value
 
 def gender_value(code="", gender=""):
@@ -34,7 +37,10 @@ def gender_value(code="", gender=""):
 def ocupation_value(code="", ocupation_code=""):
     code = __supecode__(code)
     df = pd.read_csv("data/FC ocupación.csv")
-    value = df[(df["CODIGO"] == code) & (df["GRUPO DE OCUPACIÓN"] == int(ocupation_code))].head(1).iloc[0]["RATIO"]
+    try:
+        value = df[(df["CODIGO"] == code) & (df["GRUPO DE OCUPACIÓN"] == int(ocupation_code))].head(1).iloc[0]["RATIO"]
+    except:
+        raise OcupationValueException("Error al calcular ocupación")
     return value
 
 def comorbidity_value(first_code="", second_code=""):
@@ -46,6 +52,12 @@ def comorbidity_value(first_code="", second_code=""):
 
 def __supecode__(code):
     return code.split(".")[0]
+
+class AgeValueException(Exception):
+    pass
+
+class OcupationValueException(Exception):
+    pass
 
 # print(optime_time_value("I21.1"))
 # print(age_value("I21.1", "26-35"))
