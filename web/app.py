@@ -7,9 +7,9 @@ from lib import core
 
 app = Flask(__name__, static_url_path='')
 
-@app.route("/")
-def root():
-  return render_template('index.html')
+# @app.route("/")
+# def root():
+#   return render_template('index.html')
 
 @app.route("/all-diseases")
 def all_diseases():
