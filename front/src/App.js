@@ -73,7 +73,7 @@ class App extends Component {
               {/* <p className="subtitle has-text-grey">Please login to proceed.</p> */}
               <div className="box">
                 <figure className="avatar">
-                  <img src="https://placehold.it/128x128" />
+                  <i className="fas fa-user-md" />
                 </figure>
                 <form onSubmit={this.onSubmit}>
                   <div className="field">
@@ -101,60 +101,65 @@ class App extends Component {
                   <div className="field">
                     <div className="control">
                       <label htmlFor="" className="label">
-                        Rango de edad:
+                        Grupo de ocupación:
                       </label>
                       <select
                         className="input is-large"
                         required
-                        onChange={this.setValue("age_rage")}
+                        onChange={this.setValue("ocupation_code")}
                       >
                         <option value={""}> </option>
-                        {this.state.allAgeRage.map((item, index) => (
-                          <option key={item["name"]} value={item["name"]}>
-                            {item["name"]}
+                        {this.state.allOcupation.map((item, index) => (
+                          <option key={item["grupo"]} value={item["grupo"]}>
+                            {item["GRUPO DE OCUPACION"]}
                           </option>
                         ))}
                       </select>
                     </div>
-                    <div className="field">
-                      <div className="control">
-                        <label htmlFor="" className="label">
-                          Genero:
-                        </label>
-                        <select
-                          className="input is-large"
-                          required
-                          onChange={this.setValue("gender")}
-                        >
-                          <option value={""}> </option>
-                          {this.state.allGenderRage.map((item, index) => (
-                            <option key={item["name"]} value={item["name"]}>
-                              {item["name"]}
-                            </option>
-                          ))}
-                        </select>
+                  </div>
+                  <div className="field is-horizontal">
+                    <div className="field-body">
+                      <div className="field">
+                        <div className="control">
+                          <label htmlFor="" className="label">
+                            Rango de edad:
+                          </label>
+                          <select
+                            className="input is-large"
+                            required
+                            onChange={this.setValue("age_rage")}
+                          >
+                            <option value={""}> </option>
+                            {this.state.allAgeRage.map((item, index) => (
+                              <option key={item["name"]} value={item["name"]}>
+                                {item["name"]}
+                              </option>
+                            ))}
+                          </select>
+                        </div>
                       </div>
-                    </div>
-                    <div className="field">
-                      <div className="control">
-                        <label htmlFor="" className="label">
-                          Grupo de ocupación:
-                        </label>
-                        <select
-                          className="input is-large"
-                          required
-                          onChange={this.setValue("ocupation_code")}
-                        >
-                          <option value={""}> </option>
-                          {this.state.allOcupation.map((item, index) => (
-                            <option key={item["grupo"]} value={item["grupo"]}>
-                              {item["GRUPO DE OCUPACION"]}
-                            </option>
-                          ))}
-                        </select>
+                      <div className="field">
+                        <div className="control">
+                          <label htmlFor="" className="label">
+                            Genero:
+                          </label>
+                          <select
+                            className="input is-large"
+                            required
+                            onChange={this.setValue("gender")}
+                          >
+                            <option value={""}> </option>
+                            {this.state.allGenderRage.map((item, index) => (
+                              <option key={item["name"]} value={item["name"]}>
+                                {item["name"]}
+                              </option>
+                            ))}
+                          </select>
+                        </div>
                       </div>
                     </div>
                   </div>
+
                   <button
                     type="submit"
                     className="button is-block is-info is-large is-fullwidth"
