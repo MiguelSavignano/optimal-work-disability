@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
-const API_URL = process.env.API_URL || "http://localhost:5000";
+const API_URL = process.env.NODE_ENV == "production" ? "https://optimal-work-disability.herokuapp.com" : "http://localhost:5000";
 
 class App extends Component {
   async componentDidMount() {
