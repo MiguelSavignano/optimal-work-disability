@@ -2,7 +2,7 @@ import sys
 sys.path.insert(0, './')
 from lib import data_repository as repo
 
-def run(code, age_rage, gender, ocupation_code, second_code):
+def run(code, age_rage, gender, ocupation_code, second_code=None):
     standar_time    = repo.optime_time_value(code)
     age_value       = repo.age_value(code, age_rage)
     gender_value    = repo.gender_value(code, gender)

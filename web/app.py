@@ -33,6 +33,10 @@ def all_ocupation():
 
 @app.route("/optimal-time", methods = ['POST'])
 def optimal_time():
-    result = core.run(**request.json)
-    data = { "result": result }
-    return Response(json.dumps(data), status=200, mimetype='application/json')
+    try:
+      result = core.run(**request.json)
+      data = { "result": result }
+      return Response(json.dumps(data), status=200, mimetype='application/json')
+    except:
+      return Response(json.dumps({"response": "Error"}), status=200, mimetype='application/json')
+

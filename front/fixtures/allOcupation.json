@@ -1,0 +1,1838 @@
+[
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.75
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 1.09
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.97
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 0.89
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.81
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 1.11
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.29
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.16
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.03
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.21
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.91
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 1,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.41
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.94
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.99
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 1.01
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.03
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 1.01
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 0.97
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 0.99
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.04
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.99
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 0.98
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 2,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.79
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.07
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.74
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.09
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.86
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 0.87
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.1
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.98
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.39
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 1.05
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.24
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.29
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.04
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.9
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 1.03
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 3,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 1.11
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.72
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 0.99
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.9
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 1
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.1
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.93
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.14
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 1.01
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.18
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 0.98
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.15
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.9
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 1.08
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 4,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.49
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.11
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.77
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 0.99
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.03
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.96
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 0.98
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.08
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.91
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.11
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 1.07
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.08
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.15
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.98
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 5,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.54
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.03
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.83
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.04
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.97
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.07
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.94
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.07
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 0.96
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.08
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.03
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.09
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.94
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 0.99
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 6,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.59
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.1
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.74
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.09
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.94
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 0.91
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.83
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.16
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.16
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.11
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.11
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.21
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.89
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 1.09
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 7,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.42
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.12
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.78
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.04
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.88
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 0.93
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.03
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.89
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.21
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 0.96
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.05
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.29
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.89
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 1.04
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 8,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.4
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.01
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.8
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 1
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.94
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 0.92
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.05
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.93
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.04
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 1.01
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.04
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.08
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.96
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 1
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 9,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.48
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.34
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.76
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 0.96
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.04
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.74
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 0.87
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.12
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.86
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 1.26
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.29
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.19
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.11
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.27
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.88
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 1.11
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 10,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.47
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.09
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.73
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 1.08
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.93
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 0.97
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.09
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.92
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.07
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 1.04
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.08
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.89
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 1.01
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 11,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.56
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.04
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.81
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 1.07
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.03
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.9
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 0.95
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.12
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.9
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 0.94
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 0.95
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.11
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.07
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.03
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.09
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.95
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 0.97
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 12,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.6
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.7
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 0.89
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.87
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 0.89
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.07
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.92
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.03
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 1.03
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.11
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.04
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.12
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.98
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 1
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 13,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.46
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.19
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.73
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 1.01
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.88
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 0.94
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.9
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.07
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 1.12
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.21
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.09
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.23
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.9
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 1.09
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 14,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.65
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 0.94
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.99
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 0.97
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.92
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 0.89
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.03
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 1.12
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 1.12
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.05
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.19
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.39
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.9
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 15,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.91
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.14
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.71
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 0.88
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.01
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 1.05
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 1.01
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.04
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.21
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 0.98
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.09
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.08
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 0.99
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.94
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 0.93
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 17,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.4
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.12
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.79
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 1.05
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1.09
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.84
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 0.98
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.01
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.86
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.13
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 1.06
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.2
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.1
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.02
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.37
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.86
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 0.99
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 18,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.47
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 1,
+    "GRUPO DE OCUPACIÓN": "Directores y gerentes",
+    "RATIO": 1.04
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 2,
+    "GRUPO DE OCUPACIÓN": "Técnicos y profesionales científicos e intelectuales de la salud y la enseñanza",
+    "RATIO": 0.75
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 3,
+    "GRUPO DE OCUPACIÓN": "Otros técnicos y profesionales científicos e intelectuales",
+    "RATIO": 0.93
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 4,
+    "GRUPO DE OCUPACIÓN": "Técnicos; profesionales de apoyo",
+    "RATIO": 1
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 5,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que no atienden al público",
+    "RATIO": 0.85
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 6,
+    "GRUPO DE OCUPACIÓN": "Empleados de oficina que atienden al público",
+    "RATIO": 0.86
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 7,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de restauración y comercio",
+    "RATIO": 1.08
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 8,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de salud y el cuidado de personas",
+    "RATIO": 0.91
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 9,
+    "GRUPO DE OCUPACIÓN": "Trabajadores de los servicios de protección y seguridad",
+    "RATIO": 1.03
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 10,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero",
+    "RATIO": 1.03
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 11,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de la construcción, excepto operadores de máquinas",
+    "RATIO": 1.19
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 12,
+    "GRUPO DE OCUPACIÓN": "Trabajadores cualificados de las industrias manufactureras, excepto operadores de instalaciones y máquinas",
+    "RATIO": 1.15
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 13,
+    "GRUPO DE OCUPACIÓN": "Operadores de instalaciones y maquinaria fijas, y montadores",
+    "RATIO": 1.05
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 14,
+    "GRUPO DE OCUPACIÓN": "Conductores y operadores de maquinaria móvil",
+    "RATIO": 1.16
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 15,
+    "GRUPO DE OCUPACIÓN": "Trabajadores no cualificados en servicios (excepto transportes)",
+    "RATIO": 0.92
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 16,
+    "GRUPO DE OCUPACIÓN": "Peones de la agricultura, pesca, construcción, industrias manufactureras y transportes",
+    "RATIO": 1.08
+  },
+  {
+    "CAPÍTULO DE DIAGNÓSTICO": 19,
+    "grupo": 17,
+    "GRUPO DE OCUPACIÓN": "Ocupaciones militares",
+    "RATIO": 0.47
+  }
+]
