@@ -162,7 +162,7 @@ class App extends Component {
 
                   <button
                     type="submit"
-                    className="button is-block is-info is-large is-fullwidth"
+                    className="button button--big is-info is-large"
                   >
                     Calcular
                   </button>

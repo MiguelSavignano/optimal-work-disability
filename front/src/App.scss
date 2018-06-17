@@ -2,7 +2,6 @@ html,body {
   font-family: 'Open Sans', serif;
   font-size: 14px;
   font-weight: 300;
-  background-color: red;
 }
 .hero.is-success {
   background: #F2F6FA;
@@ -37,4 +36,9 @@ p {
 }
 p.subtitle {
   padding-top: 1rem;
+}
+.button {
+  &--big {
+    width: 15rem;
+  }
 }
