@@ -4,6 +4,7 @@ import Select from "react-virtualized-select";
 import "./App.scss";
 import "react-select/dist/react-select.css";
 import "react-virtualized-select/styles.css";
+import * as UI from "./ui/uikit";
 
 const API_URL =
   process.env.NODE_ENV == "production"
@@ -81,19 +82,22 @@ class App extends Component {
         <div className="hero-body">
           <div className="container has-text-centered">
             <div className="column is-10 is-offset-1">
-              <h3 className="title has-text-grey">
-                Cálculo de incapacidad temporal
-              </h3>
-              {/* <p className="subtitle has-text-grey">Please login to proceed.</p> */}
-              <div className="box">
+              <h1 className="title has-text-grey">
+                Tiempos Óptimos de Incapacidad Temporal
+              </h1>
+              <h2 className="subtitle has-text-grey">
+                Cálculo del tiempo óptimo de una incapacidad temporal (4ª
+                Edición) 2018
+              </h2>
+              <UI.Box>
                 <figure className="avatar">
                   <i className="fas fa-user-md" />
                 </figure>
                 <form onSubmit={this.onSubmit}>
-                  <div className="field">
-                    <div className="control">
+                  <UI.Field>
+                    <UI.Control>
                       <label htmlFor="" className="label">
-                        Tipo de enfermedad:
+                        Tipo de enfermedad*:
                       </label>
                       <Select
                         value={this.state.form.code}
@@ -104,12 +108,12 @@ class App extends Component {
                           label: i["DESCRIPCION"]
                         }))}
                       />
-                    </div>
-                  </div>
-                  <div className="field">
+                    </UI.Control>
+                  </UI.Field>
+                  <UI.Field>
                     <div className="control">
                       <label htmlFor="" className="label">
-                        Grupo de ocupación:
+                        Grupo de ocupación*:
                       </label>
                       <Select
                         value={this.state.form.ocupation_code}
@@ -121,13 +125,13 @@ class App extends Component {
                         }))}
                       />
                     </div>
-                  </div>
-                  <div className="field is-horizontal">
-                    <div className="field-body">
-                      <div className="field">
-                        <div className="control">
+                  </UI.Field>
+                  <UI.Field className="is-horizontal">
+                    <UI.FieldBody className="field-body">
+                      <UI.Field>
+                        <UI.Control>
                           <label htmlFor="" className="label">
-                            Rango de edad:
+                            Rango de edad*:
                           </label>
                           <select
                             className="input is-medium"
@@ -141,12 +145,12 @@ class App extends Component {
                               </option>
                             ))}
                           </select>
-                        </div>
-                      </div>
-                      <div className="field">
-                        <div className="control">
+                        </UI.Control>
+                      </UI.Field>
+                      <UI.Field>
+                        <UI.Control>
                           <label htmlFor="" className="label">
-                            Genero:
+                            Genero*:
                           </label>
                           <select
                             className="input is-medium"
@@ -160,11 +164,25 @@ class App extends Component {
                               </option>
                             ))}
                           </select>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
+                        </UI.Control>
+                      </UI.Field>
+                    </UI.FieldBody>
+                  </UI.Field>
+                  <UI.Field>
+                    <UI.Control>
+                      <label htmlFor="" className="label">
+                        Enfermedade adicional (opcional):
+                      </label>
+                      <Select
+                        value={this.state.form.second_code}
+                        onChange={this.setSelectValue("second_code")}
+                        options={this.state.allDiseases.map(i => ({
+                          value: i["CODIGO"],
+                          label: i["DESCRIPCION"]
+                        }))}
+                      />
+                    </UI.Control>
+                  </UI.Field>
                   <button
                     type="submit"
                     className="button button--big is-info is-large"
@@ -181,7 +199,7 @@ class App extends Component {
                     </React.Fragment>
                   )}
                 </form>
-              </div>
+              </UI.Box>
               <p className="has-text-grey">
                 <a href="http://www.seg-social.es/Internet_1/LaSeguridadSocial/Publicaciones/Publicacionesporcon28156/Informacionsobrepen47075/Incapacidadtemporal/index.htm#documentoXLSM">
                   Más información
