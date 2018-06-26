@@ -8,7 +8,7 @@ import * as UI from "./ui/uikit";
 
 const API_URL =
   process.env.NODE_ENV == "production"
-    ? "https://optimal-work-disability.herokuapp.com"
+    ? "https://incapacidad-temporal-optima.herokuapp.com/"
     : "http://localhost:5000";
 
 class App extends Component {
