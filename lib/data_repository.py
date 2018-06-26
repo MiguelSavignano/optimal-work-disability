@@ -23,31 +23,34 @@ def age_value(code="", age_rage=""):
     code = __supecode__(code)
     df = pd.read_csv("data/FC edad.csv")
     try:
-        value = df[(df["CODIGO"] == code) & (df["GRUPO EDAD"] == age_rage)].head(1).iloc[0][3]
+        value = df[(df["CODIGO"] == code) & (df["GRUPO EDAD"] == age_rage)].iloc[0][3]
     except:
-        raise AgeValueException("Error al calcular edad")
+        raise AgeValueException
     return value
 
 def gender_value(code="", gender=""):
     code = __supecode__(code)
     df = pd.read_csv("data/FC sexo.csv")
-    value = df[(df["CODIGO"] == code) & (df["SEXO"] == gender)].head(1).iloc[0][3]
+    value = df[(df["CODIGO"] == code) & (df["SEXO"] == gender)].iloc[0][3]
     return value
 
 def ocupation_value(code="", ocupation_code=""):
     code = __supecode__(code)
     df = pd.read_csv("data/FC ocupación.csv")
     try:
-        value = df[(df["CODIGO"] == code) & (df["GRUPO DE OCUPACIÓN"] == int(ocupation_code))].head(1).iloc[0]["RATIO"]
+        value = df[(df["CODIGO"] == code) & (df["GRUPO DE OCUPACIÓN"] == int(ocupation_code))].iloc[0]["RATIO"]
     except:
-        raise OcupationValueException("Error al calcular ocupación")
+        raise OcupationValueException
     return value
 
 def comorbidity_value(first_code="", second_code=""):
     first_code = __supecode__(first_code)
     second_code = __supecode__(second_code)
     df = pd.read_csv("data/COMORBILIDAD.csv")
-    value = df[(df["CODIGO PRINCIPAL"] == first_code) & (df["CODIGO SECUNDARIO"] == second_code)].head(1).iloc[0]["RATIO"]
+    try:
+        value = df[(df["CODIGO PRINCIPAL"] == first_code) & (df["CODIGO SECUNDARIO"] == second_code)].iloc[0]["RATIO"]
+    except:
+        raise ComorbidityValueException
     return value
 
 def __supecode__(code):
@@ -58,7 +61,8 @@ class AgeValueException(Exception):
 
 class OcupationValueException(Exception):
     pass
-
+class ComorbidityValueException(Exception):
+    pass
 # print(optime_time_value("I21.1"))
 # print(age_value("I21.1", "26-35"))
 # print(gender_value("I21.1", "hombre"))
