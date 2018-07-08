@@ -13,13 +13,18 @@ import graphene
 from flask_graphql import GraphQLView
 
 class OptimalTime(graphene.Mutation):
-    # class Arguments:
-        # name = graphene.String(required=False)
+    class Arguments:
+        code = graphene.String(required=True)
+        ocupation_code = graphene.String(required=True)
+        age_rage = graphene.String(required=True)
+        gender = graphene.String(required=True)
+        second_code = graphene.String(required=False)
 
-    response = graphene.Field(graphene.String)
+    response = graphene.Field(graphene.Float)
 
-    def mutate(self, info):
-        return OptimalTime(response="Hello mutation")
+    def mutate(self, info, **agrs):
+        response = core.run(**agrs)
+        return OptimalTime(response=response)
 
 class SimpleObject(graphene.ObjectType):
     name = graphene.String()
