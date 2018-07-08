@@ -9,6 +9,31 @@ from lib.data_repository import OcupationValueException
 
 app = Flask(__name__, static_url_path='')
 
+import graphene
+from flask_graphql import GraphQLView
+
+class OptimalTime(graphene.Mutation):
+    # class Arguments:
+        # name = graphene.String(required=False)
+
+    response = graphene.Field(graphene.String)
+
+    def mutate(self, info):
+        return OptimalTime(response="Hello mutation")
+
+class Query(graphene.ObjectType):
+    hello = graphene.String(name=graphene.String(default_value="stranger"))
+
+    def resolve_hello(self, info, name):
+        return 'Hello ' + name
+
+class Mutation(graphene.ObjectType):
+    optimal_time = OptimalTime.Field()
+
+schema = graphene.Schema(query=Query,mutation=Mutation)
+
+app.add_url_rule('/graphql', view_func=GraphQLView.as_view('graphql', schema=schema, graphiql=True))
+
 @app.route("/")
 def root():
   return render_template('index.html')
