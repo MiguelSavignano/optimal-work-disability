@@ -104,8 +104,8 @@ class App extends Component {
                         required
                         onChange={this.setSelectValue("code")}
                         options={this.state.allDiseases.map(i => ({
-                          value: i["CODIGO"],
-                          label: i["DESCRIPCION"]
+                          value: i["codigo"],
+                          label: i["descripcion"]
                         }))}
                       />
                     </UI.Control>
@@ -121,7 +121,7 @@ class App extends Component {
                         onChange={this.setSelectValue("ocupation_code")}
                         options={this.state.allOcupation.map(i => ({
                           value: i["grupo"],
-                          label: i["GRUPO DE OCUPACION"]
+                          label: i["grupo_de_ocupacion"]
                         }))}
                       />
                     </div>
@@ -177,8 +177,8 @@ class App extends Component {
                         value={this.state.form.second_code}
                         onChange={this.setSelectValue("second_code")}
                         options={this.state.allDiseases.map(i => ({
-                          value: i["CODIGO"],
-                          label: i["DESCRIPCION"]
+                          value: i["codigo"],
+                          label: i["descripcion"]
                         }))}
                       />
                     </UI.Control>
