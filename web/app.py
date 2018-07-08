@@ -78,7 +78,7 @@ def root():
 
 @app.route("/all-diseases")
 def all_diseases():
-    data = data_repository.all_diseases()
+    data = json.dumps(data_repository.all_diseases())
     return Response(data, status=200, mimetype='application/json')
 
 @app.route("/all-age-rage")
@@ -93,7 +93,7 @@ def all_gender_rage():
 
 @app.route("/all-ocupation")
 def all_ocupation():
-    data = data_repository.all_ocupation()
+    data = json.dumps(data_repository.all_ocupation())
     return Response(data, status=200, mimetype='application/json')
 
 @app.route("/optimal-time", methods = ['POST'])
