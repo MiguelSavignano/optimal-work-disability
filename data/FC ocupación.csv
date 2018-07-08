@@ -1,4 +1,4 @@
-CODIGO,DESCRIPCION,GRUPO DE OCUPACIÓN,RATIO
+codigo,descripcion,grupo_de_ocupacion,ratio
 A01,Fiebres tifoidea y paratifoidea,7,1.05
 A04,Otras infecciones intestinales bacterianas,15,0.81
 A08,Infecciones intestinales debidas a virus y otros organismos especificados,15,0.81

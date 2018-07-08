@@ -1,4 +1,4 @@
-numero,capitulo,CODIGO,DESCRIPCION,TIEMPO ESTANDAR
+numero,capitulo,codigo,descripcion,tiempo_estandar
 1,ENFERMEDADES INFECCIOSAS Y PARASITARIAS ,A00,Cólera ,10
 1,ENFERMEDADES INFECCIOSAS Y PARASITARIAS ,A01,Fiebres tifoidea y paratifoidea,30
 1,ENFERMEDADES INFECCIOSAS Y PARASITARIAS ,A02,Otras infecciones debidas a Salmonella,10

@@ -1,4 +1,4 @@
-CODIGO PRINCIPAL,DESCRIPCION DIAGNÓSTICO PRINCIPAL,CODIGO SECUNDARIO,DESCRIPCION DIAGNÓSTICO SECUNDARIO,RATIO
+codigo_principal,diagnostico_principal,codigo_secundario,descripcion_diagnostico_secundario,ratio
 B15,Hepatitis aguda tipo A,B20,Enfermedad por virus de la inmunodeficiencia humana [VIH],1.0387596899
 B15,Hepatitis aguda tipo A,F93,Trastornos emocionales con inicio específico en la infancia,1.0813953488
 B16,Hepatitis aguda tipo B,B20,Enfermedad por virus de la inmunodeficiencia humana [VIH],1.0387596899

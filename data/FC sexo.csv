@@ -1,4 +1,4 @@
-CODIGO,DESCRIPCION,SEXO,RATIO
+codigo,descripcion,sexo,ratio
 A00,Cólera,hombre,1.4
 A00,Cólera,mujer,0.73
 A01,Fiebres tifoidea y paratifoidea,hombre,0.85
