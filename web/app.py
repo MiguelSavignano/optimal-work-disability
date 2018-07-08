@@ -21,16 +21,49 @@ class OptimalTime(graphene.Mutation):
     def mutate(self, info):
         return OptimalTime(response="Hello mutation")
 
-class Query(graphene.ObjectType):
-    hello = graphene.String(name=graphene.String(default_value="stranger"))
+class SimpleObject(graphene.ObjectType):
+    name = graphene.String()
 
-    def resolve_hello(self, info, name):
-        return 'Hello ' + name
+class Disease(graphene.ObjectType):
+    numero = graphene.Int()
+    capitulo = graphene.String()
+    codigo  = graphene.String()
+    descripcion = graphene.String()
+    tiempo_estandar = graphene.Int()
+
+class Disease(graphene.ObjectType):
+    numero = graphene.Int()
+    capitulo = graphene.String()
+    codigo  = graphene.String()
+    descripcion = graphene.String()
+    tiempo_estandar = graphene.Int()
+
+class OcupationData(graphene.ObjectType):
+    capitulo_de_diagnostico = graphene.Int()
+    grupo = graphene.Int()
+    grupo_de_ocupacion = graphene.String()
+    ratio = graphene.Int()
+
+class Query(graphene.ObjectType):
+    # age_rage = graphene.List(Disease.Field())
+    all_age_rage = graphene.List(SimpleObject)
+    all_gender_rage = graphene.List(SimpleObject)
+    all_diseases = graphene.List(Disease)
+    all_ocupation = graphene.List(OcupationData)
+
+    def resolve_all_age_rage(self, info):
+        return map(lambda i: SimpleObject(**i), data_repository.all_age_rage())
+    def resolve_all_gender_rage(self, info):
+        return map(lambda i: SimpleObject(**i), data_repository.all_gender_rage())
+    def resolve_all_diseases(self, info):
+        return map(lambda i: Disease(**i), data_repository.all_diseases())
+    def resolve_all_ocupation(self, info):
+        return map(lambda i: OcupationData(**i), data_repository.all_ocupation())
 
 class Mutation(graphene.ObjectType):
     optimal_time = OptimalTime.Field()
 
-schema = graphene.Schema(query=Query,mutation=Mutation)
+schema = graphene.Schema(query=Query,mutation=Mutation, types=[SimpleObject, Disease, OcupationData])
 
 app.add_url_rule('/graphql', view_func=GraphQLView.as_view('graphql', schema=schema, graphiql=True))
 
@@ -45,12 +78,12 @@ def all_diseases():
 
 @app.route("/all-age-rage")
 def all_age_rage():
-    data = data_repository.all_age_rage()
+    data = json.dumps(data_repository.all_age_rage())
     return Response(data, status=200, mimetype='application/json')
 
 @app.route("/all-gender-rage")
 def all_gender_rage():
-    data = data_repository.all_gender_rage()
+    data = json.dumps(data_repository.all_gender_rage())
     return Response(data, status=200, mimetype='application/json')
 
 @app.route("/all-ocupation")
