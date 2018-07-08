@@ -2,7 +2,7 @@
 # Incapacidad temporal óptima
 
 Applicación para calcular los días de baja óptima según las tablas proporcionadas por la seguridad social.
-[demo](https://optimal-work-disability.herokuapp.com/)
+[demo](https://incapacidad-temporal-optima.herokuapp.com)
 
 ## Stack tecnológico
 
