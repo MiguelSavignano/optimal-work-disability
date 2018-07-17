@@ -4,10 +4,13 @@ RUN mkdir /app
 WORKDIR /app
 
 COPY package.json /app/package.json
+
 COPY package-lock.json /app/package-lock.json
+
 RUN yarn install --pure-lockfile
+
 RUN yarn global add react-scripts@1.1.1
+
 COPY . .
 
-# start app
 CMD ["npm", "start"]
