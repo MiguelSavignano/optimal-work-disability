@@ -1,16 +1,13 @@
 FROM node:9.6.1
 
-# set working directory
-RUN mkdir /usr/src/app
-WORKDIR /usr/src/app
+RUN mkdir /app
+WORKDIR /app
 
-# add `/usr/src/app/node_modules/.bin` to $PATH
-ENV PATH /usr/src/app/node_modules/.bin:$PATH
-
-# install and cache app dependencies
-COPY package.json /usr/src/app/package.json
-RUN npm install --silent
-RUN npm install react-scripts@1.1.1 -g --silent
+COPY package.json /app/package.json
+COPY package-lock.json /app/package-lock.json
+RUN yarn install --pure-lockfile
+RUN yarn global add react-scripts@1.1.1
+COPY . .
 
 # start app
 CMD ["npm", "start"]

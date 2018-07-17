@@ -13,11 +13,15 @@ LABEL Name=optimal-work-disability Version=0.0.1
 EXPOSE 5000
 
 WORKDIR /app
-ADD . /app
 
 ENV FLASK_DEBUG=1
 ENV FLASK_APP=webapp.py
 ENV FLASK_ENV=development
-# Using pip:
+
+COPY requirements.txt requirements.txt
+
 RUN pip3 install -r requirements.txt
+
+COPY . /app
+
 CMD ["flask", "run", "--host=0.0.0.0"]

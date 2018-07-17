@@ -15,10 +15,10 @@ services:
     build:
       context: ./front
       dockerfile: Dockerfile
+    command: "bash entrypoint.sh"
     ports:
       - 3000:3000
     environment:
       - NODE_ENV=development
     volumes:
-      - './front:/usr/src/app'
-      - './front/node_modules:/usr/src/app/node_modules'
+      - './front:/app'
