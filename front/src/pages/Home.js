@@ -1,17 +1,17 @@
 import React, { Component } from "react";
 import Select from "react-virtualized-select";
 
-import "./App.scss";
+import "../css/App.scss";
 import "react-select/dist/react-select.css";
 import "react-virtualized-select/styles.css";
-import * as UI from "./ui/uikit";
+import * as UI from "../ui/uikit";
 
 const API_URL =
   process.env.NODE_ENV == "production"
     ? "https://incapacidad-temporal-optima.herokuapp.com/"
     : "http://localhost:5000";
 
-class App extends Component {
+export default class Home extends Component {
   async componentDidMount() {
     const allDiseases = await fetch(`${API_URL}/all-diseases`).then(r =>
       r.json()
@@ -223,5 +223,3 @@ const roundResult = str => {
   const number = parseFloat(str);
   return Number(number.toFixed(1));
 };
-
-export default App;
