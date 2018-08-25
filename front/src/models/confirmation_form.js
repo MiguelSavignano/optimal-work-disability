@@ -32,7 +32,7 @@ export const large = (_date_start, estimated_time) => (
   calculateDates(_date_start,estimated_time, 7, 35)
 )
 
-export const camculateDateLit = (date_start, estimated_time) => {
+export const calculateDatesList = (date_start, estimated_time) => {
   if ( estimated_time < 5){
     return veryShort(date_start, estimated_time)
   } else if (estimated_time >= 5 && estimated_time < 30) {
