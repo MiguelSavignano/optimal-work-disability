@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Select from "react-virtualized-select";
-
+import { Footer } from "./_Footer"
 import "../css/App.scss";
 import "react-select/dist/react-select.css";
 import "react-virtualized-select/styles.css";
@@ -200,17 +200,7 @@ export default class Home extends Component {
                   )}
                 </form>
               </UI.Box>
-              <p className="has-text-grey">
-                <a href="http://www.seg-social.es/Internet_1/LaSeguridadSocial/Publicaciones/Publicacionesporcon28156/Informacionsobrepen47075/Incapacidadtemporal/index.htm#documentoXLSM">
-                  Más información
-                </a>{" "}
-                &nbsp;·&nbsp;
-                <a href="http://www.seg-social.es/prdi00/groups/public/documents/binario/122970.pdf">
-                  Manual de Tiempos Óptimos de Incapacidad Temporal.
-                </a>{" "}
-                &nbsp;·&nbsp;
-                <a href="http://www.seg-social.es">Ayuda?</a>
-              </p>
+              <Footer />
             </div>
           </div>
         </div>
