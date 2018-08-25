@@ -1,36 +1,19 @@
 import React, { Component } from "react";
 import Select from "react-virtualized-select";
-
-import "./App.scss";
 import "react-select/dist/react-select.css";
 import "react-virtualized-select/styles.css";
-import * as UI from "./ui/uikit";
+
+import "../css/App.scss";
+import { Footer } from "./_Footer"
+import * as Api from "../models/work_disability"
+import * as UI from "../ui/uikit"
 
 const API_URL =
-  process.env.NODE_ENV == "production"
-    ? "https://incapacidad-temporal-optima.herokuapp.com/"
-    : "http://localhost:5000";
+process.env.NODE_ENV == "production"
+  ? "https://incapacidad-temporal-optima.herokuapp.com/"
+  : "http://localhost:5000";
 
-class App extends Component {
-  async componentDidMount() {
-    const allDiseases = await fetch(`${API_URL}/all-diseases`).then(r =>
-      r.json()
-    );
-    this.setState({ allDiseases });
-    const allAgeRage = await fetch(`${API_URL}/all-age-rage`).then(r =>
-      r.json()
-    );
-    this.setState({ allAgeRage });
-    const allGenderRage = await fetch(`${API_URL}/all-gender-rage`).then(r =>
-      r.json()
-    );
-    this.setState({ allGenderRage });
-    const allOcupation = await fetch(`${API_URL}/all-ocupation`).then(r =>
-      r.json()
-    );
-    this.setState({ allOcupation });
-  }
-
+export default class Home extends Component {
   state = {
     allDiseases: [],
     allAgeRage: [],
@@ -38,7 +21,18 @@ class App extends Component {
     allOcupation: [],
     form: {},
     result: ""
-  };
+  }
+
+  async componentDidMount() {
+    const allDiseases = await Api.allDiseases()
+    this.setState({ allDiseases })
+    const allAgeRage = await Api.allAgeRage()
+    this.setState({ allAgeRage })
+    const allGenderRage = await Api.allGenderRage()
+    this.setState({ allGenderRage })
+    const allOcupation = await Api.allOcupation()
+    this.setState({ allOcupation })
+  }
 
   setSelectValue = name => selectedOption => {
     this.setState({
@@ -200,17 +194,7 @@ class App extends Component {
                   )}
                 </form>
               </UI.Box>
-              <p className="has-text-grey">
-                <a href="http://www.seg-social.es/Internet_1/LaSeguridadSocial/Publicaciones/Publicacionesporcon28156/Informacionsobrepen47075/Incapacidadtemporal/index.htm#documentoXLSM">
-                  Más información
-                </a>{" "}
-                &nbsp;·&nbsp;
-                <a href="http://www.seg-social.es/prdi00/groups/public/documents/binario/122970.pdf">
-                  Manual de Tiempos Óptimos de Incapacidad Temporal.
-                </a>{" "}
-                &nbsp;·&nbsp;
-                <a href="http://www.seg-social.es">Ayuda?</a>
-              </p>
+              <Footer />
             </div>
           </div>
         </div>
@@ -223,5 +207,3 @@ const roundResult = str => {
   const number = parseFloat(str);
   return Number(number.toFixed(1));
 };
-
-export default App;
