@@ -8,7 +8,7 @@ import registerServiceWorker from './registerServiceWorker';
 export default class App extends SimpleReactRouter {
   routes(map){
     map('/',  Home)
-    map('/calculo-de-partes-de-baja', Confirmationform)
+    map('/partes-de-baja', Confirmationform)
   }
 }
 
