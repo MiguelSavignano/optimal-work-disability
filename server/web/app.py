@@ -76,6 +76,10 @@ app.add_url_rule('/graphql', view_func=GraphQLView.as_view('graphql', schema=sch
 def root():
   return render_template('index.html')
 
+@app.errorhandler(404)
+def page_not_found(e):
+  return render_template('index.html')
+
 @app.route("/all-diseases")
 def all_diseases():
     data = json.dumps(data_repository.all_diseases())
