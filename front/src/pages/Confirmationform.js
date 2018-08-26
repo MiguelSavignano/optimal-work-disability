@@ -16,8 +16,7 @@ export default class Home extends Component {
   onSubmit = (event) => {
     event.preventDefault()
     const { date_start, estimated_time } = this.state.form
-    console.log(date_start, estimated_time)
-    const dateList = calculateDatesList('2018-06-01', 50)
+    const dateList = calculateDatesList(date_start, estimated_time)
     this.setState({dateList: dateList.map(d => d.format("YYYY-MM-DD")) })
   }
 
@@ -54,7 +53,7 @@ export default class Home extends Component {
                           <label htmlFor="" className="label">
                             Dias de baja estimados*:
                           </label>
-                          <input type="text" required className="input" name="estimated_time" onChange={this.setValue("estimated_time")}/>
+                          <input type="number" min="0" max="365" required className="input" name="estimated_time" onChange={this.setValue("estimated_time")}/>
                         </UI.Control>
                       </UI.Field>
                     </UI.FieldBody>
