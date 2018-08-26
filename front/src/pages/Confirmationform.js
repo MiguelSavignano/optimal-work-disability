@@ -1,11 +1,11 @@
 import React, { Component } from "react";
-import { calculateDatesList } from "../models/confirmation_form"
+import { calculateDatesList, getLastControlDay } from "../models/confirmation_form"
 import "../css/App.scss";
 import { Footer } from "./_Footer"
 import * as UI from "../ui/uikit"
 
 export default class Home extends Component {
-  state = { dateList: [], form: { date_start: "", estimated_time: "" } }
+  state = { lastControlDay: null ,dateList: [], form: { date_start: "", estimated_time: "" } }
 
   setValue = name => event => {
     this.setState({
@@ -17,7 +17,11 @@ export default class Home extends Component {
     event.preventDefault()
     const { date_start, estimated_time } = this.state.form
     const dateList = calculateDatesList(date_start, estimated_time)
-    this.setState({dateList: dateList.map(d => d.format("YYYY-MM-DD")) })
+    const lastControlDay = getLastControlDay(date_start, estimated_time)
+    this.setState({
+      dateList: dateList.map(d => d.format("YYYY-MM-DD")),
+      lastControlDay: lastControlDay && lastControlDay.format("YYYY-MM-DD")
+    })
   }
 
   render() {
@@ -75,6 +79,12 @@ export default class Home extends Component {
                           <li key={date} >{date}</li>
                         ))}
                       </ul>
+                      <hr />
+                      { this.state.lastControlDay && (
+                        <h4 className="title has-text-grey">
+                          La fecha del ultima revisión debe ser {this.state.lastControlDay}
+                        </h4>
+                      )}
                     </React.Fragment>
                   )}
                 </form>

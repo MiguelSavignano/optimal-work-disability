@@ -47,3 +47,12 @@ export const calculateDatesList = (date_start, estimated_time) => {
     return large(date_start, estimated_time)
   }
 }
+
+export const getLastControlDay = (_date_start, estimated_time) => {
+  const date_start = moment(_date_start)
+  if (estimated_time >= 315) {
+    return date_start.clone().add(estimated_time, 'days')
+  } else {
+    return null
+  }
+}
