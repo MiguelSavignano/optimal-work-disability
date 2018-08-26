@@ -4,14 +4,18 @@ import moment from "moment"
 // @params first_add_number: Number
 // @params second_add_number: Number
 // @return [Moment]
+const isLessThan = (date_last_form, date_last_day) => date_last_form.format("YYYY-MM-DD") <= date_last_day.format("YYYY-MM-DD")
+
 export const calculateDates = (_date_start, estimated_time, first_add_number, second_add_number) => {
   const date_start = moment(_date_start)
   const date_last_day = date_start.clone().add(estimated_time, 'days')
   var date_last_form = date_start.clone().add(first_add_number, 'days').clone()
   var list_form = [date_last_form]
-  while (date_last_form.format("YYYY-MM-DD") <= date_last_day.format("YYYY-MM-DD")) {
+  while (isLessThan(date_last_form, date_last_day)) {
     date_last_form = date_last_form.clone().add(second_add_number, 'days').clone()
-    list_form.push(date_last_form)
+    if (isLessThan(date_last_form, date_last_day)){
+      list_form.push(date_last_form)
+    }
   }
   return list_form
 }
