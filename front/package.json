@@ -52,7 +52,7 @@
   "proxy": false,
   "scripts": {
     "start": "node scripts/start.js",
-    "build": "node scripts/build.js && cp -fr build/* ../web/static && cp ../web/static/index.html ../web/templates/index.html",
+    "build": "node scripts/build.js && cp -fr build/* ../server/web/static && cp ../server/web/static/index.html ../server/web/templates/index.html",
     "test": "node scripts/test.js --env=jsdom"
   },
   "jest": {

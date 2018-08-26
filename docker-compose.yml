@@ -3,12 +3,12 @@ services:
   api:
     container_name: api
     build:
-      context: .
+      context: ./server
       dockerfile: web/Dockerfile
     ports:
       - 5000:5000
     volumes:
-      - ".:/app"
+      - "./server:/app"
   front:
     container_name: front
     build:
