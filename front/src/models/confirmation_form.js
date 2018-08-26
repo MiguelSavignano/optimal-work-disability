@@ -39,11 +39,11 @@ export const large = (date_start, estimated_time) => (
 export const calculateDatesList = (date_start, estimated_time) => {
   if ( estimated_time < 5){
     return veryShort(date_start, estimated_time)
-  } else if (estimated_time >= 5 && estimated_time < 30) {
+  } else if (estimated_time >= 5 && estimated_time <= 30) {
     return short(date_start, estimated_time)
-  } else if (estimated_time >= 30 && estimated_time < 60) {
+  } else if (estimated_time > 30 && estimated_time <= 60) {
     return medium(date_start, estimated_time)
-  } else if (estimated_time >=  60) {
+  } else if (estimated_time > 60) {
     return large(date_start, estimated_time)
   }
 }

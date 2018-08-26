@@ -23,3 +23,11 @@ it('.calculateDatesList', () => {
   let response = Model.calculateDatesList("2018-06-01", 150)
   expect(response).toBeInstanceOf(Array)
 });
+
+it('.calculateDatesList 30', () => {
+  let response = Model.calculateDatesList("2018-06-01", 30)
+  expect(response.map(dateFormat)).toMatchObject([
+    '2018-06-08',
+    '2018-06-22'
+  ])
+});
