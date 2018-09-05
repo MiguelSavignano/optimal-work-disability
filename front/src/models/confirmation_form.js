@@ -7,7 +7,8 @@ import moment from "moment"
 const isLessThan = (date_last_form, date_last_day) => date_last_form.format("YYYY-MM-DD") <= date_last_day.format("YYYY-MM-DD")
 
 export const calculateDates = (_date_start, estimated_time, first_add_number, second_add_number) => {
-  const date_start = moment(_date_start)
+  // current date +1 in the time
+  const date_start = moment(_date_start).clone().subtract(1, 'days')
   const date_last_day = date_start.clone().add(estimated_time, 'days')
   var date_last_form = date_start.clone().add(first_add_number, 'days').clone()
   var list_form = [date_last_form]
