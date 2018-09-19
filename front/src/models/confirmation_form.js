@@ -34,7 +34,7 @@ export const medium = (date_start, estimated_time) => (
 )
 
 export const large = (date_start, estimated_time) => (
-  calculateDates(date_start, estimated_time, 7, 35)
+  calculateDates(date_start, estimated_time, 14, 35)
 )
 
 export const calculateDatesList = (date_start, estimated_time) => {
