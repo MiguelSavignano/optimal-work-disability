@@ -10,14 +10,24 @@ heroku login
 heroku container:login
 ```
 
-## Building and pushing image(s)
+## Building image
 ```
 ./dockerbuild.sh
 ```
 
+## Push image
+```
+docker push registry.heroku.com/${HEROKU_APP}/web
+```
 ## Deploy new release
 
 Use latest image for release
 ```
 heroku container:release web
+```
+
+## Snippet
+
+```
+deploy.sh
 ```

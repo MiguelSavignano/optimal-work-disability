@@ -1,5 +1,8 @@
-node_modules
-npm-debug.log
+front/node_modules
+front/npm-debug.log
+front/build
+front/_fixtures
+front/fixtures
 Dockerfile*
 docker-compose*
 .dockerignore

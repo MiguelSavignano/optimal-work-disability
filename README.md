@@ -14,7 +14,7 @@ Applicación para calcular los días de baja óptima según las tablas proporcio
 | FrontEnd                     | React | 16.4.1 |
 
 El servidor web Flask contiene la api.
-El servidor web Flask sirve el index.html de la applicación React.
+El servidor web Flask sirve el index.html y los assets de la applicación React.
 
 ## Instalación
 
@@ -33,10 +33,8 @@ POST /optimal-time
 
 ## Desplegar
 
-Es necesario compilar la applicatión de react para que la pueda servir el web server
 ```
-cd front && npm run build
-
+./deploy.sh
 ```
 ## Info
 http://www.seg-social.es/Internet_1/LaSeguridadSocial/Publicaciones/Publicacionesporcon28156/Informacionsobrepen47075/Incapacidadtemporal/index.htm#documentoXLSM
