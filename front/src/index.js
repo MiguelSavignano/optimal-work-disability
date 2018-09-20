@@ -1,9 +1,11 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react'
+import ReactDOM from 'react-dom'
 import SimpleReactRouter from 'simple-react-router'
-import Home from "./pages/Home"
-import Confirmationform from "./pages/Confirmationform"
-import registerServiceWorker from './registerServiceWorker';
+import registerServiceWorker from './registerServiceWorker'
+import Loadable from 'loadable-react'
+
+const Confirmationform = Loadable(() => import("./pages/Confirmationform"))
+const Home = Loadable(() => import("./pages/Home"))
 
 export default class App extends SimpleReactRouter {
   routes(map){
