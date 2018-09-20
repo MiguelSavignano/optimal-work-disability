@@ -1,8 +1,4 @@
-rm -fr server/web/static
-mkdir server/web/static
-(cd front && npm run build)
-git add .
-git commit -m "upgrade version"
-git push origin master
+HEROKU_APP=incapacidad-temporal-optima
 ./dockerbuild.sh
+docker push registry.heroku.com/${HEROKU_APP}/web
 heroku container:release web
