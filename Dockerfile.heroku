@@ -5,6 +5,9 @@ WORKDIR /app
 
 ENV NODE_ENV=production
 COPY front/package.json /app/package.json
+COPY front/yarn.lock /app/yarn.lock
+COPY front/lib/loadable-react /app/lib/loadable-react
+RUN yarn install --pure-lockfile
 RUN npm install
 COPY front /app/
 RUN node scripts/build.js

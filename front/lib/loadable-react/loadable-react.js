@@ -8,3 +8,6 @@ const MyLoadable = (loader) => {
   })
 }
 export default MyLoadable
+
+// build file with
+// https://babeljs.io/repl

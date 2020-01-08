@@ -1,12 +1,12 @@
 {
   "name": "loadable-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "license": "MIT",
-  "main": "loadable-react.js",
+  "main": "lib/loadable-react.js",
   "author": "Miguel Savignano",
   "files": [
     "package.json",
-    "loadable-react.js"
+    "lib/loadable-react.js"
   ]
 }
