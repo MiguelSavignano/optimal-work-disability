@@ -1,7 +1,7 @@
 app = "incapacidad-temporal-optima"
 
 [build]
-  dockerfile = "Dockerfile.fly"
+  dockerfile = "Dockerfile"
 
 [http_service]
   internal_port = 8080
