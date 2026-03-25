@@ -10,7 +10,7 @@ COPY front /app/
 RUN npm run build
 
 # **** Multistage Server (front assets and api) *******
-FROM python:3.12-slim
+FROM python:3.7-slim
 RUN mkdir /app
 WORKDIR /app
 
