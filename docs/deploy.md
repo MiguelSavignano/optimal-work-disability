@@ -1,29 +1,8 @@
-#Deploy with heroku
+#Deploy with Fly IO
 
-## Heroku login
+## Fly IO login
 ```
-heroku login
-```
-
-## Logging in to the registry
-```
-heroku container:login
-```
-
-## Building image
-```
-./dockerbuild.sh
-```
-
-## Push image
-```
-docker push registry.heroku.com/${HEROKU_APP}/web
-```
-## Deploy new release
-
-Use latest image for release
-```
-heroku container:release web
+fly auth login
 ```
 
 ## Snippet
