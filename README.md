@@ -2,7 +2,7 @@
 # Incapacidad temporal óptima
 
 Applicación para calcular los días de baja óptima según las tablas proporcionadas por la seguridad social.
-[demo](https://incapacidad-temporal-optima.herokuapp.com)
+[demo](https://incapacidad-temporal-optima.fly.dev/)
 
 ## Stack tecnológico
 
@@ -36,6 +36,8 @@ POST /optimal-time
 ```
 ./deploy.sh
 ```
+
 ## Info
+
 http://www.seg-social.es/Internet_1/LaSeguridadSocial/Publicaciones/Publicacionesporcon28156/Informacionsobrepen47075/Incapacidadtemporal/index.htm#documentoXLSM
 http://www.seg-social.es/prdi00/groups/public/documents/binario/122970.pdf

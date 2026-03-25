@@ -1,7 +1,7 @@
 const API_URL =
-  process.env.NODE_ENV == "production"
-    ? "https://incapacidad-temporal-optima.herokuapp.com/"
-    : "http://localhost:5000";
+  process.env.NODE_ENV == 'production'
+    ? 'https://incapacidad-temporal-optima.fly.dev'
+    : 'http://localhost:5000';
 
 export const allDiseases = () => (
   fetch(`${API_URL}/all-diseases`).then(r => r.json())

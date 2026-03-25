@@ -9,9 +9,9 @@ import * as Api from "../models/work_disability"
 import * as UI from "../ui/uikit"
 
 const API_URL =
-process.env.NODE_ENV == "production"
-  ? "https://incapacidad-temporal-optima.herokuapp.com/"
-  : "http://localhost:5000";
+  process.env.NODE_ENV == 'production'
+    ? 'https://incapacidad-temporal-optima.fly.dev'
+    : 'http://localhost:5000';
 
 export default class Home extends Component {
   state = {
