@@ -5,7 +5,7 @@ WORKDIR /app
 
 ENV NODE_ENV=production
 COPY front/package.json /app/package.json
-RUN npm install
+RUN npm install --include=dev
 COPY front /app/
 RUN npm run build
 
@@ -21,7 +21,7 @@ RUN pip3 install -r /app/requirements.txt
 COPY server /app
 
 COPY --from=front /app/build /app/web/static
-COPY --from=front /app/build/index.html /app/server/web/templates/index.html
+COPY --from=front /app/build/index.html /app/web/templates/index.html
 
 EXPOSE 8080
 

@@ -6,9 +6,9 @@
     "moment": "^2.22.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
+    "react-router-dom": "^5.3.4",
     "react-select": "^1.2.1",
-    "react-virtualized-select": "^3.1.3",
-    "simple-react-router": "^0.0.17"
+    "react-virtualized-select": "^3.1.3"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
