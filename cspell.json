@@ -1,0 +1,34 @@
+{
+  "version": "0.2",
+  "language": "en,es",
+  "ignorePaths": [
+    "node_modules",
+    "front/node_modules",
+    "front/build",
+    "*.lock",
+    "*.json"
+  ],
+  "words": [
+    "ocupation",
+    "ocupation_code",
+    "ocupacion",
+    "fullheight",
+    "gunicorn",
+    "psycopg",
+    "graphene",
+    "graphiql",
+    "flask",
+    "werkzeug",
+    "jinja",
+    "bulma",
+    "vite",
+    "tailwind",
+    "Enfermedade",
+    "Enfermedad",
+    "adicional",
+    "obligatorios",
+    "Calcular",
+    "Ayuda",
+    "Confirmationform"
+  ]
+}

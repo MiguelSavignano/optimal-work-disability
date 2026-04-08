@@ -57,3 +57,14 @@ Summary Priority List
 PriorityIssue🔴 CriticalTypo in "Enfermedade adicional"🔴 Critical"Ayuda?" links to wrong page🔴 CriticalNo form validation or error states🟠 HighInconsistent field styling (custom vs. native selects)🟠 HighAvatar icon placement and visual clash🟠 HighOutdated "2018" edition date visible🟡 MediumNo asterisk legend / missing required field explanation🟡 MediumBinary gender options🟡 MediumButton width and CTA sizing🟢 LowPlaceholder contrast / accessibility improvements🟢 LowAdd institutional branding and trust signals
 
 Overall, the app needs a usability audit, a consistency pass on form components, copy editing, and a trust/credibility layer — especially given its medical and legal context. The bones are solid (clean card layout, simple form), but the details undermine confidence in the tool.
+
+## Visual Design & Layout (this session)
+- [x] Remove floating avatar, replace with inline card header icon — `Home.jsx`, `App.scss`
+- [x] Consolidate color palette to single accent (#29b6f6) — `App.scss`
+- [x] Improve typography scale (H1 dominant, subtitle subordinate) — `App.scss`
+- [x] Reduce excessive top padding in form card — `App.scss`
+- [x] Convert two-column age/gender layout to single column — `Home.jsx`
+- [x] Add persistent result area with placeholder text — `Home.jsx`, `App.scss`
+- [x] Add ⓘ tooltips on complex field labels — `Home.jsx`, `App.scss`
+- [x] Add footer branding and copyright note — `_Footer.jsx`, `App.scss`
+- [x] Improve Select placeholder text contrast (WCAG AA) — `App.scss`

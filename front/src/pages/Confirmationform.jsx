@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { calculateDatesList, getLastControlDay } from "../models/confirmation_form";
-import "../css/App.scss";
 import { Footer } from "./_Footer";
 import * as UI from "../ui/uikit";
 
