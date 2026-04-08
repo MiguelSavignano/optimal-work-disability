@@ -1,14 +1,29 @@
-import React from "react"
+import React from "react";
+
 export const Footer = () => (
   <p className="has-text-grey">
-    <a href="http://www.seg-social.es/Internet_1/LaSeguridadSocial/Publicaciones/Publicacionesporcon28156/Informacionsobrepen47075/Incapacidadtemporal/index.htm#documentoXLSM">
+    <a
+      href="https://www.seg-social.es/Internet_1/LaSeguridadSocial/Publicaciones/Publicacionesporcon28156/Informacionsobrepen47075/Incapacidadtemporal/index.htm#documentoXLSM"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
       Más información
-    </a>{" "}
-    &nbsp;·&nbsp;
-    <a href="http://www.seg-social.es/prdi00/groups/public/documents/binario/122970.pdf">
+    </a>
+    <span aria-hidden="true">&nbsp;·&nbsp;</span>
+    <a
+      href="https://www.seg-social.es/prdi00/groups/public/documents/binario/122970.pdf"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
       Manual de Tiempos Óptimos de Incapacidad Temporal.
-    </a>{" "}
-    &nbsp;·&nbsp;
-    <a href="http://www.seg-social.es">Ayuda?</a>
+    </a>
+    <span aria-hidden="true">&nbsp;·&nbsp;</span>
+    <a
+      href="https://www.seg-social.es"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Ayuda?
+    </a>
   </p>
-)
+);
