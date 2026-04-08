@@ -1,59 +1,70 @@
-import moment from "moment"
-// @params date_start: String
+// Native Date helpers — no moment dependency
+
+const addDays = (date, days) => new Date(date.getTime() + days * 86400000);
+
+const toISO = (date) => {
+  const yyyy = date.getFullYear();
+  const mm = String(date.getMonth() + 1).padStart(2, '0');
+  const dd = String(date.getDate()).padStart(2, '0');
+  return `${yyyy}-${mm}-${dd}`;
+};
+
+const isLessThanOrEqual = (dateA, dateB) => toISO(dateA) <= toISO(dateB);
+
+// @params _date_start: String (YYYY-MM-DD)
 // @params estimated_time: Number
 // @params first_add_number: Number
 // @params second_add_number: Number
-// @return [Moment]
-const isLessThan = (date_last_form, date_last_day) => date_last_form.format("YYYY-MM-DD") <= date_last_day.format("YYYY-MM-DD")
-
+// @return string[] — ISO date strings
 export const calculateDates = (_date_start, estimated_time, first_add_number, second_add_number) => {
-  // current date +1 in the time
-  const date_start = moment(_date_start).clone().subtract(1, 'days')
-  const date_last_day = date_start.clone().add(estimated_time, 'days')
-  var date_last_form = date_start.clone().add(first_add_number, 'days').clone()
-  var list_form = [date_last_form]
-  while (isLessThan(date_last_form, date_last_day)) {
-    date_last_form = date_last_form.clone().add(second_add_number, 'days').clone()
-    if (isLessThan(date_last_form, date_last_day)){
-      list_form.push(date_last_form)
+  // Mirror original moment logic: start = date_start - 1 day
+  const date_start = addDays(new Date(_date_start), -1);
+  const date_last_day = addDays(date_start, Number(estimated_time));
+
+  let date_last_form = addDays(date_start, first_add_number);
+  const list_form = [date_last_form];
+
+  while (isLessThanOrEqual(date_last_form, date_last_day)) {
+    date_last_form = addDays(date_last_form, second_add_number);
+    if (isLessThanOrEqual(date_last_form, date_last_day)) {
+      list_form.push(date_last_form);
     }
   }
-  return list_form
-}
 
-export const veryShort = (date_start, estimated_time) => (
-  []
-)
+  return list_form.map(toISO);
+};
 
-export const short = (date_start, estimated_time) => (
-  calculateDates(date_start, estimated_time, 7, 14)
-)
+export const veryShort = (_date_start, estimated_time) => [];
 
-export const medium = (date_start, estimated_time) => (
-  calculateDates(date_start, estimated_time, 7, 28)
-)
+export const short = (date_start, estimated_time) =>
+  calculateDates(date_start, estimated_time, 7, 14);
 
-export const large = (date_start, estimated_time) => (
-  calculateDates(date_start, estimated_time, 14, 35)
-)
+export const medium = (date_start, estimated_time) =>
+  calculateDates(date_start, estimated_time, 7, 28);
 
+export const large = (date_start, estimated_time) =>
+  calculateDates(date_start, estimated_time, 14, 35);
+
+// @return string[] — ISO date strings
 export const calculateDatesList = (date_start, estimated_time) => {
-  if ( estimated_time < 5){
-    return veryShort(date_start, estimated_time)
-  } else if (estimated_time >= 5 && estimated_time <= 30) {
-    return short(date_start, estimated_time)
-  } else if (estimated_time > 30 && estimated_time <= 60) {
-    return medium(date_start, estimated_time)
-  } else if (estimated_time > 60) {
-    return large(date_start, estimated_time)
+  const n = Number(estimated_time);
+  if (n < 5) {
+    return veryShort(date_start, n);
+  } else if (n >= 5 && n <= 30) {
+    return short(date_start, n);
+  } else if (n > 30 && n <= 60) {
+    return medium(date_start, n);
+  } else if (n > 60) {
+    return large(date_start, n);
   }
-}
+  return [];
+};
 
+// @return string | null — ISO date string or null
 export const getLastControlDay = (_date_start, estimated_time) => {
-  const date_start = moment(_date_start)
-  if (estimated_time >= 315) {
-    return date_start.clone().add(estimated_time, 'days')
-  } else {
-    return null
+  const n = Number(estimated_time);
+  if (n >= 315) {
+    return toISO(addDays(new Date(_date_start), n));
   }
-}
+  return null;
+};

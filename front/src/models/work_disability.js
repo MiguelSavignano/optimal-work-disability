@@ -1,7 +1,4 @@
-const API_URL =
-  process.env.NODE_ENV == 'production'
-    ? 'https://incapacidad-temporal-optima.fly.dev'
-    : 'http://localhost:5000';
+import { API_URL } from '../config';
 
 export const allDiseases = () => (
   fetch(`${API_URL}/all-diseases`).then(r => r.json())
@@ -19,21 +16,18 @@ export const allOcupation = () => (
   fetch(`${API_URL}/all-ocupation`).then(r => r.json())
 )
 
-// export const optimalTime = (data,) => {
-//   var self = this;
-
-//   var xhr = new XMLHttpRequest();
-//   xhr.withCredentials = false;
-
-//   xhr.addEventListener("readystatechange", function() {
-//     if (this.readyState === 4) {
-//       self.setState({ result: JSON.parse(this.responseText).result });
-//     }
-//   });
-
-//   xhr.open("POST", `${API_URL}/optimal-time`);
-//   xhr.setRequestHeader("content-type", "application/json");
-//   xhr.setRequestHeader("cache-control", "no-cache");
-
-//   xhr.send(data);
-// }
+export const submitOptimalTime = async (formData) => {
+  const response = await fetch(`${API_URL}/optimal-time`, {
+    method: 'POST',
+    headers: {
+      'content-type': 'application/json',
+      'cache-control': 'no-cache',
+    },
+    body: JSON.stringify(formData),
+  });
+  if (!response.ok) {
+    throw new Error(`Server error: ${response.status}`);
+  }
+  const json = await response.json();
+  return json.result;
+};
